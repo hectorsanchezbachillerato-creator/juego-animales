@@ -94,6 +94,7 @@ function rebindTodosListeners() {
   renderizarPanelPartes();
     document.getElementById("btnFallos").addEventListener("click", mostrarFallos);
   iniciarToggleFalladas();
+    iniciarToggleFolio();
     document.getElementById("btnRepasarFallos").addEventListener("click", repasarFallos);
   actualizarBotonFallos();
   document.getElementById("btnMarcarTodo").addEventListener("click", marcarTodasCategorias);
@@ -413,12 +414,14 @@ function renderizarAnimalEnPantalla() {
 
 // ▒▒▒ R A C H A ▒▒▒
 function aumentarRacha() {
+    if (modoFolioActivo()) return;
   racha++;
   actualizarRachaUI();
 }
 
 // ▒▒▒ CONTADORES ▒▒▒
 function resetearRacha() {
+    if (modoFolioActivo()) return;
   racha = 0;
   actualizarRachaUI();
 }
@@ -586,7 +589,34 @@ function finalizarExamen() {
   if (!window.htmlOriginalEstructura) {
     window.htmlOriginalEstructura = document.body.innerHTML;
   }
+  // MODO FOLIO: se enseñan las soluciones, pero no se guarda nada
+  if (modoFolioActivo()) {
+    parteActual = null;
+    let filasFolio = "";
+    respuestasExamen.forEach(r => {
+      const imagenMostrada = r.animal.imagenSeleccionadaExamen || r.animal.imagen;
+      filasFolio += `
+      <tr>
+        <td><img src="imagenes/${imagenMostrada}" width="80"></td>
+        <td>${r.animal.nombreCient}</td>
+        <td>${r.animal.nombreComun}</td>
+      </tr>`;
+    });
 
+    document.body.innerHTML = `
+      <h2>Examen terminado (modo folio)</h2>
+      <p>No se ha guardado nada: ni nota, ni fallos, ni historial.</p>
+      <table border='1' style='margin:auto;border-collapse:collapse'>
+        <tr><th>Imagen</th><th>Nombre científico</th><th>Nombre común</th></tr>
+        ${filasFolio}
+      </table>
+      <br><br>
+      <button onclick="location.reload()" style="font-size:20px; padding:10px 20px; cursor:pointer;">
+        Volver al menú
+      </button>`;
+    window.scrollTo(0, 0);
+    return;
+  }
   let correctos = 0;
   let filas = "";
 
@@ -862,6 +892,7 @@ function iniciarExamenFalladas() {
 // Guarda o quita la especie del banco de fallos (solo si el interruptor está activado)
 // Cuenta el intento en las estadísticas y, si el interruptor está activado, actualiza el banco de fallos
 function registrarFalladaPersistente(animal, cientUsuario) {
+    if (modoFolioActivo()) return; // modo folio: no se guarda nada
   const ok = (cientUsuario || "").trim().toLowerCase() === animal.nombreCient.trim().toLowerCase();
 
   // Contadores a largo plazo: siempre, tenga o no el interruptor activado
@@ -1234,4 +1265,18 @@ function examenMasFalladas(especies) {
   if (btn) btn.textContent = "Modo Examen: ON";
 
   iniciarExamen(lista);
+}
+// ▒▒▒ MODO FOLIO (escribes en papel: no se cuenta nada) ▒▒▒
+function modoFolioActivo() {
+  return localStorage.getItem('modoFolio') === 'si';
+}
+
+function iniciarToggleFolio() {
+  const chk = document.getElementById("chkModoFolio");
+  if (!chk) return;
+
+  chk.checked = modoFolioActivo();
+  chk.addEventListener("change", () => {
+    localStorage.setItem('modoFolio', chk.checked ? 'si' : 'no');
+  });
 }
