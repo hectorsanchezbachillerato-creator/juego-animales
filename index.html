@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Juego de Animales</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+   <header id="cabecera">
+    <h1>🌿 Juego de Animales</h1>
+    <div id="stats">
+      <div id="contenedor-buscador">
+        <label for="buscador">🔍</label>
+        <input type="text" id="buscador" autocomplete="off" placeholder="Buscar por nombre común o científico...">
+      </div>
+      <span id="racha">🔥 Racha: 0</span>
+      <span id="contador">Animales restantes: 0</span>
+      <button id="btnHistorial">📊 Historial</button>
+      <button id="btnMasFalladas">🎯 Más falladas</button>
+    </div>
+  </header>
+
+  <div id="layout">
+
+    <!-- ▒▒▒ Columna izquierda: controles ▒▒▒ -->
+    <aside id="panelLateral">
+
+      <section id="topbar">
+
+        <div id="categorias" class="tarjeta">
+          <div class="chips">
+            <label><input type="checkbox" value="pajaro">Aves</label>
+            <label><input type="checkbox" value="mamifero">Mamíferos</label>
+            <label><input type="checkbox" value="reptil">Reptiles</label>
+            <label><input type="checkbox" value="anfibio">Anfibios</label>
+            <label><input type="checkbox" value="hongo">Hongos</label>
+            <label><input type="checkbox" value="fosil">Fósiles</label>
+            <label><input type="checkbox" value="planta">Plantas</label>
+            <label><input type="checkbox" value="herbacea">Herbáceas</label>
+            <label><input type="checkbox" value="roca">Rocas</label>
+            <label><input type="checkbox" value="mineral">Minerales</label>
+            <label><input type="checkbox" value="alga">Algas</label>
+            <label><input type="checkbox" value="pez">Peces</label>
+            <label><input type="checkbox" value="invermarino">Invertebrados marinos</label>
+            <label><input type="checkbox" value="inverterrestre">Invertebrados terrestres</label>
+          </div>
+
+          <div class="acciones">
+            <button id="btnMarcarTodo">Marcar todo</button>
+  
+            <button id="btnCargar">Cargar imágenes</button>
+          </div>
+        </div>
+
+        <div id="modos" class="tarjeta">
+          <div class="grupo">
+            <button id="btnRepaso1">Repaso 1: OFF</button>
+            <button id="btnRepaso2">Repaso 2: OFF</button>
+            <button id="btnRepaso3">Repaso 3: OFF</button>
+            <button id="marcarDificil">Practicar difíciles ⭐</button>
+          </div>
+
+          <div class="grupo">
+            <button id="modoExamen">Modo Examen: OFF</button>
+          </div>
+
+          <div class="grupo">
+            <button id="btnExamenTodo">Examen global</button>
+          </div>
+
+          <div class="grupo">
+            <label id="toggleFalladas" class="interruptor" title="Si está activado, las que falles se guardan en Fallos">
+              <input type="checkbox" id="chkGuardarFalladas">
+              <span class="pista"></span>
+              <span>Guardar falladas</span>
+            </label>
+          </div>
+
+          <div class="grupo">
+            <button id="btnFallos">🔍 Fallos (0)</button>
+            <button id="btnRepasarFallos">📝 Repasar</button>
+          </div>
+
+          <span id="preguntaActual"></span>
+
+          <div id="panelPartes"></div>
+        </div>
+
+      </section>
+
+     
+
+    </aside>
+
+    <!-- ▒▒▒ Columna derecha: juego ▒▒▒ -->
+    <main id="panelJuego">
+
+      <div class="examen-info">
+        <div id="contadorExamen"></div>
+        <div id="timer"></div>
+      </div>
+
+      <div class="zona-juego">
+
+        <div id="divTextos">
+
+          <div class="bloque">
+            <h2>Nombre Común</h2>
+            <input type="text" id="idComun" autocomplete="off">
+            <button onclick="resolverComun()">Resolver</button>
+            <h3 id="resueltoComun"></h3>
+          </div>
+
+          <div class="bloque">
+            <h2>Nombre Científico</h2>
+            <input type="text" id="idCientifico" autocomplete="off">
+            <button onclick="resolverCientifico()">Resolver</button>
+            <h3 id="resueltoCientifico"></h3>
+          </div>
+
+          <button id="btnNuevo">Nuevo animal (Shift derecho)</button>
+        </div>
+
+        <div id="divFoto">
+          <img id="foto" src="">
+        </div>
+
+      </div>
+
+    </main>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

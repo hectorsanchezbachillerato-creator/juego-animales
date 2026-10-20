@@ -1,0 +1,3469 @@
+categoria,nombreComun,nombreCient,imagen,repaso,incluir
+pajaro,Azor común,Accipiter gentilis,Azor1.jpg,1,si
+pajaro,Azor común,Accipiter gentilis,Azor2.jpg,1,si
+pajaro,Azor común,Accipiter gentilis,Azor3.jpg,1,si
+pajaro,Azor común,Accipiter gentilis,Azor4.jpg,1,si
+pajaro,Gavilán común,Accipiter nisus,Gavilan1.jpg,1,si
+pajaro,Gavilán común,Accipiter nisus,Gavilan2.webp,1,si
+pajaro,Gavilán común,Accipiter nisus,Gavilan3.jpg,1,si
+pajaro,Gavilán común,Accipiter nisus,gavilan4.webp,1,si
+pajaro,Buitre leonado,Gyps fulvus,bleonado1.jpg,1,si
+pajaro,Buitre leonado,Gyps fulvus,bleonado2.jpg,1,si
+pajaro,Buitre leonado,Gyps fulvus,bleonado3.jpg,1,si
+pajaro,Buitre leonado,Gyps fulvus,bleonado4.jpg,1,si
+pajaro,Buitre negro,Aegypius monachus,bnegro1.webp,1,si
+pajaro,Buitre negro,Aegypius monachus,bnegro2.jpg,1,si
+pajaro,Buitre negro,Aegypius monachus,bnegro3.jpg,1,si
+pajaro,Buitre negro,Aegypius monachus,bnegro4.png,1,si
+pajaro,Quebrantahuesos,Gypaetus barbatus,quebranta1.jpg,0,no
+pajaro,Quebrantahuesos,Gypaetus barbatus,quebranta2.jpg,0,no
+pajaro,Quebrantahuesos,Gypaetus barbatus,quebranta3.jpg,0,no
+pajaro,Quebrantahuesos,Gypaetus barbatus,quebranta4.jpg,0,no
+pajaro,Alimoche,Neophron percnopterus,alimoche1.jpg,0,no
+pajaro,Alimoche,Neophron percnopterus,alimoche2.jpg,0,no
+pajaro,Alimoche,Neophron percnopterus,alimoche3.jpg,0,no
+pajaro,Alimoche,Neophron percnopterus,alimoche4.jpg,0,no
+pajaro,Milano real,Milvus milvus,mmilvus1.jpg,1,si
+pajaro,Milano real,Milvus milvus,mmilvus2.jpg,1,si
+pajaro,Milano real,Milvus milvus,mmilvus3.jpg,1,si
+pajaro,Milano real,Milvus milvus,mmilvus4.jpg,1,si
+pajaro,Milano negro,Milvus migrans,mmigrans1.jpg,1,si
+pajaro,Milano negro,Milvus migrans,mmigrans2.jpg,1,si
+pajaro,Milano negro,Milvus migrans,mmigrans3.jpg,1,si
+pajaro,Milano negro,Milvus migrans,mmigrans4.jpg,1,si
+pajaro,Culebrera europea,Circaetus gallicus,culebrera1.jpg,0,no
+pajaro,Culebrera europea,Circaetus gallicus,culebrera2.jpg,0,no
+pajaro,Culebrera europea,Circaetus gallicus,culebrera3.jpg,0,no
+pajaro,Culebrera europea,Circaetus gallicus,culebrera4.jpg,0,no
+pajaro,Abejero común,Pernis apivorus,abejero1.webp,0,no
+pajaro,Abejero común,Pernis apivorus,abejero2.jpg,0,no
+pajaro,Abejero común,Pernis apivorus,abejero3.jpg,0,no
+pajaro,Abejero común,Pernis apivorus,abejero4.jpg,0,no
+pajaro,Águila calzada,Hieraaetus pennatus,calzada1.jpg,0,no
+pajaro,Águila calzada,Hieraaetus pennatus,calzada2.jpg,0,no
+pajaro,Águila calzada,Hieraaetus pennatus,calzada3.jpg,0,no
+pajaro,Águila calzada,Hieraaetus pennatus,calzada4.jpg,0,no
+pajaro,Busardo ratonero,Buteo buteo,busardo1.jpg,0,no
+pajaro,Busardo ratonero,Buteo buteo,busardo2.jpg,0,no
+pajaro,Busardo ratonero,Buteo buteo,busardo3.jpg,0,no
+pajaro,Busardo ratonero,Buteo buteo,busardo4.jpg,0,no
+pajaro,Águila pescadora,Pandion haliaetus,pescadora1.webp,0,no
+pajaro,Águila pescadora,Pandion haliaetus,pescadora2.jpg,0,no
+pajaro,Águila pescadora,Pandion haliaetus,pescadora3.jpg,0,no
+pajaro,Águila pescadora,Pandion haliaetus,pescadora4.jpg,0,no
+pajaro,Halcón peregrino,Falco peregrinus,halcon1.jpg,0,no
+pajaro,Halcón peregrino,Falco peregrinus,halcon2.jpg,0,no
+pajaro,Halcón peregrino,Falco peregrinus,halcon3.jpg,0,no
+pajaro,Halcón peregrino,Falco peregrinus,halcon4.jpg,0,no
+pajaro,Cernícalo vulgar,Falco tinnunculus,cernivulgar1.jpg,1,si
+pajaro,Cernícalo vulgar,Falco tinnunculus,cernivulgar2.jpg,1,si
+pajaro,Cernícalo vulgar,Falco tinnunculus,cernivulgar3.jpg,1,si
+pajaro,Cernícalo vulgar,Falco tinnunculus,cernivulgar4.jpg,1,si
+pajaro,Cernícalo primilla,Falco naumanni,cerniprimilla1.webp,1,si
+pajaro,Cernícalo primilla,Falco naumanni,cerniprimilla2.jpg,1,si
+pajaro,Cernícalo primilla,Falco naumanni,cerniprimilla3.jpg,1,si
+pajaro,Cernícalo primilla,Falco naumanni,cerniprimilla4.jpg,1,si
+pajaro,Lechuza común,Tyto alba,lechuza1.jpg,1,si
+pajaro,Lechuza común,Tyto alba,lechuza2.jpg,1,si
+pajaro,Lechuza común,Tyto alba,lechuza3.jpg,1,si
+pajaro,Lechuza común,Tyto alba,lechuza4.jpg,1,si
+pajaro,Egagrópila de lechuza,Egagrópila de Tyto alba,egagro1.jpg,1,si
+pajaro,Egagrópila de lechuza,Egagrópila de Tyto alba,egagro2.png,1,si
+pajaro,Egagrópila de lechuza,Egagrópila de Tyto alba,egagro3.jpg,1,si
+pajaro,Egagrópila de búho,Egagrópila de Bubo bubo,egagropi1.jpg,1,si
+pajaro,Egagrópila de búho,Egagrópila de Bubo bubo,egagropi2.jpg,1,si
+pajaro,Egagrópila de búho,Egagrópila de Bubo bubo,egagropi3.jpg,1,si
+pajaro,Búho real,Bubo bubo,buhoreal1.jpg,1,si
+pajaro,Búho real,Bubo bubo,buhoreal2.jpg,1,si
+pajaro,Búho real,Bubo bubo,buhoreal3.jpg,1,si
+pajaro,Búho real,Bubo bubo,buhoreal4.jpg,1,si
+pajaro,Búho chico,Asio otus,buhochico1.jpg,1,si
+pajaro,Búho chico,Asio otus,buhochico2.jpg,1,si
+pajaro,Búho chico,Asio otus,buhochico3.jpg,1,si
+pajaro,Búho chico,Asio otus,buhochico4.webp,1,si
+pajaro,Autillo europeo,Otus scops,autillo1.jpg,1,si
+pajaro,Autillo europeo,Otus scops,autillo2.jpg,1,si
+pajaro,Autillo europeo,Otus scops,autillo3.jpg,1,si
+pajaro,Cárabo común,Strix aluco,carabo1.jpg,1,si
+pajaro,Cárabo común,Strix aluco,carabo2.jpg,1,si
+pajaro,Cárabo común,Strix aluco,carabo3.jpg,1,si
+pajaro,Mochuelo común,Athene noctua,mochuelo1.jpg,1,si
+pajaro,Mochuelo común,Athene noctua,mochuelo2.jpg,1,si
+pajaro,Mochuelo común,Athene noctua,mochuelo3.jpg,1,si
+pajaro,Arrendajo,Garrulus glandarius,arrendajo1.jpg,1,si
+pajaro,Arrendajo,Garrulus glandarius,arrendajo2.jpg,1,si
+pajaro,Arrendajo,Garrulus glandarius,arrendajo3.jpg,1,si
+pajaro,Arrendajo,Garrulus glandarius,arrendajo4.jpg,1,si
+pajaro,Urraca,Pica pica,urraca1.jpg,1,si
+pajaro,Urraca,Pica pica,urraca2.jpg,1,si
+pajaro,Urraca,Pica pica,urraca3.webp,1,si
+pajaro,Urraca,Pica pica,urraca4.jpg,1,si
+pajaro,Rabilargo ibérico,Cyanopica cooki,cooki1.jpg,1,si
+pajaro,Rabilargo ibérico,Cyanopica cooki,cooki2.png,1,si
+pajaro,Rabilargo ibérico,Cyanopica cooki,cooki3.jpg,1,si
+pajaro,Rabilargo ibérico,Cyanopica cooki,cooki4.jpg,1,si
+pajaro,Cuervo,Corvus corax,cuervo1.jpg,1,si
+pajaro,Cuervo,Corvus corax,cuervo2.jpg,1,si
+pajaro,Cuervo,Corvus corax,cuervo3.jpg,1,si
+pajaro,Cuervo,Corvus corax,cuervo4.jpg,1,si
+pajaro,Grajilla,Corvus monedula,grajilla1.jpg,1,si
+pajaro,Grajilla,Corvus monedula,grajilla2.jpg,1,si
+pajaro,Grajilla,Corvus monedula,grajilla3.jpg,1,si
+pajaro,Grajilla,Corvus monedula,grajilla4.jpg,1,si
+pajaro,Garza blanca,Ardea alba,garzablanca1.jpg,1,si
+pajaro,Garza blanca,Ardea alba,garzablanca2.jpg,1,si
+pajaro,Garza blanca,Ardea alba,garzablanca3.jpg,1,si
+pajaro,Garza blanca,Ardea alba,garzablanca4.jpg,1,si
+pajaro,Garza real,Ardea cinerea,garzaimp1.jpg,1,si
+pajaro,Garza real,Ardea cinerea,garzaimp2.jpg,1,si
+pajaro,Garza real,Ardea cinerea,garzaimp3.jpg,1,si
+pajaro,Garza real,Ardea cinerea,garzaimp4.jpg,1,si
+pajaro,Garza imperial,Ardea purpurea,garza1.jpg,1,si
+pajaro,Garza imperial,Ardea purpurea,garza2.jpg,1,si
+pajaro,Garza imperial,Ardea purpurea,garza3.jpg,1,si
+pajaro,Garza imperial,Ardea purpurea,garza4.jpg,1,si
+pajaro,Garceta común,Egretta garzetta,garceta1.jpg,1,si
+pajaro,Garceta común,Egretta garzetta,garceta2.jpg,1,si
+pajaro,Garceta común,Egretta garzetta,garceta3.jpg,1,si
+pajaro,Garcilla bueyera,Bubulcus ibis,garcillabu1.jpg,1,si
+pajaro,Garcilla bueyera,Bubulcus ibis,garcillabu2.jpg,1,si
+pajaro,Garcilla bueyera,Bubulcus ibis,garcillabu3.jpg,1,si
+pajaro,Garcilla cangrejera,Ardeola ralloides,garcillaca1.jpg,0,no
+pajaro,Garcilla cangrejera,Ardeola ralloides,garcillaca2.jpg,0,no
+pajaro,Garcilla cangrejera,Ardeola ralloides,garcillaca3.jpg,0,no
+pajaro,Garcilla cangrejera,Ardeola ralloides,garcillaca4.jpg,0,no
+pajaro,Avetoro común,Botaurus stellaris,avetoro1.jpg,0,no
+pajaro,Avetoro común,Botaurus stellaris,avetoro2.jpg,0,no
+pajaro,Avetoro común,Botaurus stellaris,avetoro3.jpg,0,no
+pajaro,Avetoro común,Botaurus stellaris,avetoro4.jpg,0,no
+pajaro,Avetorillo común,Ixobrychus minutus,avetorillo1.jpg,0,no
+pajaro,Avetorillo común,Ixobrychus minutus,avetorillo2.jpg,0,no
+pajaro,Avetorillo común,Ixobrychus minutus,avetorillo3.jpg,0,no
+pajaro,Avetorillo común,Ixobrychus minutus,avetorillo4.jpg,0,no
+pajaro,Martinete común,Nycticorax nycticorax,martinete1.jpg,0,no
+pajaro,Martinete común,Nycticorax nycticorax,martinete2.jpg,0,no
+pajaro,Martinete común,Nycticorax nycticorax,martinete3.jpg,0,no
+pajaro,Martinete común,Nycticorax nycticorax,martinete4.jpg,0,no
+pajaro,Zampullín común,Tachybaptus ruficollis,zampucomun1.jpg,0,no
+pajaro,Zampullín común,Tachybaptus ruficollis,zampucomun2.jpg,0,no
+pajaro,Zampullín común,Tachybaptus ruficollis,zampucomun3.jpg,0,no
+pajaro,Zampullín común,Tachybaptus ruficollis,zampucomun4.jpg,0,no
+pajaro,Somormujo lavanco,Podiceps cristatus,somormujo1.jpg,0,no
+pajaro,Somormujo lavanco,Podiceps cristatus,somormujo2.jpg,0,no
+pajaro,Somormujo lavanco,Podiceps cristatus,somormujo3.jpg,0,no
+pajaro,Somormujo lavanco,Podiceps cristatus,somormujo4.jpg,0,no
+pajaro,Zampullín cuellinegro,Podiceps nigricollis,zampunegro1.jpg,0,no
+pajaro,Zampullín cuellinegro,Podiceps nigricollis,zampunegro2.jpg,0,no
+pajaro,Zampullín cuellinegro,Podiceps nigricollis,zampunegro3.jpg,0,no
+pajaro,Zampullín cuellinegro,Podiceps nigricollis,zampunegro4.jpg,0,no
+pajaro,Zampullín cuellirojo,Podiceps auritus,zampurojo1.jpg,0,no
+pajaro,Zampullín cuellirojo,Podiceps auritus,zampurojo2.jpg,0,no
+pajaro,Zampullín cuellirojo,Podiceps auritus,zampurojo3.jpg,0,no
+pajaro,Zampullín cuellirojo,Podiceps auritus,zampurojo4.jpg,0,no
+pajaro,Pato mandarín,Aix galericulata,mandarin1.jpg,0,no
+pajaro,Pato mandarín,Aix galericulata,mandarin2.jpg,0,no
+pajaro,Pato mandarín,Aix galericulata,mandarin3.jpg,0,no
+pajaro,Pato mandarín,Aix galericulata,mandarin4.jpg,0,no
+pajaro,Pato colorado,Netta rufina,colorado1.jpg,0,no
+pajaro,Pato colorado,Netta rufina,colorado2.jpg,0,no
+pajaro,Pato colorado,Netta rufina,colorado3.jpg,0,no
+pajaro,Pato colorado,Netta rufina,colorado4.jpg,0,no
+pajaro,Malvasía cabeciblanca,Oxyura leucocephala,malvasia1.jpg,0,no
+pajaro,Malvasía cabeciblanca,Oxyura leucocephala,malvasia2.jpg,0,no
+pajaro,Malvasía cabeciblanca,Oxyura leucocephala,malvasia3.jpg,0,no
+pajaro,Malvasía cabeciblanca,Oxyura leucocephala,malvasia4.jpg,0,no
+pajaro,Ánade rabudo,Anas acuta,anasrabu1.jpg,0,no
+pajaro,Ánade rabudo,Anas acuta,anasrabu2.jpg,0,no
+pajaro,Ánade rabudo,Anas acuta,anasrabu3.jpg,0,no
+pajaro,Ánade rabudo,Anas acuta,anasrabu4.jpg,0,no
+pajaro,Cerceta común,Anas crecca,cerceta1.jpg,2,si
+pajaro,Cerceta común,Anas crecca,cerceta2.jpg,2,si
+pajaro,Cerceta común,Anas crecca,cerceta3.png,2,si
+pajaro,Cerceta común,Anas crecca,cerceta4.jpg,2,si
+pajaro,Ánade azulón,Anas platyrhynchos,pato1.jpg,2,si
+pajaro,Ánade azulón,Anas platyrhynchos,pato2.jpg,2,si
+pajaro,Ánade azulón,Anas platyrhynchos,pato3.jpg,2,si
+pajaro,Ánade azulón,Anas platyrhynchos,pato4.jpg,2,si
+pajaro,Silbón europeo,Mareca penelope,silbon1.jpg,0,no
+pajaro,Silbón europeo,Mareca penelope,silbon2.jpg,0,no
+pajaro,Silbón europeo,Mareca penelope,silbon3.jpg,0,no
+pajaro,Silbón europeo,Mareca penelope,silbon4.jpg,0,no
+pajaro,Ánade friso,Mareca strepera,friso1.jpg,0,no
+pajaro,Ánade friso,Mareca strepera,friso2.jpg,0,no
+pajaro,Ánade friso,Mareca strepera,friso3.jpg,0,no
+pajaro,Ánade friso,Mareca strepera,friso4.jpg,0,no
+pajaro,Cuchara común,Spatula clypeata,cuchara1.jpg,0,no
+pajaro,Cuchara común,Spatula clypeata,cuchara2.jpg,0,no
+pajaro,Cuchara común,Spatula clypeata,cuchara3.jpg,0,no
+pajaro,Cuchara común,Spatula clypeata,cuchara4.jpg,0,no
+pajaro,Cerceta carretona,Spatula querquedula,carretona1.jpg,0,no
+pajaro,Cerceta carretona,Spatula querquedula,carretona2.jpg,0,no
+pajaro,Cerceta carretona,Spatula querquedula,carretona3.jpg,0,no
+pajaro,Cerceta carretona,Spatula querquedula,carretona4.jpg,0,no
+pajaro,Porrón europeo,Aythya ferina,porroeuro1.jpg,2,si
+pajaro,Porrón europeo,Aythya ferina,porroeuro2.jpg,2,si
+pajaro,Porrón europeo,Aythya ferina,porroeuro3.jpg,2,si
+pajaro,Porrón europeo,Aythya ferina,porroeuro4.jpg,2,si
+pajaro,Porrón moñudo,Aythya fuligula,monudo1.jpg,0,no
+pajaro,Porrón moñudo,Aythya fuligula,monudo2.jpg,0,no
+pajaro,Porrón moñudo,Aythya fuligula,monudo3.jpg,0,no
+pajaro,Porrón moñudo,Aythya fuligula,monudo4.jpg,0,no
+pajaro,Porrón pardo,Aythya nyroca,porropardo1.jpg,0,no
+pajaro,Porrón pardo,Aythya nyroca,porropardo2.jpg,0,no
+pajaro,Porrón pardo,Aythya nyroca,porropardo3.jpg,0,no
+pajaro,Porrón pardo,Aythya nyroca,porropardo4.jpg,0,no
+pajaro,Negrón común,Melanitta nigra,negron1.jpg,0,no
+pajaro,Negrón común,Melanitta nigra,negron2.jpg,0,no
+pajaro,Negrón común,Melanitta nigra,negron3.jpg,0,no
+pajaro,Negrón común,Melanitta nigra,negron4.jpg,0,no
+pajaro,Serreta mediana,Mergus serrator,serreta1.jpg,0,no
+pajaro,Serreta mediana,Mergus serrator,serreta2.jpg,0,no
+pajaro,Serreta mediana,Mergus serrator,serreta3.jpg,0,no
+pajaro,Serreta mediana,Mergus serrator,serreta4.jpg,0,no
+pajaro,Éider común,Somateria mollissima,eider1.jpg,0,no
+pajaro,Éider común,Somateria mollissima,eider2.jpg,0,no
+pajaro,Éider común,Somateria mollissima,eider3.jpg,0,no
+pajaro,Éider común,Somateria mollissima,eider4.jpg,0,no
+pajaro,Cerceta pardilla,Marmaronetta angustirostris,pardilla1.jpg,0,no
+pajaro,Cerceta pardilla,Marmaronetta angustirostris,pardilla2.jpg,0,no
+pajaro,Cerceta pardilla,Marmaronetta angustirostris,pardilla3.jpg,0,no
+pajaro,Cerceta pardilla,Marmaronetta angustirostris,pardilla4.jpg,0,no
+pajaro,Tarro blanco,Tadorna tadorna,tarro1.jpg,0,no
+pajaro,Tarro blanco,Tadorna tadorna,tarro2.jpg,0,no
+pajaro,Tarro blanco,Tadorna tadorna,tarro3.jpg,0,no
+pajaro,Tarro blanco,Tadorna tadorna,tarro4.jpg,0,no
+pajaro,Cigüeña blanca,Ciconia ciconia,ciconia1.jpg,2,si
+pajaro,Cigüeña blanca,Ciconia ciconia,ciconia2.jpg,2,si
+pajaro,Cigüeña blanca,Ciconia ciconia,ciconia3.jpg,2,si
+pajaro,Cigüeña blanca,Ciconia ciconia,ciconia4.jpg,2,si
+pajaro,Egagrópila de cigüeña,Egagrópila de Ciconia ciconia,egagropila1.jpg,2,si
+pajaro,Egagrópila de cigüeña,Egagrópila de Ciconia ciconia,egagropila2.jpg,2,si
+pajaro,Cigüeña negra,Ciconia nigra,ciconigra1.jpg,0,no
+pajaro,Cigüeña negra,Ciconia nigra,ciconigra2.jpg,0,no
+pajaro,Cigüeña negra,Ciconia nigra,ciconigra3.jpg,0,no
+pajaro,Cigüeña negra,Ciconia nigra,ciconigra4.jpg,0,no
+pajaro,Morito común,Plegadis falcinellus,morito1.jpg,0,no
+pajaro,Morito común,Plegadis falcinellus,morito2.jpg,0,no
+pajaro,Morito común,Plegadis falcinellus,morito3.jpg,0,no
+pajaro,Morito común,Plegadis falcinellus,morito4.jpg,0,no
+pajaro,Espátula común,Platalea leucorodia,espatula1.jpg,0,no
+pajaro,Espátula común,Platalea leucorodia,espatula2.jpg,0,no
+pajaro,Espátula común,Platalea leucorodia,espatula3.jpg,0,no
+pajaro,Espátula común,Platalea leucorodia,espatula4.jpg,0,no
+pajaro,Flamenco común,Phoenicopterus roseus,flamenco1.jpg,2,si
+pajaro,Flamenco común,Phoenicopterus roseus,flamenco2.jpg,2,si
+pajaro,Flamenco común,Phoenicopterus roseus,flamenco3.jpg,2,si
+pajaro,Grulla común,Grus grus,grulla1.jpg,0,no
+pajaro,Grulla común,Grus grus,grulla2.jpg,0,no
+pajaro,Grulla común,Grus grus,grulla3.jpg,0,no
+pajaro,Grulla común,Grus grus,grulla4.jpg,0,no
+pajaro,Rascón europeo,Rallus aquaticus,rascon1.jpg,0,no
+pajaro,Rascón europeo,Rallus aquaticus,rascon2.jpg,0,no
+pajaro,Rascón europeo,Rallus aquaticus,rascon3.jpg,0,no
+pajaro,Rascón europeo,Rallus aquaticus,rascon4.jpg,0,no
+pajaro,Gallineta común,Gallinula chloropus,gallineta1.jpg,2,si
+pajaro,Gallineta común,Gallinula chloropus,gallineta2.jpg,2,si
+pajaro,Gallineta común,Gallinula chloropus,gallineta3.jpg,2,si
+pajaro,Gallineta común,Gallinula chloropus,gallineta4.jpg,2,si
+pajaro,Focha común,Fulica atra,focha1.jpg,2,si
+pajaro,Focha común,Fulica atra,focha2.jpg,2,si
+pajaro,Focha común,Fulica atra,focha3.jpg,2,si
+pajaro,Focha común,Fulica atra,focha4.jpg,2,si
+pajaro,Sisón común,Tetrax tetrax,sison1.jpg,2,si
+pajaro,Pavo real,Pavo cristatus,real1.jpg,2,si
+pajaro,Pavo real,Pavo cristatus,real2.jpg,2,si
+pajaro,Pavo real,Pavo cristatus,real3.jpg,2,si
+pajaro,Sisón común,Tetrax tetrax,sison2.jpg,2,si
+pajaro,Sisón común,Tetrax tetrax,sison3.jpg,2,si
+pajaro,Avutarda común,Otis tarda,avutarda1.jpg,2,si
+pajaro,Avutarda común,Otis tarda,avutarda2.jpg,2,si
+pajaro,Avutarda común,Otis tarda,avutarda3.jpg,2,si
+pajaro,Avutarda común,Otis tarda,avutarda4.jpg,2,si
+pajaro,Codorniz común,Coturnix coturnix,coturnix1.jpg,2,si
+pajaro,Codorniz común,Coturnix coturnix,coturnix2.jpg,2,si
+pajaro,Codorniz común,Coturnix coturnix,coturnix3.jpg,2,si
+pajaro,Codorniz común,Coturnix coturnix,coturnix4.jpg,2,si
+pajaro,Guión de codornices,Crex crex,crex1.jpg,0,no
+pajaro,Guión de codornices,Crex crex,crex2.jpg,0,no
+pajaro,Guión de codornices,Crex crex,crex3.jpg,0,no
+pajaro,Guión de codornices,Crex crex,crex4.webp,0,no
+pajaro,Perdiz roja,Alectoris rufa,perdiz1.jpg,2,si
+pajaro,Perdiz roja,Alectoris rufa,perdiz2.jpg,2,si
+pajaro,Perdiz roja,Alectoris rufa,perdiz3.jpg,2,si
+pajaro,Perdiz roja,Alectoris rufa,perdiz4.jpg,2,si
+pajaro,Perdiz pardilla,Perdix perdix,perdix1.jpg,0,no
+pajaro,Perdiz pardilla,Perdix perdix,perdix2.jpg,0,no
+pajaro,Perdiz pardilla,Perdix perdix,perdix3.jpg,0,no
+pajaro,Perdiz pardilla,Perdix perdix,perdix4.jpg,0,no
+pajaro,Lagópodo alpino,Lagopus muta,lagopus1.jpg,0,no
+pajaro,Lagópodo alpino,Lagopus muta,lagopus2.jpg,0,no
+pajaro,Lagópodo alpino,Lagopus muta,lagopus3.jpg,0,no
+pajaro,Lagópodo alpino,Lagopus muta,lagopus4.jpg,0,no
+pajaro,Urogallo,Tetrao urogallus,urogallo1.jpg,0,no
+pajaro,Urogallo,Tetrao urogallus,urogallo2.jpg,0,no
+pajaro,Urogallo,Tetrao urogallus,urogallo3.jpg,0,no
+pajaro,Urogallo,Tetrao urogallus,urogallo4.jpg,0,no
+pajaro,Faisán común,Phasianus colchicus,faisan1.jpg,2,si
+pajaro,Faisán común,Phasianus colchicus,faisan2.jpg,2,si
+pajaro,Faisán común,Phasianus colchicus,faisan3.jpg,2,si
+pajaro,Paloma bravía,Columba livia,paloma1.jpg,2,si
+pajaro,Paloma bravía,Columba livia,paloma2.jpg,2,si
+pajaro,Paloma bravía,Columba livia,paloma3.jpg,2,si
+pajaro,Paloma bravía,Columba livia,paloma4.jpg,2,si
+pajaro,Paloma torcaz,Columba palumbus,torcaz1.jpg,2,si
+pajaro,Paloma torcaz,Columba palumbus,torcaz2.jpg,2,si
+pajaro,Paloma torcaz,Columba palumbus,torcaz3.jpg,2,si
+pajaro,Paloma torcaz,Columba palumbus,torcaz4.jpg,2,si
+pajaro,Tórtola europea,Streptopelia turtur,tortoeu1.jpg,0,no
+pajaro,Tórtola europea,Streptopelia turtur,tortoeu2.jpg,0,no
+pajaro,Tórtola europea,Streptopelia turtur,tortoeu3.jpg,0,no
+pajaro,Tórtola europea,Streptopelia turtur,tortoeu4.jpg,0,no
+pajaro,Tórtola turca,Streptopelia decaocto,tortotur1.jpg,2,si
+pajaro,Tórtola turca,Streptopelia decaocto,tortotur1.jpg,2,si
+pajaro,Tórtola turca,Streptopelia decaocto,tortotur1.jpg,2,si
+pajaro,Tórtola turca,Streptopelia decaocto,tortotur1.jpg,2,si
+pajaro,Ganga ortega,Pterocles orientalis,gangao1.jpg,0,no
+pajaro,Ganga ortega,Pterocles orientalis,gangao2.jpg,0,no
+pajaro,Ganga ortega,Pterocles orientalis,gangao3.jpg,0,no
+pajaro,Ganga ortega,Pterocles orientalis,gangao4.jpg,0,no
+pajaro,Ganga ibérica,Pterocles alchata,gangai1.jpg,0,no
+pajaro,Ganga ibérica,Pterocles alchata,gangai2.jpg,0,no
+pajaro,Ganga ibérica,Pterocles alchata,gangai3.jpg,0,no
+pajaro,Ganga ibérica,Pterocles alchata,gangai4.jpg,0,no
+pajaro,Cisne vulgar,Cygnus olor,cisne1.jpg,0,no
+pajaro,Cisne vulgar,Cygnus olor,cisne2.jpg,0,no
+pajaro,Cisne vulgar,Cygnus olor,cisne3.jpg,0,no
+pajaro,Cisne vulgar,Cygnus olor,cisne4.jpg,0,no
+pajaro,Cisne chico,Cygnus columbianus,cisneco1.jpg,0,no
+pajaro,Cisne chico,Cygnus columbianus,cisneco2.jpg,0,no
+pajaro,Cisne chico,Cygnus columbianus,cisneco3.jpg,0,no
+pajaro,Cisne chico,Cygnus columbianus,cisneco4.jpg,0,no
+pajaro,Barnacla cariblanca,Branta leucopsis,barnacla1.jpg,0,no
+pajaro,Barnacla cariblanca,Branta leucopsis,barnacla2.jpg,0,no
+pajaro,Barnacla cariblanca,Branta leucopsis,barnacla3.jpg,0,no
+pajaro,Barnacla cariblanca,Branta leucopsis,barnacla4.jpg,0,no
+pajaro,Barnacla carinegra,Branta bernicla,barna1.jpg,0,no
+pajaro,Barnacla carinegra,Branta bernicla,barna2.jpg,0,no
+pajaro,Barnacla carinegra,Branta bernicla,barna3.jpg,0,no
+pajaro,Barnacla carinegra,Branta bernicla,barna4.jpg,0,no
+pajaro,Ánsar común,Anser anser,anser1.jpg,2,si
+pajaro,Ánsar común,Anser anser,anser2.jpg,2,si
+pajaro,Ánsar común,Anser anser,anser3.png,2,si
+pajaro,Estornino negro,Sturnus unicolor,estorni1.jpg,2,si
+pajaro,Estornino negro,Sturnus unicolor,estorni2.jpg,2,si
+pajaro,Estornino negro,Sturnus unicolor,estorni3.jpg,2,si
+pajaro,Estornino negro,Sturnus unicolor,estorni4.jpg,2,si
+pajaro,Estornino pinto,Sturnus vulgaris,estornino1.jpg,2,si
+pajaro,Estornino pinto,Sturnus vulgaris,estornino2.jpg,2,si
+pajaro,Estornino pinto,Sturnus vulgaris,estornino3.jpg,2,si
+pajaro,Estornino pinto,Sturnus vulgaris,estornino4.jpg,2,si
+pajaro,Mirlo acuático,Circlus circlus,circlus1.jpg,0,no
+pajaro,Mirlo acuático,Circlus circlus,circlus2.jpg,0,no
+pajaro,Mirlo acuático,Circlus circlus,circlus3.jpg,0,no
+pajaro,Mirlo acuático,Circlus circlus,circlus4.jpg,0,no
+pajaro,Mirlo,Turdus merula,mirlo1.jpg,2,si
+pajaro,Mirlo,Turdus merula,mirlo2.jpg,2,si
+pajaro,Mirlo,Turdus merula,mirlo3.jpg,2,si
+pajaro,Mirlo,Turdus merula,mirlo4.jpg,2,si
+pajaro,Mirlo,Turdus merula,mirlo5.jpg,2,si
+pajaro,Zorzal común,Turdus philomelos,zorzal1.jpg,2,si
+pajaro,Zorzal común,Turdus philomelos,zorzal2.jpg,2,si
+pajaro,Zorzal común,Turdus philomelos,zorzal3.jpg,2,si
+pajaro,Zorzal común,Turdus philomelos,zorzal4.jpg,2,si
+pajaro,Vencejo común,Apus apus,vence1.jpg,0,no
+pajaro,Vencejo común,Apus apus,vence2.jpg,0,no
+pajaro,Vencejo común,Apus apus,vence3.jpg,0,no
+pajaro,Vencejo común,Apus apus,vence4.jpg,0,no
+pajaro,Pito ibérico,Picus sharpei,pito1.jpg,2,si
+pajaro,Pito ibérico,Picus sharpei,pito2.jpg,2,si
+pajaro,Pito ibérico,Picus sharpei,pito3.jpg,2,si
+pajaro,Pito ibérico,Picus sharpei,pito4.jpg,2,si
+pajaro,Pico picapinos,Dendrocopos major,picapinos1.jpg,2,si
+pajaro,Pico picapinos,Dendrocopos major,picapinos2.jpg,2,si
+pajaro,Pico picapinos,Dendrocopos major,picapinos3.jpg,2,si
+pajaro,Pico picapinos,Dendrocopos major,picapinos4.jpg,2,si
+pajaro,Abejaruco europeo,Merops apiaster,abeja1.jpg,2,si
+pajaro,Abejaruco europeo,Merops apiaster,abeja2.jpg,2,si
+pajaro,Abejaruco europeo,Merops apiaster,abeja3.jpg,2,si
+pajaro,Abejaruco europeo,Merops apiaster,abeja4.jpg,2,si
+pajaro,Abejaruco europeo,Merops apiaster,abeja5.jpg,2,si
+pajaro,Martín pescador,Alcedo atthis,martin1.jpg,2,si
+pajaro,Martín pescador,Alcedo atthis,martin2.jpg,2,si
+pajaro,Martín pescador,Alcedo atthis,martin3.jpg,2,si
+pajaro,Martín pescador,Alcedo atthis,martin4.jpg,2,si
+pajaro,Alcaudón común,Lanius senator,alcaudon1.jpg,0,no
+pajaro,Alcaudón común,Lanius senator,alcaudon2.jpg,0,no
+pajaro,Alcaudón común,Lanius senator,alcaudon3.jpg,0,no
+pajaro,Alcaudón común,Lanius senator,alcaudon4.jpg,0,no
+pajaro,Alcaudón real,Lanius meridionalis,lanius1.jpg,0,no
+pajaro,Alcaudón real,Lanius meridionalis,lanius2.jpg,0,no
+pajaro,Alcaudón real,Lanius meridionalis,lanius3.jpg,0,no
+pajaro,Alcaudón real,Lanius meridionalis,lanius4.jpg,0,no
+pajaro,Gaviota reidora,Chroicocephalus ridibundus,reidora1.jpg,0,no
+pajaro,Gaviota reidora,Chroicocephalus ridibundus,reidora2.jpg,0,no
+pajaro,Gaviota reidora,Chroicocephalus ridibundus,reidora3.jpg,0,no
+pajaro,Gaviota reidora,Chroicocephalus ridibundus,reidora4.jpg,0,no
+pajaro,Gaviota patiamarilla,Larus michahellis,gaviota1.jpg,0,no
+pajaro,Gaviota patiamarilla,Larus michahellis,gaviota2.jpg,0,no
+pajaro,Gaviota patiamarilla,Larus michahellis,gaviota3.jpg,0,no
+pajaro,Gaviota patiamarilla,Larus michahellis,gaviota4.jpg,0,no
+pajaro,Paiño europeo,Hydrobates pelagicus,paiño1.jpg,0,no
+pajaro,Paiño europeo,Hydrobates pelagicus,paiño2.jpg,0,no
+pajaro,Paiño europeo,Hydrobates pelagicus,paiño3.jpg,0,no
+pajaro,Paiño europeo,Hydrobates pelagicus,paiño4.jpg,0,no
+pajaro,Paiño boreal,Hydrobates leucorhous,pai1.jpg,0,no
+pajaro,Paiño boreal,Hydrobates leucorhous,pai2.jpg,0,no
+pajaro,Paiño boreal,Hydrobates leucorhous,pai3.jpg,0,no
+pajaro,Paiño boreal,Hydrobates leucorhous,pai4.jpg,0,no
+pajaro,Pardela cenicienta,Calonectris diomedea,pardela1.jpg,0,no
+pajaro,Pardela cenicienta,Calonectris diomedea,pardela2.jpg,0,no
+pajaro,Pardela cenicienta,Calonectris diomedea,pardela3.jpg,0,no
+pajaro,Pardela cenicienta,Calonectris diomedea,pardela4.jpg,0,no
+pajaro,Pardela pichoneta,Puffinus puffinus,parde1.jpg,0,no
+pajaro,Pardela pichoneta,Puffinus puffinus,parde2.jpg,0,no
+pajaro,Pardela pichoneta,Puffinus puffinus,parde3.jpg,0,no
+pajaro,Pardela pichoneta,Puffinus puffinus,parde4.jpg,0,no
+pajaro,Alcatraz atlántico,Morus bassanus,alcatraz1.jpg,0,no
+pajaro,Alcatraz atlántico,Morus bassanus,alcatraz2.jpg,0,no
+pajaro,Alcatraz atlántico,Morus bassanus,alcatraz3.jpg,0,no
+pajaro,Alcatraz atlántico,Morus bassanus,alcatraz4.jpg,0,no
+pajaro,Charrán común,Sterna hirundo,charran1.jpg,0,no
+pajaro,Charrán común,Sterna hirundo,charran2.jpg,0,no
+pajaro,Charrán común,Sterna hirundo,charran3.jpg,0,no
+pajaro,Charrán común,Sterna hirundo,charran4.jpg,0,no
+pajaro,Cormorán grande,Phalacrocorax carbo,cormoran1.jpg,0,no
+pajaro,Cormorán grande,Phalacrocorax carbo,cormoran2.jpg,0,no
+pajaro,Cormorán grande,Phalacrocorax carbo,cormoran3.jpg,0,no
+pajaro,Cormorán grande,Phalacrocorax carbo,cormoran4.jpg,0,no
+pajaro,Cormorán moñudo,Gulosus aristotelis,cormo1.jpg,0,no
+pajaro,Cormorán moñudo,Gulosus aristotelis,cormo2.jpg,0,no
+pajaro,Cormorán moñudo,Gulosus aristotelis,cormo3.jpg,0,no
+pajaro,Cormorán moñudo,Gulosus aristotelis,cormo4.jpg,0,no
+pajaro,Arao común,Uria aalge,arao1.jpg,0,no
+pajaro,Arao común,Uria aalge,arao2.jpg,0,no
+pajaro,Arao común,Uria aalge,arao3.jpg,0,no
+pajaro,Arao común,Uria aalge,arao4.jpg,0,no
+pajaro,Alca común,Alca torda,alca1.jpg,0,no
+pajaro,Alca común,Alca torda,alca2.jpg,0,no
+pajaro,Alca común,Alca torda,alca3.jpg,0,no
+pajaro,Alca común,Alca torda,alca4.jpg,0,no
+pajaro,Ostrero euroasiático,Haematopus ostralegus,ostrero1.jpg,0,no
+pajaro,Ostrero euroasiático,Haematopus ostralegus,ostrero2.jpg,0,no
+pajaro,Ostrero euroasiático,Haematopus ostralegus,ostrero3.jpg,0,no
+pajaro,Ostrero euroasiático,Haematopus ostralegus,ostrero4.jpg,0,no
+pajaro,Frailecillo atlántico,Fratercula arctica,fraile1.jpg,0,no
+pajaro,Frailecillo atlántico,Fratercula arctica,fraile2.jpg,0,no
+pajaro,Frailecillo atlántico,Fratercula arctica,fraile3.jpg,0,no
+pajaro,Frailecillo atlántico,Fratercula arctica,fraile4.jpg,0,no
+pajaro,Cigüeñuela común,Himantopus himantopus,himan1.jpg,0,no
+pajaro,Cigüeñuela común,Himantopus himantopus,himan2.jpg,0,no
+pajaro,Cigüeñuela común,Himantopus himantopus,himan3.jpg,0,no
+pajaro,Cigüeñuela común,Himantopus himantopus,himan4.jpg,0,no
+pajaro,Avoceta común,Recurvirostra avosetta,avoceta1.jpg,0,no
+pajaro,Avoceta común,Recurvirostra avosetta,avoceta2.jpg,0,no
+pajaro,Avoceta común,Recurvirostra avosetta,avoceta3.jpg,0,no
+pajaro,Avoceta común,Recurvirostra avosetta,avoceta4.jpg,0,no
+pajaro,Canastera común,Glareola pratincola,canastera1.jpg,0,no
+pajaro,Canastera común,Glareola pratincola,canastera2.jpg,0,no
+pajaro,Canastera común,Glareola pratincola,canastera3.jpg,0,no
+pajaro,Canastera común,Glareola pratincola,canastera4.jpg,0,no
+pajaro,Alcaraván común,Burhinus oedicnemus,alcarava1.jpg,0,no
+pajaro,Alcaraván común,Burhinus oedicnemus,alcarava2.jpg,0,no
+pajaro,Alcaraván común,Burhinus oedicnemus,alcarava3.jpg,0,no
+pajaro,Alcaraván común,Burhinus oedicnemus,alcarava4.jpg,0,no
+pajaro,Chorlitejo chico,Charadrius dubius,chorli1.jpg,0,no
+pajaro,Chorlitejo chico,Charadrius dubius,chorli2.jpg,0,no
+pajaro,Chorlitejo chico,Charadrius dubius,chorli3.jpg,0,no
+pajaro,Chorlitejo chico,Charadrius dubius,chorli4.jpg,0,no
+pajaro,Chorlitejo grande,Charadrius hiaticula,chor1.jpg,0,no
+pajaro,Chorlitejo grande,Charadrius hiaticula,chor2.jpg,0,no
+pajaro,Chorlitejo grande,Charadrius hiaticula,chor3.jpg,0,no
+pajaro,Chorlitejo grande,Charadrius hiaticula,chor4.jpg,0,no
+pajaro,Chorlito dorado,Pluvialis apricaria,ch1.jpg,0,no
+pajaro,Chorlito dorado,Pluvialis apricaria,ch2.jpg,0,no
+pajaro,Chorlito dorado,Pluvialis apricaria,ch3.jpg,0,no
+pajaro,Chorlito dorado,Pluvialis apricaria,ch4.jpg,0,no
+pajaro,Chorlito gris,Pluvialis squatarola,c1.jpg,0,no
+pajaro,Chorlito gris,Pluvialis squatarola,c2.jpg,0,no
+pajaro,Chorlito gris,Pluvialis squatarola,c3.jpg,0,no
+pajaro,Chorlito gris,Pluvialis squatarola,c4.jpg,0,no
+pajaro,Zarapito real,Numenius arquata,zara1.jpg,0,no
+pajaro,Zarapito real,Numenius arquata,zara2.jpg,0,no
+pajaro,Zarapito real,Numenius arquata,zara3.jpg,0,no
+pajaro,Zarapito real,Numenius arquata,zara4.jpg,0,no
+pajaro,Zarapito trinador,Numenius phaeopus,zarapi1.jpg,0,no
+pajaro,Zarapito trinador,Numenius phaeopus,zarapi2.jpg,0,no
+pajaro,Zarapito trinador,Numenius phaeopus,zarapi3.jpg,0,no
+pajaro,Zarapito trinador,Numenius phaeopus,zarapi4.jpg,0,no
+pajaro,Aguja colinegra,Limosa limosa,limosa1.jpg,0,no
+pajaro,Aguja colinegra,Limosa limosa,limosa2.jpg,0,no
+pajaro,Aguja colinegra,Limosa limosa,limosa3.jpg,0,no
+pajaro,Aguja colinegra,Limosa limosa,limosa4.jpg,0,no
+pajaro,Aguja colipinta,Limosa lapponica,limo1.jpg,0,no
+pajaro,Aguja colipinta,Limosa lapponica,limo2.jpg,0,no
+pajaro,Aguja colipinta,Limosa lapponica,limo3.jpg,0,no
+pajaro,Combatiente,Calidris pugnax,comba1.jpg,0,no
+pajaro,Combatiente,Calidris pugnax,comba2.jpg,0,no
+pajaro,Combatiente,Calidris pugnax,comba3.jpg,0,no
+pajaro,Combatiente,Calidris pugnax,comba4.jpg,0,no
+pajaro,Correlimos común,Calidris alpina,corre1.jpg,0,no
+pajaro,Correlimos común,Calidris alpina,corre2.jpg,0,no
+pajaro,Correlimos común,Calidris alpina,corre3.jpg,0,no
+pajaro,Correlimos común,Calidris alpina,corre4.jpg,0,no
+pajaro,Agachadiza común,Gallinago Gallinago,galli1.jpg,0,si
+pajaro,Agachadiza común,Gallinago Gallinago,galli2.jpg,0,si
+pajaro,Agachadiza común,Gallinago Gallinago,galli3.jpg,0,si
+pajaro,Agachadiza común,Gallinago Gallinago,galli4.jpg,0,si
+pajaro,Chocha perdiz,Scolopax rusticola,chocha1.jpg,0,no
+pajaro,Chocha perdiz,Scolopax rusticola,chocha2.jpg,0,no
+pajaro,Chocha perdiz,Scolopax rusticola,chocha3.jpg,0,no
+pajaro,Chocha perdiz,Scolopax rusticola,chocha4.jpg,0,no
+pajaro,Archibebe común,Tringa totanus,archi1.jpg,0,no
+pajaro,Archibebe común,Tringa totanus,archi2.jpg,0,no
+pajaro,Archibebe común,Tringa totanus,archi3.jpg,0,no
+pajaro,Archibebe común,Tringa totanus,archi4.jpg,0,no
+pajaro,Archibebe claro,Tringa nebularia,bebe1.jpg,0,no
+pajaro,Archibebe claro,Tringa nebularia,bebe2.jpg,0,no
+pajaro,Archibebe claro,Tringa nebularia,bebe3.jpg,0,no
+pajaro,Archibebe claro,Tringa nebularia,bebe4.jpg,0,no
+pajaro,Andarríos grande,Tringa ochropus,anda1.jpg,0,no
+pajaro,Andarríos grande,Tringa ochropus,anda2.jpg,0,no
+pajaro,Andarríos grande,Tringa ochropus,anda3.jpg,0,no
+pajaro,Andarríos grande,Tringa ochropus,anda4.jpg,0,no
+pajaro,Andarríos chico,Actitis hypoleucos,acti1.jpg,0,no
+pajaro,Andarríos chico,Actitis hypoleucos,acti2.jpg,0,no
+pajaro,Andarríos chico,Actitis hypoleucos,acti3.jpg,0,no
+pajaro,Andarríos chico,Actitis hypoleucos,acti4.jpg,0,no
+pajaro,Vuelvepiedras,Arenaria interpres,arena1.jpg,0,no
+pajaro,Vuelvepiedras,Arenaria interpres,arena2.jpg,0,no
+pajaro,Vuelvepiedras,Arenaria interpres,arena3.jpg,0,no
+pajaro,Vuelvepiedras,Arenaria interpres,arena4.jpg,0,no
+pajaro,Avefría,Vanellus vanellus,fria1.jpg,3,si
+pajaro,Avefría,Vanellus vanellus,fria2.jpg,3,si
+pajaro,Avefría,Vanellus vanellus,fria3.jpg,3,si
+pajaro,Avefría,Vanellus vanellus,fria4.jpg,3,si
+pajaro,Golondrina,Hirundo rustica,golon1.jpg,3,si
+pajaro,Golondrina,Hirundo rustica,golon2.jpg,3,si
+pajaro,Golondrina,Hirundo rustica,golon3.jpg,3,si
+pajaro,Golondrina,Hirundo rustica,golon4.jpg,3,si
+pajaro,Oropéndula europea,Oriolus oriolus,oriolus1.jpg,3,si
+pajaro,Oropéndula europea,Oriolus oriolus,oriolus2.jpg,3,si
+pajaro,Oropéndula europea,Oriolus oriolus,oriolus3.jpg,3,si
+pajaro,Oropéndula europea,Oriolus oriolus,oriolus4.jpg,3,si
+pajaro,Trepador azul,Sitta europaea,sitta1.jpg,0,no
+pajaro,Trepador azul,Sitta europaea,sitta2.jpg,0,no
+pajaro,Trepador azul,Sitta europaea,sitta3.jpg,0,no
+pajaro,Trepador azul,Sitta europaea,sitta4.jpg,0,no
+pajaro,Cuco,Cuculus canorus,cuco1.jpg,0,no
+pajaro,Cuco,Cuculus canorus,cuco2.jpg,0,no
+pajaro,Cuco,Cuculus canorus,cuco3.jpg,0,no
+pajaro,Cuco,Cuculus canorus,cuco4.jpg,0,no
+pajaro,Abubilla,Upupa epops,abu1.jpg,3,si
+pajaro,Abubilla,Upupa epops,abu2.jpg,3,si
+pajaro,Abubilla,Upupa epops,abu3.jpg,3,si
+pajaro,Abubilla,Upupa epops,abu4.jpg,3,si
+pajaro,Chotacabras cuellirojo,Caprimulgus ruficollis,chota1.jpg,3,si
+pajaro,Chotacabras cuellirojo,Caprimulgus ruficollis,chota2.jpg,3,si
+pajaro,Chotacabras cuellirojo,Caprimulgus ruficollis,chota3.jpg,3,si
+pajaro,Chotacabras cuellirojo,Caprimulgus ruficollis,chota4.jpg,3,si
+pajaro,Reyezuelo listado,Regulus ignicapilla,reye1.jpg,3,si
+pajaro,Reyezuelo listado,Regulus ignicapilla,reye2.jpg,3,si
+pajaro,Reyezuelo listado,Regulus ignicapilla,reye3.jpg,3,si
+pajaro,Reyezuelo listado,Regulus ignicapilla,reye4.jpg,3,si
+pajaro,Reyezuelo sencillo,Regulus regulus,regulus1.jpg,3,si
+pajaro,Reyezuelo sencillo,Regulus regulus,regulus2.jpg,3,si
+pajaro,Reyezuelo sencillo,Regulus regulus,regulus3.jpg,3,si
+pajaro,Reyezuelo sencillo,Regulus regulus,regulus4.jpg,3,si
+pajaro,Gorrión común,Passer domesticus,gorrion1.jpg,3,si
+pajaro,Gorrión común,Passer domesticus,gorrion2.jpg,3,si
+pajaro,Gorrión común,Passer domesticus,gorrion3.jpg,3,si
+pajaro,Gorrión común,Passer domesticus,gorrion4.jpg,3,si
+pajaro,Carbonero,Parus major,carbo1.png,3,si
+pajaro,Carbonero,Parus major,carbo2.jpg,3,si
+pajaro,Carbonero,Parus major,carbo3.png,3,si
+pajaro,Carbonero,Parus major,carbo4.jpg,3,si
+pajaro,Curruca cabecinegra,Curruca melanocephala,curruca1.jpg,3,si
+pajaro,Curruca cabecinegra,Curruca melanocephala,curruca2.jpg,3,si
+pajaro,Curruca cabecinegra,Curruca melanocephala,curruca3.png,3,si
+pajaro,Curruca cabecinegra,Curruca melanocephala,curruca4.jpg,3,si
+pajaro,Escribano triguero,Emberiza calandra,escribano1.png,3,no
+pajaro,Escribano triguero,Emberiza calandra,escribano2.jpg,3,no
+pajaro,Escribano triguero,Emberiza calandra,escribano3.jpg,3,no
+pajaro,Escribano triguero,Emberiza calandra,escribano4.jpg,3,no
+pajaro,Herrerillo común,Cyanistes caeruleus,herre1.jpg,3,si
+pajaro,Herrerillo común,Cyanistes caeruleus,herre2.jpg,3,si
+pajaro,Herrerillo común,Cyanistes caeruleus,herre3.jpg,3,si
+pajaro,Herrerillo común,Cyanistes caeruleus,herre4.jpg,3,si
+pajaro,Herrerillo capuchino,Lophophanes cristatus,capu1.jpg,0,no
+pajaro,Herrerillo capuchino,Lophophanes cristatus,capu2.jpg,0,no
+pajaro,Herrerillo capuchino,Lophophanes cristatus,capu3.jpg,0,no
+pajaro,Herrerillo capuchino,Lophophanes cristatus,capu4.jpg,0,no
+pajaro,Colirrojo tizón,Phoenicurus ochruros,tizon1.jpg,3,si
+pajaro,Colirrojo tizón,Phoenicurus ochruros,tizon2.jpg,3,si
+pajaro,Colirrojo tizón,Phoenicurus ochruros,tizon3.jpg,3,si
+pajaro,Colirrojo tizón,Phoenicurus ochruros,tizon4.jpg,3,si
+pajaro,Camachuelo común,Pyrrhula pyrrhula,cama1.jpg,0,no
+pajaro,Camachuelo común,Pyrrhula pyrrhula,cama2.jpg,0,no
+pajaro,Camachuelo común,Pyrrhula pyrrhula,cama3.jpg,0,no
+pajaro,Camachuelo común,Pyrrhula pyrrhula,cama4.jpg,0,no
+pajaro,Chochín,Troglodytes troglodytes,chochin1.jpg,0,no
+pajaro,Chochín,Troglodytes troglodytes,chochin2.jpg,0,no
+pajaro,Chochín,Troglodytes troglodytes,chochin3.jpg,0,no
+pajaro,Chochín,Troglodytes troglodytes,chochin4.jpg,0,no
+pajaro,Alondra,Alauda arvensis,alondra1.jpg,3,si
+pajaro,Alondra,Alauda arvensis,alondra2.jpg,3,si
+pajaro,Alondra,Alauda arvensis,alondra3.jpg,3,si
+pajaro,Alondra,Alauda arvensis,alondra4.jpg,3,si
+pajaro,Ruiseñor,Luscinia megarhynchos,ruise1.jpg,3,si
+pajaro,Ruiseñor,Luscinia megarhynchos,ruise2.jpg,3,si
+pajaro,Ruiseñor,Luscinia megarhynchos,ruise3.jpg,3,si
+pajaro,Ruiseñor,Luscinia megarhynchos,ruise4.jpg,3,si
+pajaro,Jilguero,Carduelis carduelis,jilgue1.png,3,si
+pajaro,Jilguero,Carduelis carduelis,jilgue2.jpg,3,si
+pajaro,Jilguero,Carduelis carduelis,jilgue3.jpg,3,si
+pajaro,Jilguero,Carduelis carduelis,jilgue4.jpg,3,si
+pajaro,Verderón,Chloris chloris,verde1.png,3,si
+pajaro,Verderón,Chloris chloris,verde2.jpg,3,si
+pajaro,Verderón,Chloris chloris,verde3.jpg,3,si
+pajaro,Verderón,Chloris chloris,verde4.jpg,3,si
+pajaro,Serín verdecillo,Serinus serinus,serinus1.jpg,3,si
+pajaro,Serín verdecillo,Serinus serinus,serinus2.jpg,3,si
+pajaro,Serín verdecillo,Serinus serinus,serinus3.jpg,3,si
+pajaro,Serín verdecillo,Serinus serinus,serinus4.png,3,si
+pajaro,Petirrojo,Erithacus rubecula,peti1.jpg,3,si
+pajaro,Petirrojo,Erithacus rubecula,peti2.jpg,3,si
+pajaro,Petirrojo,Erithacus rubecula,peti3.jpg,3,si
+pajaro,Petirrojo,Erithacus rubecula,peti4.jpg,3,si
+pajaro,Pinzón,Fringilla coelebs,pinzon1.jpg,3,si
+pajaro,Pinzón,Fringilla coelebs,pinzon2.jpg,3,si
+pajaro,Pinzón,Fringilla coelebs,pinzon3.jpg,3,si
+pajaro,Pinzón,Fringilla coelebs,pinzon4.jpg,3,si
+pajaro,Lavandera blanca,Motacilla alba,alba1.jpg,3,si
+pajaro,Lavandera blanca,Motacilla alba,alba2.jpg,3,si
+pajaro,Lavandera blanca,Motacilla alba,alba3.jpg,3,si
+pajaro,Lavandera blanca,Motacilla alba,alba4.jpg,3,si
+pajaro,Piquituerto común,Loxia curvirostra,loxia1.jpg,3,si
+pajaro,Piquituerto común,Loxia curvirostra,loxia2.jpg,3,si
+pajaro,Piquituerto común,Loxia curvirostra,loxia3.jpg,3,si
+pajaro,Piquituerto común,Loxia curvirostra,loxia4.jpg,3,si
+anfibio,Salamandra rabilarga,Chioglossa lusitanica,rabi1.jpg,1,si
+anfibio,Salamandra rabilarga,Chioglossa lusitanica,rabi2.jpg,1,si
+anfibio,Salamandra rabilarga,Chioglossa lusitanica,rabi3.jpg,1,si
+anfibio,Salamandra rabilarga,Chioglossa lusitanica,rabi4.jpg,1,si
+anfibio,Salamandra común,Salamandra salamandra,salamandra1.jpg,1,si
+anfibio,Salamandra común,Salamandra salamandra,salamandra2.jpg,1,si
+anfibio,Salamandra común,Salamandra salamandra,salamandra3.jpg,1,si
+anfibio,Salamandra común,Salamandra salamandra,salamandra4.jpg,1,si
+anfibio,Gallipato,Pleurodeles waltl,gallipato1.jpg,1,si
+anfibio,Gallipato,Pleurodeles waltl,gallipato2.jpg,1,si
+anfibio,Gallipato,Pleurodeles waltl,gallipato3.jpg,1,si
+anfibio,Gallipato,Pleurodeles waltl,gallipato4.jpg,1,si
+anfibio,Tritón alpino,Ichthyosaura alpestris,tritonalpino1.jpg,1,no
+anfibio,Tritón alpino,Ichthyosaura alpestris,tritonalpino2.jpg,1,no
+anfibio,Tritón alpino,Ichthyosaura alpestris,tritonalpino3.jpg,1,no
+anfibio,Tritón alpino,Ichthyosaura alpestris,tritonalpino4.jpg,1,no
+anfibio,Tritón ibérico,Lissotriton boscai,tritoniberico1.jpg,1,si
+anfibio,Tritón ibérico,Lissotriton boscai,tritoniberico2.jpg,1,si
+anfibio,Tritón ibérico,Lissotriton boscai,tritoniberico3.jpg,1,si
+anfibio,Tritón ibérico,Lissotriton boscai,tritoniberico4.jpg,1,si
+anfibio,Tritón palmeado,Lissotriton helveticus,palmeado1.webp,1,no
+anfibio,Tritón palmeado,Lissotriton helveticus,palmeado2.jpg,1,no
+anfibio,Tritón palmeado,Lissotriton helveticus,palmeado3.jpg,1,no
+anfibio,Tritón palmeado,Lissotriton helveticus,palmeado4.jpg,1,no
+anfibio,Tritón jaspeado,Triturus marmoratus,jaspeado1.jpg,1,si
+anfibio,Tritón jaspeado,Triturus marmoratus,jaspeado2.jpg,1,si
+anfibio,Tritón jaspeado,Triturus marmoratus,jaspeado3.jpg,1,si
+anfibio,Tritón jaspeado,Triturus marmoratus,jaspeado4.jpg,1,si
+anfibio,Tritón pigmeo,Triturus pygmaeus,pigmeo1.jpg,1,si
+anfibio,Tritón pigmeo,Triturus pygmaeus,pigmeo2.jpg,1,si
+anfibio,Tritón pigmeo,Triturus pygmaeus,pigmeo3.jpg,1,si
+anfibio,Sapo partero común,Alytes obstetricans,partero1.jpg,2,si
+anfibio,Sapo partero común,Alytes obstetricans,partero2.jpg,2,si
+anfibio,Sapo partero común,Alytes obstetricans,partero3.jpg,2,si
+anfibio,Sapo partero común,Alytes obstetricans,partero4.jpg,2,si
+anfibio,Sapo de espuelas,Pelobates cultripes,espuelas1.jpg,2,si
+anfibio,Sapo de espuelas,Pelobates cultripes,espuelas2.jpg,2,si
+anfibio,Sapo de espuelas,Pelobates cultripes,espuelas3.jpg,2,si
+anfibio,Sapo de espuelas,Pelobates cultripes,espuelas4.jpg,2,si
+anfibio,Sapo común ibérico,Bufo spinosus,sapocomun1.jpg,2,si
+anfibio,Sapo común ibérico,Bufo spinosus,sapocomun2.jpg,2,si
+anfibio,Sapo común ibérico,Bufo spinosus,sapocomun3.jpg,2,si
+anfibio,Sapo común ibérico,Bufo spinosus,sapocomun4.jpg,2,si
+anfibio,Sapo corredor,Epidalea calamita,sapocorredor1.jpg,2,si
+anfibio,Sapo corredor,Epidalea calamita,sapocorredor2.jpg,2,si
+anfibio,Sapo corredor,Epidalea calamita,sapocorredor3.jpg,2,si
+anfibio,Sapo corredor,Epidalea calamita,sapocorredor4.jpg,2,si
+anfibio,Sapillo pintojo ibérico,Discoglossus galganoi,pintojo1.jpg,2,si
+anfibio,Sapillo pintojo ibérico,Discoglossus galganoi,pintojo2.jpg,2,si
+anfibio,Sapillo pintojo ibérico,Discoglossus galganoi,pintojo3.jpg,2,si
+anfibio,Sapillo pintojo ibérico,Discoglossus galganoi,pintojo4.jpg,2,si
+anfibio,Sapillo moteado común,Pelodytes punctatus,moteado1.jpg,2,si
+anfibio,Sapillo moteado común,Pelodytes punctatus,moteado2.jpg,2,si
+anfibio,Sapillo moteado común,Pelodytes punctatus,moteado3.jpg,2,si
+anfibio,Sapillo moteado común,Pelodytes punctatus,moteado4.jpg,2,si
+anfibio,Ranita de San Antón,Hyla molleri,anton1.jpg,3,si
+anfibio,Ranita de San Antón,Hyla molleri,anton2.jpg,3,si
+anfibio,Ranita de San Antón,Hyla molleri,anton3.jpg,3,si
+anfibio,Ranita de San Antón,Hyla molleri,anton4.jpg,3,si
+anfibio,Ranita meridional,Hyla meridionalis,hyla1.jpg,3,si
+anfibio,Ranita meridional,Hyla meridionalis,hyla2.jpg,3,si
+anfibio,Ranita meridional,Hyla meridionalis,hyla3.jpg,3,si
+anfibio,Ranita meridional,Hyla meridionalis,hyla4.jpg,3,si
+anfibio,Rana bermeja,Rana temporaria,temporaria1.jpg,0,no
+anfibio,Rana bermeja,Rana temporaria,temporaria2.jpg,0,no
+anfibio,Rana bermeja,Rana temporaria,temporaria3.jpg,0,no
+anfibio,Rana bermeja,Rana temporaria,temporaria4.jpg,0,no
+anfibio,Rana patilarga,Rana iberica,ribe1.jpg,3,si
+anfibio,Rana patilarga,Rana iberica,ribe2.jpg,3,si
+anfibio,Rana patilarga,Rana iberica,ribe3.jpg,3,si
+anfibio,Rana patilarga,Rana iberica,ribe4.jpg,3,si
+anfibio,Rana común,Pelophylax perezi,ranacomun1.jpg,3,si
+anfibio,Rana común,Pelophylax perezi,ranacomun2.jpg,3,si
+anfibio,Rana común,Pelophylax perezi,ranacomun3.jpg,3,si
+anfibio,Rana común,Pelophylax perezi,ranacomun4.jpg,3,si
+reptil,Tortuga mora,Testudo graeca,mora1.jpg,0,no
+reptil,Tortuga mora,Testudo graeca,mora2.jpg,0,no
+reptil,Tortuga mora,Testudo graeca,mora3.jpg,0,no
+reptil,Tortuga mora,Testudo graeca,mora4.jpg,0,no
+reptil,Galápago europeo,Emys orbicularis,galapa1.jpg,1,si
+reptil,Galápago europeo,Emys orbicularis,galapa2.jpg,1,si
+reptil,Galápago europeo,Emys orbicularis,galapa3.webp,1,si
+reptil,Galápago europeo,Emys orbicularis,galapa4.jpg,1,si
+reptil,Galápago de Florida,Trachemys scripta,florida1.jpg,1,si
+reptil,Galápago de Florida,Trachemys scripta,florida2.jpg,1,si
+reptil,Galápago de Florida,Trachemys scripta,florida3.jpg,1,si
+reptil,Galápago leproso,Mauremys leprosa,leprosa1.jpg,1,si
+reptil,Galápago leproso,Mauremys leprosa,leprosa2.jpg,1,si
+reptil,Galápago leproso,Mauremys leprosa,leprosa3.jpg,1,si
+reptil,Galápago leproso,Mauremys leprosa,leprosa4.jpg,1,si
+reptil,Tortuga laúd,Dermochelys coriacea,laud1.jpg,0,no
+reptil,Tortuga laúd,Dermochelys coriacea,laud2.jpg,0,no
+reptil,Tortuga laúd,Dermochelys coriacea,laud3.jpg,0,no
+reptil,Tortuga laúd,Dermochelys coriacea,laud4.jpg,0,no
+reptil,Tortuga boba,Caretta caretta,boba1.jpg,0,no
+reptil,Tortuga boba,Caretta caretta,boba2.jpg,0,no
+reptil,Tortuga boba,Caretta caretta,boba3.jpg,0,no
+reptil,Tortuga boba,Caretta caretta,boba4.jpg,0,no
+reptil,Tortuga verde,Chelonia mydas,tortu1.webp,0,no
+reptil,Tortuga verde,Chelonia mydas,tortu2.jpg,0,no
+reptil,Tortuga verde,Chelonia mydas,tortu3.jpg,0,no
+reptil,Tortuga verde,Chelonia mydas,tortu4.jpg,0,no
+reptil,Culebra lisa europea,Coronella austriaca,austri1.jpg,1,si
+reptil,Culebra lisa europea,Coronella austriaca,austri2.jpg,1,si
+reptil,Culebra lisa europea,Coronella austriaca,austri3.jpg,1,si
+reptil,Culebra lisa europea,Coronella austriaca,austri4.jpg,1,si
+reptil,Culebra lisa meridional,Coronella girondica,girondica1.jpg,1,si
+reptil,Culebra lisa meridional,Coronella girondica,girondica2.jpg,1,si
+reptil,Culebra lisa meridional,Coronella girondica,girondica3.jpg,1,si
+reptil,Culebra lisa meridional,Coronella girondica,girondica4.jpg,1,si
+reptil,Culebra viperina,Natrix maura,natrix1.jpg,1,si
+reptil,Culebra viperina,Natrix maura,natrix2.jpg,1,si
+reptil,Culebra viperina,Natrix maura,natrix3.jpg,1,si
+reptil,Culebra viperina,Natrix maura,natrix4.jpg,1,si
+reptil,Culebra de collar,Natrix astreptophora,collar1.jpg,1,si
+reptil,Culebra de collar,Natrix astreptophora,collar2.jpg,1,si
+reptil,Culebra de collar,Natrix astreptophora,collar3.jpg,1,si
+reptil,Culebra de collar,Natrix astreptophora,collar4.jpg,1,si
+reptil,Culebra de escalera,Zamenis scalaris,escalera1.jpg,1,si
+reptil,Culebra de escalera,Zamenis scalaris,escalera2.jpg,1,si
+reptil,Culebra de escalera,Zamenis scalaris,escalera3.jpg,1,si
+reptil,Culebra de escalera,Zamenis scalaris,escalera4.jpg,1,si
+reptil,Culebra de herradura,Hemorrhois hippocrepis,herradura1.jpg,2,si
+reptil,Culebra de herradura,Hemorrhois hippocrepis,herradura2.jpg,2,si
+reptil,Culebra de herradura,Hemorrhois hippocrepis,herradura3.jpg,2,si
+reptil,Culebra de herradura,Hemorrhois hippocrepis,herradura4.jpg,2,si
+reptil,Culebra bastarda,Malpolon monspessulanus,bastarda1.jpg,2,si
+reptil,Culebra bastarda,Malpolon monspessulanus,bastarda2.jpg,2,si
+reptil,Culebra bastarda,Malpolon monspessulanus,bastarda3.jpg,2,si
+reptil,Culebra bastarda,Malpolon monspessulanus,bastarda4.jpg,2,si
+reptil,Víbora áspid,Vipera aspis,aspid1.jpg,0,no
+reptil,Víbora áspid,Vipera aspis,aspid2.jpg,0,no
+reptil,Víbora áspid,Vipera aspis,aspid3.jpg,0,no
+reptil,Víbora hocicuda,Vipera latastei,hocicuda1.jpg,2,si
+reptil,Víbora hocicuda,Vipera latastei,hocicuda2.jpg,2,si
+reptil,Víbora hocicuda,Vipera latastei,hocicuda3.jpg,2,si
+reptil,Víbora hocicuda,Vipera latastei,hocicuda4.jpg,2,si
+reptil,Víbora cantábrica,Vipera seoanei,seoanei1.jpg,0,no
+reptil,Víbora cantábrica,Vipera seoanei,seoanei2.jpg,0,no
+reptil,Víbora cantábrica,Vipera seoanei,seoanei3.jpg,0,no
+reptil,Víbora cantábrica,Vipera seoanei,seoanei4.jpg,0,no
+reptil,Eslizón ibérico,Chalcides bedriagai,eslizoni1.jpg,2,si
+reptil,Eslizón ibérico,Chalcides bedriagai,eslizoni2.jpg,2,si
+reptil,Eslizón ibérico,Chalcides bedriagai,eslizoni3.jpg,2,si
+reptil,Eslizón ibérico,Chalcides bedriagai,eslizoni4.jpg,2,si
+reptil,Eslizón tridáctilo,Chalcides striatus,eslizont1.jpg,2,si
+reptil,Eslizón tridáctilo,Chalcides striatus,eslizont2.jpg,2,si
+reptil,Eslizón tridáctilo,Chalcides striatus,eslizont3.jpg,2,si
+reptil,Eslizón tridáctilo,Chalcides striatus,eslizont4.jpg,2,si
+reptil,Lución,Anguis fragilis,lucion1.jpg,2,si
+reptil,Lución,Anguis fragilis,lucion2.jpg,2,si
+reptil,Lución,Anguis fragilis,lucion3.jpg,2,si
+reptil,Lución,Anguis fragilis,lucion4.jpg,2,si
+reptil,Culebrilla ciega,Blanus cinereus,culebrilla1.jpg,2,si
+reptil,Culebrilla ciega,Blanus cinereus,culebrilla2.jpg,2,si
+reptil,Culebrilla ciega,Blanus cinereus,culebrilla3.jpg,2,si
+reptil,Culebrilla ciega,Blanus cinereus,culebrilla4.jpg,2,si
+reptil,Camaleón común,Chamaeleo chamaeleon,camaleon1.jpg,2,si
+reptil,Camaleón común,Chamaeleo chamaeleon,camaleon2.jpg,2,si
+reptil,Camaleón común,Chamaeleo chamaeleon,camaleon3.jpg,2,si
+reptil,Camaleón común,Chamaeleo chamaeleon,camaleon4.jpg,2,si
+reptil,Salamanquesa común,Tarentola mauritanica,salaman1.jpg,3,si
+reptil,Salamanquesa común,Tarentola mauritanica,salaman2.jpg,3,si
+reptil,Salamanquesa común,Tarentola mauritanica,salaman3.jpg,3,si
+reptil,Salamanquesa común,Tarentola mauritanica,salaman4.jpg,3,si
+reptil,Lagarto ocelado,Timon lepidus,ocelado1.jpg,3,si
+reptil,Lagarto ocelado,Timon lepidus,ocelado2.jpg,3,si
+reptil,Lagarto ocelado,Timon lepidus,ocelado3.jpg,3,si
+reptil,Lagarto ocelado,Timon lepidus,ocelado4.jpg,3,si
+reptil,Lagartija colirroja,Acanthodactylus erythrurus,colirroja1.jpg,3,si
+reptil,Lagartija colirroja,Acanthodactylus erythrurus,colirroja2.jpg,3,si
+reptil,Lagartija colirroja,Acanthodactylus erythrurus,colirroja3.jpg,3,si
+reptil,Lagartija colirroja,Acanthodactylus erythrurus,colirroja4.jpg,3,si
+reptil,Lagartija verde,Lacerta bilineata,lagarto1.jpg,0,no
+reptil,Lagartija verde,Lacerta bilineata,lagarto2.jpg,0,no
+reptil,Lagartija verde,Lacerta bilineata,lagarto3.jpg,0,no
+reptil,Lagartija verde,Lacerta bilineata,lagarto4.jpg,0,no
+reptil,Lagarto verdinegro,Lacerta schreiberi,verdinegro1.jpg,3,si
+reptil,Lagarto verdinegro,Lacerta schreiberi,verdinegro2.webp,3,si
+reptil,Lagarto verdinegro,Lacerta schreiberi,verdinegro3.jpg,3,si
+reptil,Lagarto verdinegro,Lacerta schreiberi,verdinegro4.jpg,3,si
+reptil,Lagartija ibérica,Podarcis hispanicus,lagartija1.jpg,0,no
+reptil,Lagartija ibérica,Podarcis hispanicus,lagartija2.jpg,0,no
+reptil,Lagartija ibérica,Podarcis hispanicus,lagartija3.jpg,0,no
+reptil,Lagartija ibérica,Podarcis hispanicus,lagartija4.jpg,0,no
+reptil,Lagartija roquera,Podarcis muralis,muralis1.jpg,3,si
+reptil,Lagartija roquera,Podarcis muralis,muralis2.jpg,3,si
+reptil,Lagartija roquera,Podarcis muralis,muralis3.jpg,3,si
+reptil,Lagartija roquera,Podarcis muralis,muralis4.jpg,3,si
+reptil,Lagartija verdosa,Podarcis virescens,virescens1.jpg,3,si
+reptil,Lagartija verdosa,Podarcis virescens,virescens2.jpg,3,si
+reptil,Lagartija verdosa,Podarcis virescens,virescens3.jpg,3,si
+reptil,Lagartija verdosa,Podarcis virescens,virescens4.jpg,3,si
+reptil,Lagartija de Guadarrama,Podarcis guadarramae,guadarra1.jpg,3,si
+reptil,Lagartija de Guadarrama,Podarcis guadarramae,guadarra2.jpg,3,si
+reptil,Lagartija de Guadarrama,Podarcis guadarramae,guadarra3.jpg,3,si
+reptil,Lagartija de Guadarrama,Podarcis guadarramae,guadarra4.jpg,3,si
+reptil,Lagartija colilarga,Psammodromus algirus,colilarga1.jpg,3,si
+reptil,Lagartija colilarga,Psammodromus algirus,colilarga2.jpg,3,si
+reptil,Lagartija colilarga,Psammodromus algirus,colilarga3.jpg,3,si
+reptil,Lagartija colilarga,Psammodromus algirus,colilarga4.jpg,3,si
+reptil,Lagartija carpetana,Iberolacerta cyreni,cyreni1.jpg,3,si
+reptil,Lagartija carpetana,Iberolacerta cyreni,cyreni2.jpg,3,si
+reptil,Lagartija carpetana,Iberolacerta cyreni,cyreni3.jpg,3,si
+reptil,Lagartija carpetana,Iberolacerta cyreni,cyreni4.jpg,3,si
+reptil,Lagartija cenicienta,Psammodromus hispanicus,cenicienta1.jpg,3,si
+reptil,Lagartija cenicienta,Psammodromus hispanicus,cenicienta2.jpg,3,si
+reptil,Lagartija cenicienta,Psammodromus hispanicus,cenicienta3.jpg,3,si
+reptil,Lagartija cenicienta,Psammodromus hispanicus,cenicienta4.jpg,3,si
+hongo,Hepática hemisférica,Reboulia hemisphaerica,reboulia1.jpg,1,si
+hongo,Hepática hemisférica,Reboulia hemisphaerica,reboulia2.jpg,1,si
+hongo,Hepática hemisférica,Reboulia hemisphaerica,reboulia3.jpg,1,si
+hongo,Hepática hemisférica,Reboulia hemisphaerica,reboulia4.jpg,1,si
+hongo,Hepática medialuna,Lunularia cruciata,lunularia1.jpg,1,si
+hongo,Hepática medialuna,Lunularia cruciata,lunularia2.jpg,1,si
+hongo,Hepática medialuna,Lunularia cruciata,lunularia3.jpg,1,si
+hongo,Hepática medialuna,Lunularia cruciata,lunularia4.jpg,1,si
+hongo,Hepática común,Marchantia polymorpha,hepatica1.jpg,1,si
+hongo,Hepática común,Marchantia polymorpha,hepatica2.jpg,1,si
+hongo,Hepática común,Marchantia polymorpha,hepatica3.jpg,1,si
+hongo,Hepática común,Marchantia polymorpha,hepatica4.jpg,1,si
+hongo,Liquen de encina,Evernia prunastri,evernia1.jpg,1,si
+hongo,Liquen de encina,Evernia prunastri,evernia2.jpg,1,si
+hongo,Liquen de encina,Evernia prunastri,evernia3.jpg,1,si
+hongo,Liquen de encina,Evernia prunastri,evernia4.jpg,1,si
+hongo,Musgo de árbol,Pseudevernia furfuracea,pseude1.jpg,1,si
+hongo,Musgo de árbol,Pseudevernia furfuracea,pseude2.jpg,1,si
+hongo,Musgo de árbol,Pseudevernia furfuracea,pseude3.jpg,1,si
+hongo,Musgo de árbol,Pseudevernia furfuracea,pseude4.jpg,1,si
+hongo,Liquen ciliado,Anaptychia ciliaris,ciliado1.jpg,1,no
+hongo,Liquen ciliado,Anaptychia ciliaris,ciliado2.jpg,1,no
+hongo,Liquen ciliado,Anaptychia ciliaris,ciliado3.jpg,1,no
+hongo,Liquen ciliado,Anaptychia ciliaris,ciliado4.jpg,1,no
+hongo,Pulmonaria,Lobaria pulmonaria,pulmonaria1.jpg,1,si
+hongo,Pulmonaria,Lobaria pulmonaria,pulmonaria2.jpg,1,si
+hongo,Pulmonaria,Lobaria pulmonaria,pulmonaria3.jpg,1,si
+hongo,Pulmonaria,Lobaria pulmonaria,pulmonaria4.jpg,1,si
+hongo,Liquen de escudo agrietado,Parmelia sulcata,parmelia1.jpg,1,si
+hongo,Liquen de escudo agrietado,Parmelia sulcata,parmelia2.jpg,1,si
+hongo,Liquen de escudo agrietado,Parmelia sulcata,parmelia3.jpg,1,si
+hongo,Liquen de escudo agrietado,Parmelia sulcata,parmelia4.jpg,1,si
+hongo,Liquen del perro,Peltigera canina,canina1.jpg,1,si
+hongo,Liquen del perro,Peltigera canina,canina2.jpg,1,si
+hongo,Liquen del perro,Peltigera canina,canina3.jpg,1,si
+hongo,Liquen del perro,Peltigera canina,canina4.webp,1,si
+hongo,Liquen cartilaginoso,Ramalina fraxinea,ramalina1.jpg,1,si
+hongo,Liquen cartilaginoso,Ramalina fraxinea,ramalina2.jpg,1,si
+hongo,Liquen cartilaginoso,Ramalina fraxinea,ramalina3.jpg,1,si
+hongo,Liquen cartilaginoso,Ramalina fraxinea,ramalina4.jpg,1,no
+hongo,Liquen de las tapias,Xanthoria parietina,parietina1.jpg,1,si
+hongo,Liquen de las tapias,Xanthoria parietina,parietina2.jpg,1,si
+hongo,Liquen de las tapias,Xanthoria parietina,parietina3.jpg,1,si
+hongo,Liquen de las tapias,Xanthoria parietina,parietina4.jpg,1,si
+hongo,Caloplaca aurantia,Caloplaca aurantia,caloplaca1.jpg,1,si
+hongo,Caloplaca aurantia,Caloplaca aurantia,caloplaca2.jpg,1,si
+hongo,Caloplaca aurantia,Caloplaca aurantia,caloplaca3.jpg,1,si
+hongo,Caloplaca aurantia,Caloplaca aurantia,caloplaca4.jpg,1,si
+hongo,Rhizocarpon geographicum,Rhizocarpon geographicum,geogra1.jpg,1,si
+hongo,Rhizocarpon geographicum,Rhizocarpon geographicum,geogra2.jpg,1,si
+hongo,Rhizocarpon geographicum,Rhizocarpon geographicum,geogra3.jpg,1,si
+hongo,Rhizocarpon geographicum,Rhizocarpon geographicum,geogra4.jpg,1,si
+hongo,Ramalina farinacea,Ramalina farinacea,farinacea1.jpg,1,si
+hongo,Ramalina farinacea,Ramalina farinacea,farinacea2.jpg,1,si
+hongo,Ramalina farinacea,Ramalina farinacea,farinacea3.webp,1,si
+hongo,Cladonia pyxidata,Cladonia pyxidata,cladonia1.jpg,1,si
+hongo,Cladonia pyxidata,Cladonia pyxidata,cladonia2.jpg,1,si
+hongo,Cladonia pyxidata,Cladonia pyxidata,cladonia3.jpg,1,si
+hongo,Cladonia pyxidata,Cladonia pyxidata,cladonia4.jpg,1,si
+hongo,Lasallia pustulata,Lasallia pustulata,lasallia1.jpg,1,si
+hongo,Lasallia pustulata,Lasallia pustulata,lasallia2.jpg,1,si
+hongo,Lasallia pustulata,Lasallia pustulata,lasallia3.jpg,1,si
+hongo,Lasallia pustulata,Lasallia pustulata,lasallia4.jpg,1,si
+hongo,Barbas de capuchino,Usnea barbata,barbata1.jpg,1,si
+hongo,Barbas de capuchino,Usnea barbata,barbata2.jpg,1,si
+hongo,Barbas de capuchino,Usnea barbata,barbata3.jpg,1,si
+hongo,Liquen huevo revuelto,Fulgensia fulgens,fulgensia1.jpg,2,si
+hongo,Liquen huevo revuelto,Fulgensia fulgens,fulgensia2.jpg,2,si
+hongo,Liquen huevo revuelto,Fulgensia fulgens,fulgensia3.jpg,2,si
+hongo,Liquen huevo revuelto,Fulgensia fulgens,fulgensia4.jpg,2,si
+hongo,Parmelina quercina,Parmelina quercina,quercina1.jpg,2,si
+hongo,Parmelina quercina,Parmelina quercina,quercina2.jpg,2,si
+hongo,Parmelina quercina,Parmelina quercina,quercina3.jpg,2,si
+hongo,Parmelina quercina,Parmelina quercina,quercina4.jpg,2,si
+hongo,Parmelina tiliacea,Parmelina tiliacea,parmelinat1.jpg,2,si
+hongo,Parmelina tiliacea,Parmelina tiliacea,parmelinat2.jpg,2,si
+hongo,Parmelina tiliacea,Parmelina tiliacea,parmelinat3.jpg,2,si
+hongo,Parmelina tiliacea,Parmelina tiliacea,parmelinat4.jpg,2,si
+hongo,Musgo hoja de ciprés,Hypnum cupressiforme,hypnum1.jpg,2,si
+hongo,Musgo hoja de ciprés,Hypnum cupressiforme,hypnum2.jpg,2,si
+hongo,Musgo hoja de ciprés,Hypnum cupressiforme,hypnum3.jpg,2,si
+hongo,Musgo hoja de ciprés,Hypnum cupressiforme,hypnum4.jpg,2,si
+hongo,Musgo de estrellas,Tortella squarrosa,tortella1.jpg,2,si
+hongo,Musgo de estrellas,Tortella squarrosa,tortella2.jpg,2,si
+hongo,Musgo de estrellas,Tortella squarrosa,tortella3.jpg,2,si
+hongo,Musgo de estrellas,Tortella squarrosa,tortella4.jpg,2,si
+hongo,Dedos del diablo,Clathrus archeri,archeri1.jpg,2,si
+hongo,Dedos del diablo,Clathrus archeri,archeri2.jpg,2,si
+hongo,Dedos del diablo,Clathrus archeri,archeri3.jpg,2,si
+hongo,Dedos del diablo,Clathrus archeri,archeri4.jpg,2,si
+hongo,Oronja,Amanita caesarea,caesarea1.jpg,2,si
+hongo,Oronja,Amanita caesarea,caesarea2.jpg,2,si
+hongo,Oronja,Amanita caesarea,caesarea3.jpg,2,si
+hongo,Oronja,Amanita caesarea,caesarea4.jpg,2,si
+hongo,Amanita matamoscas,Amanita muscaria,muscaria1.jpg,2,si
+hongo,Amanita matamoscas,Amanita muscaria,muscaria2.jpg,2,si
+hongo,Amanita matamoscas,Amanita muscaria,muscaria3.jpg,2,si
+hongo,Amanita matamoscas,Amanita muscaria,muscaria4.jpg,2,si
+hongo,Oronja verde,Amanita phalloides,phalloides1.jpg,2,si
+hongo,Oronja verde,Amanita phalloides,phalloides2.jpg,2,si
+hongo,Oronja verde,Amanita phalloides,phalloides3.jpg,2,si
+hongo,Oronja verde,Amanita phalloides,phalloides4.jpg,2,si
+hongo,Champiñón común,Agaricus bisporus,agaricus1.jpg,2,si
+hongo,Champiñón común,Agaricus bisporus,agaricus2.jpg,2,si
+hongo,Champiñón común,Agaricus bisporus,agaricus3.jpg,2,si
+hongo,Champiñón común,Agaricus bisporus,agaricus4.jpg,2,si
+hongo,Níscalo,Lactarius deliciosus,niscalo1.jpg,2,si
+hongo,Níscalo,Lactarius deliciosus,niscalo2.jpg,2,si
+hongo,Níscalo,Lactarius deliciosus,niscalo3.jpg,2,si
+hongo,Níscalo,Lactarius deliciosus,niscalo4.jpg,2,si
+hongo,Calabaza,Boletus edulis,calabaza1.jpg,2,si
+hongo,Calabaza,Boletus edulis,calabaza2.jpg,2,si
+hongo,Calabaza,Boletus edulis,calabaza3.jpg,2,si
+hongo,Calabaza,Boletus edulis,calabaza4.jpg,2,si
+hongo,Cola de pavo,Trametes versicolor,trametes1.jpg,2,si
+hongo,Cola de pavo,Trametes versicolor,trametes2.jpg,2,si
+hongo,Cola de pavo,Trametes versicolor,trametes3.jpg,2,si
+hongo,Cola de pavo,Trametes versicolor,trametes4.jpg,2,si
+hongo,Parasol,Macrolepiota procera,parasol1.jpg,2,si
+hongo,Parasol,Macrolepiota procera,parasol2.jpg,2,si
+hongo,Parasol,Macrolepiota procera,parasol3.jpg,2,si
+hongo,Parasol,Macrolepiota procera,parasol4.jpg,2,si
+hongo,Pedo de lobo,Lycoperdon perlatum,pedo1.jpg,2,si
+hongo,Pedo de lobo,Lycoperdon perlatum,pedo2.jpg,2,si
+hongo,Pedo de lobo,Lycoperdon perlatum,pedo3.jpg,2,si
+hongo,Pedo de lobo,Lycoperdon perlatum,pedo4.jpg,2,si
+hongo,Cornezuelo del centeno,Claviceps purpurea,cornezuelo1.jpg,2,si
+hongo,Cornezuelo del centeno,Claviceps purpurea,cornezuelo2.jpg,2,si
+hongo,Cornezuelo del centeno,Claviceps purpurea,cornezuelo3.jpg,2,si
+hongo,Cornezuelo del centeno,Claviceps purpurea,cornezuelo4.jpg,2,si
+hongo,Barbuda,Coprinus comatus,barbuda1.jpg,2,si
+hongo,Barbuda,Coprinus comatus,barbuda2.jpg,2,si
+hongo,Barbuda,Coprinus comatus,barbuda3.jpg,2,si
+hongo,Barbuda,Coprinus comatus,barbuda4.jpg,2,si
+hongo,Hongo yesquero,Fomes fomentarius,fomes1.jpg,2,si
+hongo,Hongo yesquero,Fomes fomentarius,fomes2.jpg,2,si
+hongo,Hongo yesquero,Fomes fomentarius,fomes3.jpg,2,si
+hongo,Hongo yesquero,Fomes fomentarius,fomes4.jpg,2,si
+hongo,Lengua de gato,Hydnum repandum,hydnum1.jpg,2,si
+hongo,Lengua de gato,Hydnum repandum,hydnum2.jpg,2,si
+hongo,Lengua de gato,Hydnum repandum,hydnum3.jpg,2,si
+hongo,Lengua de gato,Hydnum repandum,hydnum4.jpg,2,si
+hongo,Colmenilla,Morchella esculenta,morchella1.jpg,3,si
+hongo,Colmenilla,Morchella esculenta,morchella2.jpg,3,si
+hongo,Colmenilla,Morchella esculenta,morchella3.jpg,3,si
+hongo,Colmenilla,Morchella esculenta,morchella4.jpg,3,si
+hongo,Falo hediondo,Phallus impudicus,phallus1.jpg,3,si
+hongo,Falo hediondo,Phallus impudicus,phallus2.jpg,3,si
+hongo,Falo hediondo,Phallus impudicus,phallus3.jpg,3,si
+hongo,Falo hediondo,Phallus impudicus,phallus4.jpg,3,si
+hongo,Boleto baboso,Suillus luteus,suillus1.jpg,3,si
+hongo,Boleto baboso,Suillus luteus,suillus2.jpg,3,si
+hongo,Boleto baboso,Suillus luteus,suillus3.jpg,3,si
+hongo,Boleto baboso,Suillus luteus,suillus4.jpg,3,si
+hongo,Seta de cardo,Pleurotus eryngii,cardo1.jpg,3,si
+hongo,Seta de cardo,Pleurotus eryngii,cardo2.jpg,3,si
+hongo,Seta de cardo,Pleurotus eryngii,cardo3.jpg,3,si
+hongo,Seta de cardo,Pleurotus eryngii,cardo4.jpg,3,si
+hongo,Seta de ostra,Pleurotus ostreatus,ostreatus1.jpg,3,si
+hongo,Seta de ostra,Pleurotus ostreatus,ostreatus2.webp,3,si
+hongo,Seta de ostra,Pleurotus ostreatus,ostreatus3.jpg,3,si
+hongo,Seta de ostra,Pleurotus ostreatus,ostreatus4.jpg,3,si
+hongo,Rebozuelo,Cantharellus cibarius,rebozuelo1.jpg,3,si
+hongo,Rebozuelo,Cantharellus cibarius,rebozuelo2.jpg,3,si
+hongo,Rebozuelo,Cantharellus cibarius,rebozuelo3.jpg,3,si
+hongo,Rebozuelo,Cantharellus cibarius,rebozuelo4.jpg,3,si
+hongo,Patarata,Calvatia cyathiformis,calvatia1.jpg,3,si
+hongo,Patarata,Calvatia cyathiformis,calvatia2.jpg,3,si
+hongo,Patarata,Calvatia cyathiformis,calvatia3.jpg,3,si
+hongo,Patarata,Calvatia cyathiformis,calvatia4.jpg,3,si
+hongo,Clatro rojo,Clathrus ruber,clathrus1.jpg,3,si
+hongo,Clatro rojo,Clathrus ruber,clathrus2.jpg,3,si
+hongo,Clatro rojo,Clathrus ruber,clathrus3.jpg,3,si
+hongo,Clatro rojo,Clathrus ruber,clathrus4.jpg,3,si
+hongo,Estrella de tierra,Astraeus hygrometricus,astraeus1.jpg,3,si
+hongo,Estrella de tierra,Astraeus hygrometricus,astraeus2.jpg,3,si
+hongo,Estrella de tierra,Astraeus hygrometricus,astraeus3.jpg,3,si
+hongo,Estrella de tierra,Astraeus hygrometricus,astraeus4.jpg,3,si
+hongo,Seta de los caballeros,Tricholoma equestre,tricholoma1.jpg,3,si
+hongo,Seta de los caballeros,Tricholoma equestre,tricholoma2.jpg,3,si
+hongo,Seta de los caballeros,Tricholoma equestre,tricholoma3.jpg,3,si
+hongo,Seta de los caballeros,Tricholoma equestre,tricholoma4.jpg,3,si
+hongo,Mycena polygramma,Mycena polygramma,mycena1.jpg,3,si
+hongo,Mycena polygramma,Mycena polygramma,mycena2.jpg,3,si
+hongo,Mycena polygramma,Mycena polygramma,mycena3.jpg,3,si
+hongo,Mycena polygramma,Mycena polygramma,mycena4.jpg,3,si
+hongo,Boleto pinícola,Boletus pinophilus,pinophilus1.jpg,3,si
+hongo,Boleto pinícola,Boletus pinophilus,pinophilus2.jpg,3,si
+hongo,Boleto pinícola,Boletus pinophilus,pinophilus3.jpg,3,si
+hongo,Boleto pinícola,Boletus pinophilus,pinophilus4.jpg,3,si
+hongo,Seta nido,Crucibulum laeve,laeve1.jpg,3,no
+hongo,Seta nido,Crucibulum laeve,laeve2.jpg,3,no
+hongo,Seta nido,Crucibulum laeve,laeve3.jpg,3,no
+hongo,Seta nido,Crucibulum laeve,laeve4.jpg,3,no
+hongo,Seta nido,Cyathus olla,olla1.jpg,3,no
+hongo,Seta nido,Cyathus olla,olla2.jpg,3,no
+hongo,Seta nido,Cyathus olla,olla3.jpg,3,no
+hongo,Seta nido,Cyathus olla,olla4.jpg,3,no
+hongo,Oreja de gato negra,Helvella lacunosa,helvella1.jpg,3,si
+hongo,Oreja de gato negra,Helvella lacunosa,helvella2.jpg,3,si
+hongo,Oreja de gato negra,Helvella lacunosa,helvella3.jpg,3,si
+hongo,Oreja de gato negra,Helvella lacunosa,helvella4.jpg,3,si
+hongo,Champiñón silvestre,Agaricus campestris,campestris1.jpg,3,si
+hongo,Champiñón silvestre,Agaricus campestris,campestris2.jpg,3,si
+hongo,Champiñón silvestre,Agaricus campestris,campestris3.jpg,3,si
+hongo,Champiñón silvestre,Agaricus campestris,campestris4.jpg,3,si
+hongo,Champiñón venenoso,Agaricus xanthodermus,xantho1.jpg,3,si
+hongo,Champiñón venenoso,Agaricus xanthodermus,xantho2.jpg,3,si
+hongo,Champiñón venenoso,Agaricus xanthodermus,xantho3.jpg,3,si
+hongo,Seta de chopo,Agrocybe aegerita,agrocybe1.jpg,3,si
+hongo,Seta de chopo,Agrocybe aegerita,agrocybe2.jpg,3,si
+hongo,Seta de chopo,Agrocybe aegerita,agrocybe3.jpg,3,si
+hongo,Seta de chopo,Agrocybe aegerita,agrocybe4.jpg,3,si
+hongo,Senderuela,Marasmius oreades,senderuela1.jpg,3,si
+hongo,Senderuela,Marasmius oreades,senderuela2.jpg,3,si
+hongo,Senderuela,Marasmius oreades,senderuela3.jpg,3,si
+hongo,Senderuela,Marasmius oreades,senderuela4.jpg,3,si
+hongo,Amanita pantera,Amanita pantherina,pantera1.jpg,3,si
+hongo,Amanita pantera,Amanita pantherina,pantera2.jpg,3,si
+hongo,Amanita pantera,Amanita pantherina,pantera3.jpg,3,si
+hongo,Amanita pantera,Amanita pantherina,pantera4.jpg,3,si
+fosil,Jurásico Cretácico,Ammonite sp.,ammonite1.jpg,1,si
+fosil,Jurásico Cretácico,Ammonite sp.,ammonite2.jpg,1,si
+fosil,Jurásico Cretácico,Ammonite sp.,ammonite3.jpg,1,si
+fosil,Jurásico Cretácico,Ammonite sp.,ammonite4.jpg,1,si
+fosil,Nautilus,Nautilus sp.,nautilus1.jpg,1,si
+fosil,Nautilus,Nautilus sp.,nautilus2.jpg,1,si
+fosil,Nautilus,Nautilus sp.,nautilus3.jpg,1,si
+fosil,Nautilus,Nautilus sp.,nautilus4.jpg,1,si
+fosil,Carbonífero,Goniatites sp.,goniatites1.jpg,1,si
+fosil,Carbonífero,Goniatites sp.,goniatites2.jpg,1,si
+fosil,Carbonífero,Goniatites sp.,goniatites3.jpg,1,si
+fosil,Carbonífero,Goniatites sp.,goniatites4.jpg,1,si
+fosil,Triásico,Ceratites sp.,ceratites1.jpg,1,si
+fosil,Triásico,Ceratites sp.,ceratites2.jpg,1,si
+fosil,Triásico,Ceratites sp.,ceratites3.jpg,1,si
+fosil,Triásico,Ceratites sp.,ceratites4.jpg,1,si
+fosil,Jurásico,Belemnites sp.,belemnite1.jpg,1,si
+fosil,Jurásico,Belemnites sp.,belemnite2.jpg,1,si
+fosil,Jurásico,Belemnites sp.,belemnite3.jpg,1,si
+fosil,Jurásico,Belemnites sp.,belemnite4.jpg,1,si
+fosil,Ordovícico,Orthoceras sp.,orthoceras1.jpg,1,si
+fosil,Ordovícico,Orthoceras sp.,orthoceras2.jpg,1,si
+fosil,Ordovícico,Orthoceras sp.,orthoceras3.jpg,1,si
+fosil,Ordovícico,Orthoceras sp.,orthoceras4.jpg,1,si
+fosil,Paleógeno Neógeno,Planorbis sp.,planorbis1.jpg,1,si
+fosil,Paleógeno Neógeno,Planorbis sp.,planorbis2.jpg,1,si
+fosil,Paleógeno Neógeno,Planorbis sp.,planorbis3.jpg,1,si
+fosil,Paleógeno Neógeno,Planorbis sp.,planorbis4.jpg,1,si
+fosil,Neógeno  ,Turritella sp.,turritella1.jpg,1,si
+fosil,Neógeno  ,Turritella sp.,turritella2.jpg,1,si
+fosil,Neógeno  ,Turritella sp.,turritella3.jpg,1,si
+fosil,Neógeno  ,Turritella sp.,turritella4.jpg,1,si
+fosil,Neógeno  ,Ostrea sp.,crassos1.jpg,1,si
+fosil,Neógeno  ,Ostrea sp.,crassos2.jpg,1,si
+fosil,Neógeno  ,Ostrea sp.,crassos3.jpg,1,si
+fosil,Neógeno  ,Ostrea sp.,crassos4.jpg,1,si
+fosil,Cretácico,Exogyra sp.,exogyra1.jpg,1,si
+fosil,Cretácico,Exogyra sp.,exogyra2.jpg,1,si
+fosil,Cretácico,Exogyra sp.,exogyra3.jpg,1,si
+fosil,Cretácico,Exogyra sp.,exogyra4.jpg,1,si
+fosil,Gryphaea,Gryphaea sp.,gryphaea1.jpg,1,si
+fosil,Gryphaea,Gryphaea sp.,gryphaea2.jpg,1,si
+fosil,Gryphaea,Gryphaea sp.,gryphaea3.jpg,1,si
+fosil,Gryphaea,Gryphaea sp.,gryphaea4.jpg,1,si
+fosil,Cretácico,Hippurites sp.,hippurites1.jpg,1,si
+fosil,Cretácico,Hippurites sp.,hippurites2.jpg,1,si
+fosil,Cretácico,Hippurites sp.,hippurites3.jpg,1,si
+fosil,Cretácico,Hippurites sp.,hippurites4.jpg,1,si
+fosil,Jurásico Cretácico,Myophorella sp.,myophorella1.jpg,1,si
+fosil,Jurásico Cretácico,Myophorella sp.,myophorella2.jpg,1,si
+fosil,Jurásico Cretácico,Myophorella sp.,myophorella3.jpg,1,si
+fosil,Jurásico Cretácico,Myophorella sp.,myophorella4.jpg,1,si
+fosil,Jurásico,Trigonia sp.,trigonia1.jpg,1,si
+fosil,Jurásico,Trigonia sp.,trigonia2.jpg,1,si
+fosil,Jurásico,Trigonia sp.,trigonia3.jpg,1,si
+fosil,Jurásico,Trigonia sp.,trigonia4.jpg,1,si
+fosil,Plicatula,Plicatula sp.,plicatula1.jpg,1,si
+fosil,Plicatula,Plicatula sp.,plicatula2.jpg,1,si
+fosil,Plicatula,Plicatula sp.,plicatula3.jpg,1,si
+fosil,Plicatula,Plicatula sp.,plicatula4.jpg,1,si
+fosil,Devónico,Calceola sp.,calceola1.jpg,1,si
+fosil,Devónico,Calceola sp.,calceola2.jpg,1,si
+fosil,Devónico,Calceola sp.,calceola3.jpg,1,si
+fosil,Devónico,Calceola sp.,calceola4.jpg,1,si
+fosil,Cretácico,Cyclolites sp.,cyclolites1.jpg,1,si
+fosil,Cretácico,Cyclolites sp.,cyclolites2.jpg,1,si
+fosil,Cretácico,Cyclolites sp.,cyclolites3.jpg,1,si
+fosil,Cretácico,Cyclolites sp.,cyclolites4.jpg,1,si
+fosil,Flabellum,Flabellum sp.,flabellum1.jpg,1,no
+fosil,Flabellum,Flabellum sp.,flabellum2.jpg,1,no
+fosil,Flabellum,Flabellum sp.,flabellum3.jpg,1,no
+fosil,Flabellum,Flabellum sp.,flabellum4.jpg,1,no
+fosil,Parasmilia,Parasmilia sp.,parasmilia1.jpg,1,no
+fosil,Parasmilia,Parasmilia sp.,parasmilia2.jpg,1,no
+fosil,Parasmilia,Parasmilia sp.,parasmilia3.jpg,1,no
+fosil,Parasmilia,Parasmilia sp.,parasmilia4.jpg,1,no
+fosil,Placosmilia,Placosmilia sp.,placosmilia1.jpg,1,si
+fosil,Placosmilia,Placosmilia sp.,placosmilia2.jpg,1,si
+fosil,Placosmilia,Placosmilia sp.,placosmilia3.jpg,1,si
+fosil,Placosmilia,Placosmilia sp.,placosmilia4.jpg,1,si
+fosil,Paleógeno Neógeno,Clypeaster sp.,clype1.jpg,2,si
+fosil,Paleógeno Neógeno,Clypeaster sp.,clype2.jpg,2,si
+fosil,Paleógeno Neógeno,Clypeaster sp.,clype3.jpg,2,si
+fosil,Paleógeno Neógeno,Clypeaster sp.,clype4.jpg,2,si
+fosil,Cretácico,Heteraster sp.,heteraster1.jpg,2,si
+fosil,Cretácico,Heteraster sp.,heteraster2.jpg,2,si
+fosil,Cretácico,Heteraster sp.,heteraster3.jpg,2,si
+fosil,Cretácico,Heteraster sp.,heteraster4.jpg,2,si
+fosil,Cretácico,Micraster sp.,micraster1.jpg,2,si
+fosil,Cretácico,Micraster sp.,micraster2.jpg,2,si
+fosil,Cretácico,Micraster sp.,micraster3.jpg,2,si
+fosil,Cretácico,Micraster sp.,micraster4.jpg,2,si
+fosil,Triásico,Encrinus sp.,encrinus1.jpg,2,si
+fosil,Triásico,Encrinus sp.,encrinus2.jpg,2,no
+fosil,Triásico,Encrinus sp.,encrinus3.jpg,2,no
+fosil,Triásico,Encrinus sp.,encrinus4.jpg,2,no
+fosil,Triásico,Encrinus sp.,encrinus5.png,2,si
+fosil,Triásico,Encrinus sp.,encrinus6.png,2,si
+fosil,Triásico,Encrinus sp.,encrinus7.png,2,si
+fosil,Triásico,Encrinus sp.,encrinus8.png,2,si
+fosil,Triásico,Encrinus sp.,encrinus9.png,2,si
+fosil,Jurásico,Amaltheus sp.,amaltheus1.jpg,2,si
+fosil,Jurásico,Amaltheus sp.,amaltheus2.jpg,2,si
+fosil,Jurásico,Amaltheus sp.,amaltheus3.jpg,2,si
+fosil,Jurásico,Amaltheus sp.,amaltheus4.webp,2,si
+fosil,Paleógeno  ,Helix sp.,helix1.png,2,si
+fosil,Jurásico,Hildoceras sp.,hildoceras1.png,2,si
+fosil,Jurásico,Hildoceras sp.,hildoceras2.jpg,2,si
+fosil,Jurásico,Hildoceras sp.,hildoceras3.webp,2,si
+fosil,Jurásico,Hildoceras sp.,hildoceras4.webp,2,si
+fosil,Jurásico,Dactylioceras sp.,dactylioceras1.png,2,si
+fosil,Jurásico,Dactylioceras sp.,dactylioceras2.jpg,2,si
+fosil,Jurásico,Dactylioceras sp.,dactylioceras3.jpg,2,si
+fosil,Jurásico,Dactylioceras sp.,dactylioceras4.jpg,2,si
+fosil,Diploctenium,Diploctenium sp.,diploctenium1.png,2,si
+fosil,Diploctenium,Diploctenium sp.,diploctenium2.jpg,2,si
+fosil,Diploctenium,Diploctenium sp.,diploctenium3.jpg,2,si
+fosil,Diploctenium,Diploctenium sp.,diploctenium4.jpg,2,si
+fosil,Neógeno,Otodus sp.,carcha1.jpg,2,si
+fosil,Neógeno,Otodus sp.,carcha2.jpg,2,si
+fosil,Neógeno,Otodus sp.,carcha3.jpg,2,si
+fosil,Neógeno,Otodus sp.,carcha4.jpg,2,si
+fosil,Cretácico,Radiolites sp.,radiolites1.jpg,2,si
+fosil,Cretácico,Radiolites sp.,radiolites2.jpg,2,si
+fosil,Cretácico,Radiolites sp.,radiolites3.jpg,2,si
+fosil,Cretácico,Radiolites sp.,radiolites4.jpg,2,si
+fosil,Cuaternario,Hipparion sp.,equus1.jpg,2,si
+fosil,Cuaternario,Hipparion sp.,equus2.jpg,2,si
+fosil,Cuaternario,Hipparion sp.,equus3.jpg,2,si
+fosil,Cuaternario,Hipparion sp.,equus4.jpg,2,si
+fosil,Neógeno,Otodus sp.,otodus1.jpg,2,no
+fosil,Neógeno,Otodus sp.,otodus2.jpg,2,no
+fosil,Neógeno,Otodus sp.,otodus3.jpg,2,no
+fosil,Neógeno,Otodus sp.,otodus4.jpg,2,no
+fosil,Neógeno,Dentalium sp.,dentalium1.jpg,2,si
+fosil,Neógeno,Dentalium sp.,dentalium2.jpg,2,si
+fosil,Neógeno,Dentalium sp.,dentalium3.jpg,2,si
+fosil,Neógeno,Dentalium sp.,dentalium4.jpg,2,si
+fosil,Carbonífero,Fusulina sp.,fusulina1.jpg,2,si
+fosil,Carbonífero,Fusulina sp.,fusulina2.jpg,2,si
+fosil,Carbonífero,Fusulina sp.,fusulina3.jpg,2,si
+fosil,Carbonífero,Fusulina sp.,fusulina4.jpg,2,si
+fosil,Paleógeno  ,Nummulites sp.,nummu1.jpg,2,si
+fosil,Paleógeno  ,Nummulites sp.,nummu2.jpg,2,si
+fosil,Paleógeno  ,Nummulites sp.,nummu3.jpg,2,si
+fosil,Paleógeno  ,Nummulites sp.,nummu4.jpg,2,si
+fosil,Cretácico,Orbitolina sp.,orbi1.jpg,2,si
+fosil,Cretácico,Orbitolina sp.,orbi2.jpg,2,si
+fosil,Cretácico,Orbitolina sp.,orbi3.jpg,2,si
+fosil,Cretácico,Orbitolina sp.,orbi4.jpg,2,si
+fosil,Heliolites,Heliolites sp.,heliolites1.png,2,si
+fosil,Heliolites,Heliolites sp.,heliolites2.jpg,2,si
+fosil,Heliolites,Heliolites sp.,heliolites3.jpg,2,si
+fosil,Heliolites,Heliolites sp.,heliolites4.jpg,2,si
+fosil,Hexagonaria,Hexagonaria sp.,hexagonaria1.jpg,2,si
+fosil,Hexagonaria,Hexagonaria sp.,hexagonaria2.jpg,2,si
+fosil,Hexagonaria,Hexagonaria sp.,hexagonaria3.png,2,si
+fosil,Hexagonaria,Hexagonaria sp.,hexagonaria4.jpg,2,si
+fosil,Didymograptus,Didymograptus sp.,didy1.jpg,3,si
+fosil,Didymograptus,Didymograptus sp.,didy2.jpg,3,si
+fosil,Didymograptus,Didymograptus sp.,didy3.jpg,3,si
+fosil,Didymograptus,Didymograptus sp.,didy4.jpg,3,si
+fosil,Silúrico,Monograptus sp.,mono1.jpg,3,si
+fosil,Silúrico,Monograptus sp.,mono2.jpg,3,si
+fosil,Silúrico,Monograptus sp.,mono3.jpg,3,si
+fosil,Silúrico,Monograptus sp.,mono4.jpg,3,si
+fosil,Spirograptus,Spirograptus sp.,spiro1.jpg,3,si
+fosil,Spirograptus,Spirograptus sp.,spiro2.jpg,3,si
+fosil,Spirograptus,Spirograptus sp.,spiro3.jpg,3,si
+fosil,Spirograptus,Spirograptus sp.,spiro4.jpg,3,si
+fosil,Devónico,Paraspirifer sp.,paraspi1.jpg,3,si
+fosil,Devónico,Paraspirifer sp.,paraspi2.jpg,3,si
+fosil,Devónico,Paraspirifer sp.,paraspi3.jpg,3,si
+fosil,Devónico,Paraspirifer sp.,paraspi4.jpg,3,si
+fosil,Jurásico Cretácico,Pygope sp.,pygope1.jpg,3,si
+fosil,Jurásico Cretácico,Pygope sp.,pygope2.jpg,3,si
+fosil,Jurásico Cretácico,Pygope sp.,pygope3.jpg,3,si
+fosil,Jurásico Cretácico,Pygope sp.,pygope4.jpg,3,si
+fosil,Jurásico,Rhynchonella sp.,rhyncho1.jpg,3,si
+fosil,Jurásico,Rhynchonella sp.,rhyncho2.jpg,3,si
+fosil,Jurásico,Rhynchonella sp.,rhyncho3.jpg,3,si
+fosil,Jurásico,Rhynchonella sp.,rhyncho4.jpg,3,si
+fosil,Jurásico,Rhynchonella sp.,rhyncho5.jpg,3,si
+fosil,Jurásico,Zeilleria sp.,zeilleria1.jpg,3,si
+fosil,Jurásico,Zeilleria sp.,zeilleria2.jpg,3,si
+fosil,Jurásico,Zeilleria sp.,zeilleria3.jpg,3,si
+fosil,Jurásico,Zeilleria sp.,zeilleria4.jpg,3,si
+fosil,Jurásico,Zeilleria sp.,zeilleria5.jpg,3,si
+fosil,Jurásico,Zeilleria sp.,zeilleria6.jpg,3,si
+fosil,Mellita,Mellita sp.,mellita1.jpg,3,si
+fosil,Mellita,Mellita sp.,mellita2.jpg,3,si
+fosil,Mellita,Mellita sp.,mellita3.jpg,3,si
+fosil,Mellita,Mellita sp.,mellita4.jpg,3,si
+fosil,Harpes,Harpes sp.,harpes1.png,3,no
+fosil,Harpes,Harpes sp.,harpes2.jpg,3,no
+fosil,Harpes,Harpes sp.,harpes3.jpg,3,no
+fosil,Harpes,Harpes sp.,harpes4.jpg,3,no
+fosil,Jurásico,Terebratula sp.,tere1.jpg,3,si
+fosil,Jurásico,Terebratula sp.,tere2.jpg,3,si
+fosil,Jurásico,Terebratula sp.,tere3.jpg,3,si
+fosil,Jurásico,Terebratula sp.,tere4.jpg,3,si
+fosil,Cámbrico Ordovícico,Cruziana sp.,cruziana1.jpg,3,si
+fosil,Cámbrico Ordovícico,Cruziana sp.,cruziana2.jpg,3,si
+fosil,Cámbrico Ordovícico,Cruziana sp.,cruziana3.jpg,3,si
+fosil,Cámbrico Ordovícico,Cruziana sp.,cruziana4.jpg,3,si
+fosil,Carbonífero,Calamites sp.,calamites1.jpg,3,no
+fosil,Carbonífero,Calamites sp.,calamites2.jpg,3,no
+fosil,Carbonífero,Calamites sp.,calamites3.jpg,3,si
+fosil,Carbonífero,Calamites sp.,calamites4.jpg,3,si
+fosil,Carbonífero,Calamites sp.,calamites5.png,3,si
+fosil,Carbonífero,Calamites sp.,calamites6.jpg,3,si
+fosil,Carbonífero,Lepidodendron sp.,lepido1.jpg,3,si
+fosil,Carbonífero,Lepidodendron sp.,lepido2.jpg,3,si
+fosil,Carbonífero,Lepidodendron sp.,lepido3.jpg,3,si
+fosil,Carbonífero,Lepidodendron sp.,lepido4.jpg,3,si
+fosil,Carbonífero,Sigillaria sp.,sigillaria1.jpg,3,si
+fosil,Carbonífero,Sigillaria sp.,sigillaria2.jpg,3,si
+fosil,Carbonífero,Sigillaria sp.,sigillaria3.jpg,3,si
+fosil,Carbonífero,Sigillaria sp.,sigillaria4.jpg,3,si
+fosil,Carbonífero,Stigmaria sp.,stigmaria1.jpg,3,si
+fosil,Carbonífero,Stigmaria sp.,stigmaria2.jpg,3,si
+fosil,Carbonífero,Stigmaria sp.,stigmaria3.jpg,3,si
+fosil,Carbonífero,Stigmaria sp.,stigmaria4.jpg,3,si
+fosil,Carbonífero,Stigmaria sp.,stigmaria5.png,3,si
+fosil,Carbonífero,Pecopteris sp.,pecopteris1.jpg,3,si
+fosil,Carbonífero,Pecopteris sp.,pecopteris2.jpg,3,si
+fosil,Carbonífero,Pecopteris sp.,pecopteris3.jpg,3,si
+fosil,Carbonífero,Pecopteris sp.,pecopteris4.webp,3,si
+fosil,Carbonífero,Neuropteris sp.,neurop1.jpg,3,si
+fosil,Carbonífero,Neuropteris sp.,neurop2.jpg,3,si
+fosil,Carbonífero,Neuropteris sp.,neurop3.jpg,3,si
+fosil,Carbonífero,Neuropteris sp.,neurop4.jpg,3,si
+fosil,Neógeno Cuaternario,Pecten sp.,pecten1.png,3,si
+fosil,Neógeno Cuaternario,Pecten sp.,pecten3.png,3,si
+fosil,Neógeno Cuaternario,Pecten sp.,pecten4.png,3,si
+fosil,Neógeno Cuaternario,Pecten sp.,pecten5.jpg,3,si
+fosil,Neógeno  ,Potamides sp.,potamides1.jpg,3,si
+fosil,Neógeno  ,Potamides sp.,potamides2.jpg,3,si
+fosil,Neógeno  ,Potamides sp.,potamides3.webp,3,si
+fosil,Neógeno  ,Potamides sp.,potamides4.jpg,3,si
+fosil,Calymene,Calymene sp.,calymene1.jpg,3,si
+fosil,Calymene,Calymene sp.,calymene2.jpg,3,si
+fosil,Calymene,Calymene sp.,calymene3.jpg,3,si
+fosil,Calymene,Calymene sp.,calymene4.jpg,3,si
+fosil,Silúrico,Phacops sp.,phacops1.jpg,3,si
+fosil,Silúrico,Phacops sp.,phacops2.jpg,3,si
+fosil,Silúrico,Phacops sp.,phacops3.jpg,3,si
+fosil,Silúrico,Phacops sp.,phacops4.jpg,3,si
+fosil,Asaphus,Asaphus sp.,asaphus1.jpg,3,si
+fosil,Asaphus,Asaphus sp.,asaphus2.jpg,3,si
+fosil,Asaphus,Asaphus sp.,asaphus3.jpg,3,si
+fosil,Asaphus,Asaphus sp.,asaphus4.jpg,3,si
+fosil,Elrathia,Elrathia sp.,elrathia1.jpg,3,si
+fosil,Elrathia,Elrathia sp.,elrathia2.jpg,3,si
+fosil,Elrathia,Elrathia sp.,elrathia3.webp,3,si
+fosil,Elrathia,Elrathia sp.,elrathia4.jpg,3,si
+fosil,Peronopsis,Peronopsis sp.,peronopsis1.jpg,3,si
+fosil,Peronopsis,Peronopsis sp.,peronopsis2.jpg,3,si
+fosil,Peronopsis,Peronopsis sp.,peronopsis3.jpg,3,si
+fosil,Peronopsis,Peronopsis sp.,peronopsis4.jpg,3,si
+fosil,Favosites,Favosites sp.,favosites1.jpg,3,si
+fosil,Favosites,Favosites sp.,favosites2.jpg,3,si
+fosil,Favosites,Favosites sp.,favosites3.jpg,3,si
+fosil,Estromatolitos,Estromatolitos,estroma1.jpg,3,si
+fosil,Estromatolitos,Estromatolitos,estroma2.jpg,3,si
+fosil,Estromatolitos,Estromatolitos,estroma3.jpg,3,si
+mamifero,Caballo,Equus ferus,caballo1.jpg,1,si
+mamifero,Caballo,Equus ferus,caballo2.jpg,1,si
+mamifero,Caballo,Equus ferus,caballo3.jpg,1,si
+mamifero,Cabra doméstica,Capra hircus,hircus1.webp,1,si
+mamifero,Cabra doméstica,Capra hircus,hircus2.jpg,1,si
+mamifero,Cabra doméstica,Capra hircus,hircus3.jpg,1,si
+mamifero,Cabra doméstica,Capra hircus,hircus4.jpg,1,si
+mamifero,Cabra montés,Capra pyrenaica,cabra1.jpg,1,si
+mamifero,Cabra montés,Capra pyrenaica,cabra2.jpg,1,si
+mamifero,Cabra montés,Capra pyrenaica,cabra3.jpg,1,si
+mamifero,Cabra montés,Capra pyrenaica,cabra4.jpg,1,si
+mamifero,Rebeco,Rupicapra pyrenaica,rebeco1.jpg,1,si
+mamifero,Rebeco,Rupicapra pyrenaica,rebeco2.png,1,si
+mamifero,Rebeco,Rupicapra pyrenaica,rebeco3.jpg,1,si
+mamifero,Rebeco,Rupicapra pyrenaica,rebeco4.jpg,1,si
+mamifero,Ciervo rojo,Cervus elaphus,ciervo1.jpg,1,si
+mamifero,Ciervo rojo,Cervus elaphus,ciervo2.jpg,1,si
+mamifero,Ciervo rojo,Cervus elaphus,ciervo3.jpg,1,si
+mamifero,Ciervo rojo,Cervus elaphus,ciervo4.jpg,1,si
+mamifero,Corzo ,Capreolus capreolus,corzo1.jpg,1,si
+mamifero,Corzo ,Capreolus capreolus,corzo2.jpg,1,si
+mamifero,Corzo ,Capreolus capreolus,corzo3.jpg,1,si
+mamifero,Corzo ,Capreolus capreolus,corzo4.jpg,1,si
+mamifero,Gamo ,Dama dama,gamo1.jpg,1,si
+mamifero,Gamo ,Dama dama,gamo2.jpg,1,si
+mamifero,Gamo ,Dama dama,gamo3.jpg,1,si
+mamifero,Gamo ,Dama dama,gamo4.jpg,1,si
+mamifero,Jabalí,Sus scrofa,jabali1.jpg,1,si
+mamifero,Jabalí,Sus scrofa,jabali2.jpg,1,si
+mamifero,Jabalí,Sus scrofa,jabali3.jpg,1,si
+mamifero,Jabalí,Sus scrofa,jabali4.jpg,1,si
+mamifero,Oveja,Ovis aries,oveja1.jpg,1,si
+mamifero,Oveja,Ovis aries,oveja2.jpg,1,si
+mamifero,Oveja,Ovis aries,oveja3.jpg,1,si
+mamifero,Oveja,Ovis aries,oveja4.jpg,1,si
+mamifero,Vaca,Bos taurus,vaca1.jpg,1,si
+mamifero,Vaca,Bos taurus,vaca2.jpg,1,si
+mamifero,Vaca,Bos taurus,vaca3.jpg,1,si
+mamifero,Vaca,Bos taurus,vaca4.jpg,1,si
+mamifero,Lobo,Canis lupus,lobo1.jpg,1,si
+mamifero,Lobo,Canis lupus,lobo2.jpg,1,si
+mamifero,Lobo,Canis lupus,lobo3.jpg,1,si
+mamifero,Lobo,Canis lupus,lobo4.jpg,1,si
+mamifero,Oso pardo,Ursus arctos,oso1.jpg,1,si
+mamifero,Oso pardo,Ursus arctos,oso2.jpg,1,si
+mamifero,Oso pardo,Ursus arctos,oso3.jpg,1,si
+mamifero,Oso pardo,Ursus arctos,oso4.jpg,1,si
+mamifero,Lince ibérico,Lynx pardinus,lynx1.jpg,2,si
+mamifero,Lince ibérico,Lynx pardinus,lynx2.jpg,2,si
+mamifero,Lince ibérico,Lynx pardinus,lynx3.jpg,2,si
+mamifero,Lince ibérico,Lynx pardinus,lynx5.jpg,2,si
+mamifero,Zorro rojo,Vulpes vulpes,zorro1.jpg,2,si
+mamifero,Zorro rojo,Vulpes vulpes,zorro2.jpg,2,si
+mamifero,Zorro rojo,Vulpes vulpes,zorro3.jpg,2,si
+mamifero,Zorro rojo,Vulpes vulpes,zorro4.jpg,2,si
+mamifero,Tejón,Meles meles,tejon1.jpg,2,si
+mamifero,Tejón,Meles meles,tejon2.jpg,2,si
+mamifero,Tejón,Meles meles,tejon3.jpg,2,si
+mamifero,Tejón,Meles meles,tejon4.jpg,2,si
+mamifero,Jineta,Genetta genetta,jineta1.jpg,2,si
+mamifero,Jineta,Genetta genetta,jineta2.jpg,2,si
+mamifero,Jineta,Genetta genetta,jineta3.jpg,2,si
+mamifero,Jineta,Genetta genetta,jineta4.jpg,2,si
+mamifero,Nutria,Lutra lutra,nutria1.jpg,2,si
+mamifero,Nutria,Lutra lutra,nutria2.jpg,2,si
+mamifero,Nutria,Lutra lutra,nutria3.jpg,2,si
+mamifero,Nutria,Lutra lutra,nutria4.jpg,2,si
+mamifero,Gato montés,Felis silvestris,gato1.jpg,2,si
+mamifero,Gato montés,Felis silvestris,gato2.jpg,2,si
+mamifero,Gato montés,Felis silvestris,gato3.jpg,2,si
+mamifero,Gato montés,Felis silvestris,gato4.jpg,2,si
+mamifero,Garduña,Martes foina,foina1.jpg,2,si
+mamifero,Garduña,Martes foina,foina2.jpg,2,si
+mamifero,Garduña,Martes foina,foina3.jpg,2,si
+mamifero,Garduña,Martes foina,foina4.jpg,2,si
+mamifero,Marta,Martes martes,marta1.jpg,2,si
+mamifero,Marta,Martes martes,marta2.jpg,2,si
+mamifero,Marta,Martes martes,marta3.jpg,2,si
+mamifero,Marta,Martes martes,marta4.jpg,2,si
+mamifero,Comadreja,Mustela nivalis,comadreja1.jpg,2,si
+mamifero,Comadreja,Mustela nivalis,comadreja2.jpg,2,si
+mamifero,Comadreja,Mustela nivalis,comadreja3.jpg,2,si
+mamifero,Comadreja,Mustela nivalis,comadreja4.jpg,2,si
+mamifero,Armiño,Mustela erminea,armino1.jpg,2,si
+mamifero,Armiño,Mustela erminea,armino2.jpg,2,si
+mamifero,Armiño,Mustela erminea,armino3.jpg,2,si
+mamifero,Armiño,Mustela erminea,armino4.jpg,2,si
+mamifero,Turón,Mustela putorius,turon1.jpg,2,si
+mamifero,Turón,Mustela putorius,turon2.jpg,2,si
+mamifero,Turón,Mustela putorius,turon3.jpg,2,si
+mamifero,Turón,Mustela putorius,turon4.jpg,2,si
+mamifero,Conejo europeo,Oryctolagus cuniculus,conejo1.jpg,3,si
+mamifero,Conejo europeo,Oryctolagus cuniculus,conejo2.jpg,3,si
+mamifero,Conejo europeo,Oryctolagus cuniculus,conejo3.jpg,3,si
+mamifero,Conejo europeo,Oryctolagus cuniculus,conejo4.jpg,3,si
+mamifero,Liebre ibérica,Lepus granatensis,liebre1.jpg,3,si
+mamifero,Liebre ibérica,Lepus granatensis,liebre2.jpg,3,si
+mamifero,Liebre ibérica,Lepus granatensis,liebre3.jpg,3,si
+mamifero,Liebre ibérica,Lepus granatensis,liebre4.jpg,3,si
+mamifero,Erizo común,Erinaceus europaeus,erizo1.jpg,3,si
+mamifero,Erizo común,Erinaceus europaeus,erizo2.jpg,3,si
+mamifero,Erizo común,Erinaceus europaeus,erizo3.jpg,3,si
+mamifero,Erizo común,Erinaceus europaeus,erizo4.jpg,3,si
+mamifero,Topo ibérico,Talpa occidentalis,topo1.jpg,3,si
+mamifero,Topo ibérico,Talpa occidentalis,topo2.jpg,3,si
+mamifero,Topo ibérico,Talpa occidentalis,topo3.jpg,3,si
+mamifero,Topo ibérico,Talpa occidentalis,topo4.jpg,3,si
+mamifero,Musaraña común,Crocidura russula,musa1.jpg,3,si
+mamifero,Musaraña común,Crocidura russula,musa2.jpg,3,si
+mamifero,Musaraña común,Crocidura russula,musa3.jpg,3,si
+mamifero,Musaraña común,Crocidura russula,musa4.jpg,3,si
+mamifero,Murciélago común,Pipistrellus pipistrellus,murcie1.jpg,3,si
+mamifero,Murciélago común,Pipistrellus pipistrellus,murcie2.jpg,3,si
+mamifero,Murciélago común,Pipistrellus pipistrellus,murcie3.jpg,3,si
+mamifero,Murciélago común,Pipistrellus pipistrellus,murcie4.jpg,3,si
+mamifero,Ratón doméstico,Mus musculus,mus1.jpg,3,si
+mamifero,Ratón doméstico,Mus musculus,mus2.jpg,3,si
+mamifero,Ratón doméstico,Mus musculus,mus3.jpg,3,si
+mamifero,Ratón doméstico,Mus musculus,mus4.jpg,3,si
+mamifero,Rata parda,Rattus norvegicus,rattus1.jpg,3,si
+mamifero,Rata parda,Rattus norvegicus,rattus2.jpg,3,si
+mamifero,Rata parda,Rattus norvegicus,rattus3.jpg,3,si
+mamifero,Rata parda,Rattus norvegicus,rattus4.jpg,3,si
+mamifero,Lirón careto,Eliomys quercinus,liron1.jpg,3,no
+mamifero,Lirón careto,Eliomys quercinus,liron2.jpg,3,no
+mamifero,Lirón careto,Eliomys quercinus,liron3.jpg,3,no
+mamifero,Lirón careto,Eliomys quercinus,liron4.jpg,3,no
+mamifero,Lión gris,Glis glis,glis1.jpg,3,no
+mamifero,Lión gris,Glis glis,glis2.jpg,3,no
+mamifero,Lión gris,Glis glis,glis3.jpg,3,no
+mamifero,Lión gris,Glis glis,glis4.jpg,3,no
+mamifero,Ardilla común,Sciurus vulgaris,ardilla1.jpg,3,no
+mamifero,Ardilla común,Sciurus vulgaris,ardilla2.jpg,3,si
+mamifero,Ardilla común,Sciurus vulgaris,ardilla3.jpg,3,si
+mamifero,Ardilla común,Sciurus vulgaris,ardilla4.jpg,3,si
+inverterrestre,Rosalia alpina,Rosalia alpina,rosalia1.jpg,1,si
+inverterrestre,Rosalia alpina,Rosalia alpina,rosalia2.jpg,1,si
+inverterrestre,Rosalia alpina,Rosalia alpina,rosalia3.jpg,1,si
+inverterrestre,Chinche rayada,Graphosoma lineatum ,chinche1.jpg,1,si
+inverterrestre,Chinche rayada,Graphosoma lineatum ,chinche2.jpg,1,si
+inverterrestre,Chinche rayada,Graphosoma lineatum ,chinche3.jpg,1,si
+inverterrestre,Chinche punteada,Graphosoma semipunctatum,chinches1.jpg,1,si
+inverterrestre,Chinche punteada,Graphosoma semipunctatum,chinches2.jpg,1,si
+inverterrestre,Chinche punteada,Graphosoma semipunctatum,chinches3.jpg,1,si
+inverterrestre,Chinche verde,Nezara viridula,chinchev1.jpg,1,si
+inverterrestre,Chinche verde,Nezara viridula,chinchev2.jpg,1,si
+inverterrestre,Chinche verde,Nezara viridula,chinchev3.jpg,1,si
+inverterrestre,Zapatero,Pyrrhocoris apterus,zapa1.jpg,1,si
+inverterrestre,Zapatero,Pyrrhocoris apterus,zapa2.jpg,1,si
+inverterrestre,Zapatero,Pyrrhocoris apterus,zapa3.jpg,1,si
+inverterrestre,Cigarra común,Cicada orni,cigarra1.jpg,1,si
+inverterrestre,Cigarra común,Cicada orni,cigarra2.jpg,1,si
+inverterrestre,Exuvia de cigarra,Exuvia de cigarra,cigarra3.jpg,1,si
+inverterrestre,Exuvia de cigarra,Exuvia de cigarra,cigarra4.jpg,1,si
+inverterrestre,Cigarra común,Cicada orni,cigarra5.jpg,1,si
+inverterrestre,Cigarra   ,Lyristes plebejus,plebejus1.jpg,1,si
+inverterrestre,Cigarra   ,Lyristes plebejus,plebejus2.jpg,1,si
+inverterrestre,Cigarra   ,Lyristes plebejus,plebejus3.jpg,1,si
+inverterrestre,Duende,Nemoptera bipennis,bipennis1.jpg,1,si
+inverterrestre,Duende,Nemoptera bipennis,bipennis2.jpg,1,si
+inverterrestre,Duende,Nemoptera bipennis,bipennis3.jpg,1,si
+inverterrestre,Mosca común,Musca domestica,mosca1.jpg,1,si
+inverterrestre,Mosca común,Musca domestica,mosca2.jpg,1,si
+inverterrestre,Mosca común,Musca domestica,mosca3.jpg,1,si
+inverterrestre,Mosquito gigante,Tipula maxima,tipula1.jpg,1,si
+inverterrestre,Mosquito gigante,Tipula maxima,tipula2.jpg,1,si
+inverterrestre,Mosquito gigante,Tipula maxima,tipula3.jpg,1,si
+inverterrestre,Abeja europea,Apis mellifera,abejac1.jpg,1,si
+inverterrestre,Abeja europea,Apis mellifera,abejac2.jpg,1,si
+inverterrestre,Abeja europea,Apis mellifera,abejac4.jpg,1,si
+inverterrestre,Abejorro común,Bombus terrestris,abejorro1.jpg,1,si
+inverterrestre,Abejorro común,Bombus terrestris,abejorro2.jpg,1,si
+inverterrestre,Abejorro común,Bombus terrestris,abejorro3.jpg,1,si
+inverterrestre,Bicho bola,Armadillidium vulgare,armadi1.jpg,1,si
+inverterrestre,Bicho bola,Armadillidium vulgare,armadi2.jpg,1,si
+inverterrestre,Bicho bola,Armadillidium vulgare,armadi3.jpg,1,si
+inverterrestre,Abejorro carpintero,Xylocopa violacea,carpin1.jpg,1,si
+inverterrestre,Abejorro carpintero,Xylocopa violacea,carpin2.jpg,1,si
+inverterrestre,Abejorro carpintero,Xylocopa violacea,carpin3.jpg,1,si
+inverterrestre,Avispa puñal,Megascolia maculata,maculata1.jpg,1,si
+inverterrestre,Avispa puñal,Megascolia maculata,maculata2.jpg,1,si
+inverterrestre,Avispa puñal,Megascolia maculata,maculata3.jpg,1,si
+inverterrestre,Avispa papelera europea,Polistes dominula,polistes1.webp,1,si
+inverterrestre,Avispa papelera europea,Polistes dominula,polistes3.jpg,1,si
+inverterrestre,Avispa papelera europea,Polistes dominula,polistes4.jpg,1,si
+inverterrestre,Araña de jardín,Araneus diadematus,araneus1.jpg,1,si
+inverterrestre,Araña de jardín,Araneus diadematus,araneus2.jpg,1,si
+inverterrestre,Araña de jardín,Araneus diadematus,araneus3.jpg,1,si
+inverterrestre,Araña tigre,Argiope bruennichi,atigre1.jpg,1,si
+inverterrestre,Araña tigre,Argiope bruennichi,atigre2.jpg,1,si
+inverterrestre,Araña tigre,Argiope bruennichi,atigre3.jpg,1,si
+inverterrestre,Araña lobo,Hogna radiata,alobo1.jpg,1,si
+inverterrestre,Araña lobo,Hogna radiata,alobo2.jpg,1,si
+inverterrestre,Araña lobo,Hogna radiata,alobo3.jpg,1,si
+inverterrestre,Araña lobo,Lycosa hispanica,lycosa1.jpg,1,si
+inverterrestre,Araña lobo,Lycosa hispanica,lycosa2.jpg,1,si
+inverterrestre,Araña lobo,Lycosa hispanica,lycosa3.jpg,1,si
+inverterrestre,Escorpión común,Buthus occitanus,escorpi1.jpg,1,si
+inverterrestre,Escorpión común,Buthus occitanus,escorpi2.jpg,1,si
+inverterrestre,Escorpión común,Buthus occitanus,escorpi3.jpg,1,si
+inverterrestre,Zapatero,Gerris lacustris,zapate1.jpg,1,si
+inverterrestre,Zapatero,Gerris lacustris,zapate2.jpg,1,si
+inverterrestre,Zapatero,Gerris lacustris,zapate3.jpg,1,si
+inverterrestre,Escopión de agua,Nepa cinerea,nepa1.jpg,1,si
+inverterrestre,Escopión de agua,Nepa cinerea,nepa2.jpg,1,si
+inverterrestre,Escopión de agua,Nepa cinerea,nepa3.jpg,1,si
+inverterrestre,Abeja de agua,Notonecta glauca,glauca1.jpg,1,si
+inverterrestre,Abeja de agua,Notonecta glauca,glauca2.jpg,1,si
+inverterrestre,Abeja de agua,Notonecta glauca,glauca3.png,1,si
+inverterrestre,Gran escarabajo buceador,Dytiscus marginalis,marginalis1.jpg,1,si
+inverterrestre,Gran escarabajo buceador,Dytiscus marginalis,marginalis2.jpg,1,si
+inverterrestre,Gran escarabajo buceador,Dytiscus marginalis,marginalis3.jpg,1,si
+inverterrestre,Aceitera,Physomeloe corallifer,aceitera1.jpg,1,si
+inverterrestre,Aceitera,Physomeloe corallifer,aceitera2.jpg,1,si
+inverterrestre,Aceitera,Physomeloe corallifer,aceitera3.jpg,1,si
+inverterrestre,Aceitera común,Berberomeloe majalis,majalis1.jpg,1,si
+inverterrestre,Aceitera común,Berberomeloe majalis,majalis2.jpg,1,si
+inverterrestre,Aceitera común,Berberomeloe majalis,majalis3.jpg,1,si
+inverterrestre,Escarabajo joya,Chalcophora mariana,mariana1.jpg,1,si
+inverterrestre,Escarabajo joya,Chalcophora mariana,mariana2.jpg,1,si
+inverterrestre,Escarabajo joya,Chalcophora mariana,mariana3.jpg,1,si
+inverterrestre,Toro del sol,Heliotaurus ruficollis,heliotaurus1.jpg,1,si
+inverterrestre,Toro del sol,Heliotaurus ruficollis,heliotaurus2.jpg,1,si
+inverterrestre,Toro del sol,Heliotaurus ruficollis,heliotaurus3.jpg,1,si
+inverterrestre,Escolopendra mediterránea,Scolopendra cingulata,escolopendra1.jpg,2,si
+inverterrestre,Escolopendra mediterránea,Scolopendra cingulata,escolopendra2.jpg,2,si
+inverterrestre,Escolopendra mediterránea,Scolopendra cingulata,escolopendra3.jpg,2,si
+inverterrestre,Ciempiés doméstico,Scutigera coleoptrata,ciempies1.jpg,2,si
+inverterrestre,Ciempiés doméstico,Scutigera coleoptrata,ciempies2.jpg,2,si
+inverterrestre,Ciempiés doméstico,Scutigera coleoptrata,ciempies3.jpg,2,si
+inverterrestre,Libélula emperador,Anax imperator,anax1.jpg,2,si
+inverterrestre,Libélula emperador,Anax imperator,anax2.jpg,2,si
+inverterrestre,Libélula emperador,Anax imperator,anax3.jpg,2,si
+inverterrestre,Exuvia de libélula,Exuvia de libélula,exuvia1.webp,2,si
+inverterrestre,Exuvia de libélula,Exuvia de libélula,exuvia2.webp,2,si
+inverterrestre,Caballito del diablo azul,Calopteryx virgo,virgo1.jpg,2,si
+inverterrestre,Caballito del diablo azul,Calopteryx virgo,virgo2.jpg,2,si
+inverterrestre,Caballito del diablo azul,Calopteryx virgo,virgo3.jpg,2,si
+inverterrestre,Libélula escarlata,Crocothemis erythraea,libelula1.jpg,2,si
+inverterrestre,Libélula escarlata,Crocothemis erythraea,libelula2.jpg,2,si
+inverterrestre,Libélula escarlata,Crocothemis erythraea,libelula3.jpg,2,si
+inverterrestre,Mantis europea,Mantis religiosa,mantis1.webp,2,si
+inverterrestre,Mantis europea,Mantis religiosa,mantis2.jpg,2,si
+inverterrestre,Ooteca de mantis,Ooteca de mantis,mantis3.jpg,2,si
+inverterrestre,Ooteca de mantis,Ooteca de mantis,mantis4.jpg,2,si
+inverterrestre,Mantis europea,Mantis religiosa,mantis5.jpg,2,si
+inverterrestre,Mantis mediterránea,Iris oratoria,iris1.webp,2,si
+inverterrestre,Mantis mediterránea,Iris oratoria,iris2.webp,2,si
+inverterrestre,Mantis mediterránea,Iris oratoria,iris3.jpg,2,si
+inverterrestre,Mantis palo,Empusa pennata,empusa1.jpg,2,si
+inverterrestre,Mantis palo,Empusa pennata,empusa2.jpg,2,si
+inverterrestre,Mantis palo,Empusa pennata,empusa3.jpg,2,si
+inverterrestre,Tijereta común,Forficula auricularia,tijereta1.jpg,2,si
+inverterrestre,Tijereta común,Forficula auricularia,tijereta2.jpg,2,si
+inverterrestre,Tijereta común,Forficula auricularia,tijereta3.jpg,2,si
+inverterrestre,Chicharra de montaña,Ephippiger ephippiger,mont1.jpg,2,si
+inverterrestre,Chicharra de montaña,Ephippiger ephippiger,mont2.jpg,2,si
+inverterrestre,Chicharra de montaña,Ephippiger ephippiger,mont3.jpg,2,si
+inverterrestre,Grillo topo,Gryllotalpa gryllotalpa,gryllotalpa1.jpg,2,si
+inverterrestre,Grillo topo,Gryllotalpa gryllotalpa,gryllotalpa2.jpg,2,si
+inverterrestre,Grillo topo,Gryllotalpa gryllotalpa,gryllotalpa3.jpg,2,si
+inverterrestre,Grillo de campo,Gryllus campestris,grillo1.jpg,2,si
+inverterrestre,Grillo de campo,Gryllus campestris,grillo2.jpg,2,si
+inverterrestre,Grillo de campo,Gryllus campestris,grillo3.jpg,2,si
+inverterrestre,Grillo de dos puntos,Gryllus bimaculatus,gryllus1.jpg,2,si
+inverterrestre,Grillo de dos puntos,Gryllus bimaculatus,gryllus2.jpg,2,si
+inverterrestre,Grillo de dos puntos,Gryllus bimaculatus,gryllus3.webp,2,si
+inverterrestre,Avispón europeo,Vespa crabro,vespa1.png,2,si
+inverterrestre,Avispón europeo,Vespa crabro,vespa2.png,2,si
+inverterrestre,Avispón europeo,Vespa crabro,vespa3.jpg,2,si
+inverterrestre,Grillo doméstico,Acheta domesticus,acheta1.jpg,2,si
+inverterrestre,Grillo doméstico,Acheta domesticus,acheta2.png,2,si
+inverterrestre,Grillo doméstico,Acheta domesticus,acheta3.jpg,2,si
+inverterrestre,Saltamontes verde común,Tettigonia viridissima,salta1.jpg,2,si
+inverterrestre,Saltamontes verde común,Tettigonia viridissima,salta2.jpg,2,si
+inverterrestre,Saltamontes verde común,Tettigonia viridissima,salta3.jpg,2,si
+inverterrestre,Langosta egipcia,Anacridium aegyptium,langosta1.jpg,2,si
+inverterrestre,Langosta egipcia,Anacridium aegyptium,langosta2.jpg,2,si
+inverterrestre,Langosta egipcia,Anacridium aegyptium,langosta3.jpg,2,si
+inverterrestre,Gran capricornio,Cerambyx cerdo,capri1.jpg,2,si
+inverterrestre,Gran capricornio,Cerambyx cerdo,capri2.jpg,2,si
+inverterrestre,Gran capricornio,Cerambyx cerdo,capri3.jpg,2,si
+inverterrestre,Escarabajo carpintero,Ergates faber,faber1.jpg,2,si
+inverterrestre,Escarabajo carpintero,Ergates faber,faber2.jpg,2,si
+inverterrestre,Escarabajo carpintero,Ergates faber,faber3.jpg,2,si
+inverterrestre,Cicindela común,Cicindela campestris,cicindela1.jpg,2,si
+inverterrestre,Cicindela común,Cicindela campestris,cicindela2.jpg,2,si
+inverterrestre,Cicindela común,Cicindela campestris,cicindela3.jpg,2,si
+inverterrestre,Ciervo volador,Lucanus cervus,cervus1.jpg,2,si
+inverterrestre,Ciervo volador,Lucanus cervus,cervus2.jpg,2,si
+inverterrestre,Ciervo volador,Lucanus cervus,cervus3.jpg,2,si
+inverterrestre,Escarabajo rinoceronte,Oryctes nasicornis,oryctes1.jpg,2,si
+inverterrestre,Escarabajo rinoceronte,Oryctes nasicornis,oryctes2.jpg,2,si
+inverterrestre,Escarabajo rinoceronte,Oryctes nasicornis,oryctes4.png,2,si
+inverterrestre,Escarabajo lunar,Copris lunaris,lunaris1.jpg,2,si
+inverterrestre,Escarabajo lunar,Copris lunaris,lunaris2.jpg,2,si
+inverterrestre,Escarabajo lunar,Copris lunaris,lunaris3.jpg,2,si
+inverterrestre,Escarabajo pelotero rinoceronte,Copris hispanus,copris1.jpg,2,si
+inverterrestre,Escarabajo pelotero rinoceronte,Copris hispanus,copris2.jpg,2,si
+inverterrestre,Escarabajo pelotero rinoceronte,Copris hispanus,copris3.jpg,2,si
+inverterrestre,Escarabajo pelotero grande,Scarabaeus sacer,sacer1.jpg,2,si
+inverterrestre,Escarabajo pelotero grande,Scarabaeus sacer,sacer2.jpg,2,si
+inverterrestre,Escarabajo pelotero grande,Scarabaeus sacer,sacer3.jpg,2,si
+inverterrestre,Mariquita,Coccinella septempunctata,mariquita1.jpg,2,si
+inverterrestre,Mariquita,Coccinella septempunctata,mariquita2.jpg,2,si
+inverterrestre,Mariquita,Coccinella septempunctata,mariquita3.jpg,2,si
+inverterrestre,Escarabajo de las bodegas,Blaps lusitanica,lusita1.jpg,2,si
+inverterrestre,Escarabajo de las bodegas,Blaps lusitanica,lusita2.jpg,2,si
+inverterrestre,Escarabajo de las bodegas,Blaps lusitanica,lusita3.jpg,2,si
+inverterrestre,Escarabajo de la patata,Leptinotarsa decemlineata,patata1.jpg,2,si
+inverterrestre,Escarabajo de la patata,Leptinotarsa decemlineata,patata2.jpg,2,si
+inverterrestre,Escarabajo de la patata,Leptinotarsa decemlineata,patata3.jpg,2,si
+inverterrestre,Mariposa de la ortiga,Aglais urticae,urticae1.jpg,3,si
+inverterrestre,Mariposa de la ortiga,Aglais urticae,urticae2.jpg,3,si
+inverterrestre,Mariposa de la ortiga,Aglais urticae,urticae3.jpg,3,si
+inverterrestre,Vulcana,Vanessa atalanta,vulcana1.jpg,3,si
+inverterrestre,Vulcana,Vanessa atalanta,vulcana2.jpg,3,si
+inverterrestre,Vulcana,Vanessa atalanta,vulcana3.png,3,si
+inverterrestre,Arlequín,Zerynthia rumina,rumina1.jpg,3,si
+inverterrestre,Arlequín,Zerynthia rumina,rumina2.png,3,si
+inverterrestre,Arlequín,Zerynthia rumina,rumina3.jpg,3,si
+inverterrestre,Apolo,Parnassius apollo,apolo1.png,3,si
+inverterrestre,Apolo,Parnassius apollo,apolo2.png,3,si
+inverterrestre,Apolo,Parnassius apollo,apolo3.jpg,3,si
+inverterrestre,Cardera,Vanessa cardui,cardui1.jpg,3,si
+inverterrestre,Cardera,Vanessa cardui,cardui2.jpg,3,si
+inverterrestre,Cardera,Vanessa cardui,cardui3.png,3,si
+inverterrestre,Blanquita de la col,Pieris rapae,col1.jpg,3,si
+inverterrestre,Blanquita de la col,Pieris rapae,col2.jpg,3,si
+inverterrestre,Blanquita de la col,Pieris rapae,col3.jpg,3,si
+inverterrestre,Blanca de la col,Pieris brassicae,brass1.jpg,3,si
+inverterrestre,Blanca de la col,Pieris brassicae,brass2.jpg,3,si
+inverterrestre,Blanca de la col,Pieris brassicae,brass3.jpg,3,si
+inverterrestre,Limonera,Gonepteryx rhamni,limonera1.png,3,si
+inverterrestre,Limonera,Gonepteryx rhamni,limonera2.jpg,3,si
+inverterrestre,Limonera,Gonepteryx rhamni,limonera3.jpg,3,si
+inverterrestre,Cleopatra,Gonepteryx cleopatra,cleopatra1.jpg,3,si
+inverterrestre,Cleopatra,Gonepteryx cleopatra,cleopatra2.jpg,3,si
+inverterrestre,Cleopatra,Gonepteryx cleopatra,cleopatra3.jpg,3,si
+inverterrestre,Mariposa de la alfalfa,Colias crocea,marialfa1.png,3,si
+inverterrestre,Mariposa de la alfalfa,Colias crocea,marialfa2.jpg,3,si
+inverterrestre,Mariposa de la alfalfa,Colias crocea,marialfa3.jpg,3,si
+inverterrestre,Pandora,Argynnis pandora,pandora1.jpg,3,si
+inverterrestre,Pandora,Argynnis pandora,pandora2.jpg,3,si
+inverterrestre,Pandora,Argynnis pandora,pandora3.png,3,si
+inverterrestre,Blanca del majuelo,Aporia crataegi,aporia1.jpg,3,si
+inverterrestre,Blanca del majuelo,Aporia crataegi,aporia2.jpg,3,si
+inverterrestre,Blanca del majuelo,Aporia crataegi,aporia3.jpg,3,si
+inverterrestre,Ícaro,Polyommatus icarus,icaro1.jpg,3,si
+inverterrestre,Ícaro,Polyommatus icarus,icaro2.jpg,3,si
+inverterrestre,Ícaro,Polyommatus icarus,icaro3.jpg,3,si
+inverterrestre,Rey moro,Brintesia circe,circe1.jpg,3,si
+inverterrestre,Rey moro,Brintesia circe,circe2.jpg,3,si
+inverterrestre,Rey moro,Brintesia circe,circe4.jpg,3,si
+inverterrestre,Gitana pequeña,Cymbalophora pudica,pudica1.jpg,3,si
+inverterrestre,Gitana pequeña,Cymbalophora pudica,pudica2.jpg,3,si
+inverterrestre,Gitana pequeña,Cymbalophora pudica,pudica3.jpg,3,si
+inverterrestre,Mariposa gitana,Arctia caja,caja1.jpg,3,si
+inverterrestre,Mariposa gitana,Arctia caja,caja2.jpg,3,si
+inverterrestre,Mariposa gitana,Arctia caja,caja3.jpg,3,si
+inverterrestre,Mariposa tigre,Euplagia quadripunctaria,euplagia1.jpg,3,si
+inverterrestre,Mariposa tigre,Euplagia quadripunctaria,euplagia2.jpg,3,si
+inverterrestre,Mariposa tigre,Euplagia quadripunctaria,euplagia3.jpg,3,si
+inverterrestre,Mariposa pavorreal,Aglais io,io1.jpg,3,si
+inverterrestre,Mariposa pavorreal,Aglais io,io2.jpg,3,si
+inverterrestre,Mariposa pavorreal,Aglais io,io3.jpg,3,si
+inverterrestre,Pavón nocturno,Saturnia pyri,saturnia1.jpg,3,si
+inverterrestre,Pavón nocturno,Saturnia pyri,saturnia2.jpg,3,si
+inverterrestre,Pavón nocturno,Saturnia pyri,saturnia3.webp,3,si
+inverterrestre,Macaón,Papilio machaon,macaon1.jpg,3,si
+inverterrestre,Macaón,Papilio machaon,macaon2.png,3,si
+inverterrestre,Macaón,Papilio machaon,macaon3.jpg,3,si
+inverterrestre,Chupaleches,Iphiclides feisthamelii,chupaleches1.jpg,3,si
+inverterrestre,Chupaleches,Iphiclides feisthamelii,chupaleches2.png,3,si
+inverterrestre,Chupaleches,Iphiclides feisthamelii,chupaleches3.jpg,3,si
+inverterrestre,Esfinge de la calavera,Acherontia atropos,esfingecala1.jpg,3,si
+inverterrestre,Esfinge de la calavera,Acherontia atropos,esfingecala2.jpg,3,si
+inverterrestre,Esfinge de la calavera,Acherontia atropos,esfingecala3.jpg,3,si
+inverterrestre,Gusano de la seda,Bombyx mori,seda1.jpg,3,si
+inverterrestre,Gusano de la seda,Bombyx mori,seda2.jpg,3,si
+inverterrestre,Gusano de la seda,Bombyx mori,seda3.jpg,3,si
+inverterrestre,Esfinge colibrí,Macroglossum stellatarum,esfinge1.jpg,3,si
+inverterrestre,Esfinge colibrí,Macroglossum stellatarum,esfinge2.jpg,3,si
+inverterrestre,Esfinge colibrí,Macroglossum stellatarum,esfinge3.jpg,3,si
+inverterrestre,Procesionaria del pino,Thaumetopoea pityocampa,procesionaria1.jpg,3,si
+inverterrestre,Procesionaria del pino,Thaumetopoea pityocampa,procesionaria2.jpg,3,si
+inverterrestre,Procesionaria del pino,Thaumetopoea pityocampa,procesionaria3.jpg,3,si
+inverterrestre,Polilla europea de alas cubiertas,Catocala nupta,catocala1.jpg,3,si
+inverterrestre,Polilla europea de alas cubiertas,Catocala nupta,catocala2.png,3,si
+inverterrestre,Polilla europea de alas cubiertas,Catocala nupta,catocala3.jpg,3,si
+inverterrestre,Mariposa plusia,Autographa gamma,gamma1.jpg,3,si
+inverterrestre,Mariposa plusia,Autographa gamma,gamma2.jpg,3,si
+inverterrestre,Mariposa plusia,Autographa gamma,gamma3.jpg,3,si
+inverterrestre,Capricornio verde,Aromia moschata,aromia1.jpg,1,si
+inverterrestre,Capricornio verde,Aromia moschata,aromia2.jpg,1,si
+inverterrestre,Capricornio verde,Aromia moschata,aromia3.jpg,1,si
+inverterrestre,Araña camello,Gluvia dorsalis,solif2.jpg,1,si
+inverterrestre,Araña camello,Gluvia dorsalis,solif3.jpg,1,si
+inverterrestre,Araña camello,Gluvia dorsalis,solif4.jpg,1,si
+inverterrestre,Cucaracha negra,Blatta orientalis,cuca2.jpg,1,si
+inverterrestre,Cucaracha negra,Blatta orientalis,cuca3.jpg,1,si
+inverterrestre,Cucaracha negra,Blatta orientalis,cuca4.jpg,1,si
+inverterrestre,Cucaracha roja,Periplaneta americana,peri2.jpg,1,si
+inverterrestre,Cucaracha roja,Periplaneta americana,peri3.jpg,1,si
+inverterrestre,Cucaracha roja,Periplaneta americana,peri4.jpg,1,si
+inverterrestre,Agalla del roble,Andricus quercustozae,agalla2.jpg,1,si
+inverterrestre,Agalla del roble,Andricus quercustozae,agalla3.jpg,1,si
+inverterrestre,Agalla del roble,Andricus quercustozae,agalla4.jpg,1,si
+hongo,Usnea florida,Usnea florida,usnea1.jpg,1,no
+hongo,Usnea florida,Usnea florida,usnea2.jpg,1,no
+hongo,Usnea florida,Usnea florida,usnea3.jpg,1,no
+hongo,Usnea florida,Usnea florida,usnea4.jpg,1,no
+invermarino,Estrella de mar común,Asterias rubens,rubens1.jpg,1,no
+invermarino,Estrella de mar común,Asterias rubens,rubens2.jpg,1,no
+invermarino,Estrella de mar común,Asterias rubens,rubens3.jpg,1,no
+invermarino,Estrella de mar común,Asterias rubens,rubens4.jpg,1,no
+invermarino,Estrella de mar espinosa,Marthasterias glacialis,espinosa1.jpg,1,si
+invermarino,Estrella de mar espinosa,Marthasterias glacialis,espinosa2.jpg,1,si
+invermarino,Estrella de mar espinosa,Marthasterias glacialis,espinosa3.jpg,1,si
+invermarino,Estrella de mar espinosa,Marthasterias glacialis,espinosa4.jpg,1,si
+invermarino,Estrella de peine roja,Astropecten aranciacus,peine1.jpg,1,si
+invermarino,Estrella de peine roja,Astropecten aranciacus,peine2.jpg,1,si
+invermarino,Estrella de peine roja,Astropecten aranciacus,peine3.jpg,1,si
+invermarino,Estrella de peine roja,Astropecten aranciacus,peine4.jpg,1,si
+invermarino,Estrella de capitán,Asterina gibbosa,capi1.jpg,1,si
+invermarino,Estrella de capitán,Asterina gibbosa,capi2.jpg,1,si
+invermarino,Estrella de capitán,Asterina gibbosa,capi3.jpg,1,si
+invermarino,Estrella de capitán,Asterina gibbosa,capi4.jpg,1,si
+invermarino,Erizo de mar morado,Paracentrotus lividus,lividus1.jpg,1,si
+invermarino,Erizo de mar morado,Paracentrotus lividus,lividus2.jpg,1,si
+invermarino,Erizo de mar morado,Paracentrotus lividus,lividus3.jpg,1,si
+invermarino,Erizo de mar morado,Paracentrotus lividus,lividus4.jpg,1,si
+invermarino,Erizo de mar negro,Arbacia lixula,lixula1.jpg,1,si
+invermarino,Erizo de mar negro,Arbacia lixula,lixula2.jpg,1,si
+invermarino,Erizo de mar negro,Arbacia lixula,lixula3.jpg,1,si
+invermarino,Erizo de mar negro,Arbacia lixula,lixula4.jpg,1,si
+invermarino,Erizo violeta,Sphaerechinus granularis,violeta1.jpg,1,si
+invermarino,Erizo violeta,Sphaerechinus granularis,violeta2.jpg,1,si
+invermarino,Erizo violeta,Sphaerechinus granularis,violeta3.jpg,1,si
+invermarino,Erizo violeta,Sphaerechinus granularis,violeta4.jpg,1,si
+invermarino,Peonza,Phorcus turbinatus,turbi1.jpg,1,si
+invermarino,Peonza,Phorcus turbinatus,turbi2.jpg,1,si
+invermarino,Peonza,Phorcus turbinatus,turbi3.jpg,1,si
+invermarino,Peonza,Phorcus turbinatus,turbi4.jpg,1,si
+invermarino,Erizo lápiz,Cidaris cidaris,cidaris1.jpg,1,si
+invermarino,Erizo lápiz,Cidaris cidaris,cidaris2.jpg,1,si
+invermarino,Erizo lápiz,Cidaris cidaris,cidaris3.jpg,1,si
+invermarino,Erizo lápiz,Cidaris cidaris,cidaris4.jpg,1,si
+invermarino,Erizo corazón,Echinocardium cordatum,corazon1.jpg,1,no
+invermarino,Erizo corazón,Echinocardium cordatum,corazon2.jpg,1,no
+invermarino,Erizo corazón,Echinocardium cordatum,corazon3.jpg,1,no
+invermarino,Erizo corazón,Echinocardium cordatum,corazon4.jpg,1,no
+invermarino,Pepino de mar negro,Holothuria forskali,pepino1.jpg,1,no
+invermarino,Pepino de mar negro,Holothuria forskali,pepino2.jpg,1,no
+invermarino,Pepino de mar negro,Holothuria forskali,pepino3.jpg,1,no
+invermarino,Pepino de mar negro,Holothuria forskali,pepino4.jpg,1,no
+invermarino,Bellota de mar,Semibalanus balanoides,balanoides1.jpg,1,si
+invermarino,Bellota de mar,Semibalanus balanoides,balanoides2.jpg,1,si
+invermarino,Bellota de mar,Semibalanus balanoides,balanoides3.jpg,1,si
+invermarino,Bellota de mar,Semibalanus balanoides,balanoides4.jpg,1,si
+invermarino,Percebe anatífero,Lepas anatifera,anatifera1.jpg,1,si
+invermarino,Percebe anatífero,Lepas anatifera,anatifera2.jpg,1,si
+invermarino,Percebe anatífero,Lepas anatifera,anatifera3.jpg,1,si
+invermarino,Percebe anatífero,Lepas anatifera,anatifera4.jpg,1,si
+invermarino,Percebe anatífero,Pollicipes pollicipes,percebe1.jpg,1,si
+invermarino,Percebe anatífero,Pollicipes pollicipes,percebe2.jpg,1,si
+invermarino,Percebe anatífero,Pollicipes pollicipes,percebe3.jpg,1,si
+invermarino,Percebe anatífero,Pollicipes pollicipes,percebe4.jpg,1,si
+invermarino,Buey de mar,Cancer pagurus,cancer1.jpg,1,si
+invermarino,Buey de mar,Cancer pagurus,cancer2.jpg,1,si
+invermarino,Buey de mar,Cancer pagurus,cancer3.jpg,1,si
+invermarino,Buey de mar,Cancer pagurus,cancer4.jpg,1,si
+invermarino,Cangrejo verde,Carcinus maenas,maenas1.jpg,1,si
+invermarino,Cangrejo verde,Carcinus maenas,maenas2.jpg,1,si
+invermarino,Cangrejo verde,Carcinus maenas,maenas3.jpg,1,si
+invermarino,Cangrejo verde,Carcinus maenas,maenas4.jpg,1,si
+invermarino,Nécora,Necora puber,necora1.jpg,1,si
+invermarino,Nécora,Necora puber,necora2.jpg,1,si
+invermarino,Nécora,Necora puber,necora3.jpg,1,si
+invermarino,Nécora,Necora puber,necora4.jpg,1,si
+invermarino,Cangrejo de río americano,Procambarus clarkii,clarkii1.jpg,1,si
+invermarino,Cangrejo de río americano,Procambarus clarkii,clarkii2.jpg,1,si
+invermarino,Cangrejo de río americano,Procambarus clarkii,clarkii3.jpg,1,si
+invermarino,Cangrejo de río americano,Procambarus clarkii,clarkii4.jpg,1,si
+invermarino,Cangrejo de río europeo,Austropotamobius italicus,pallipes1.jpg,1,si
+invermarino,Cangrejo de río europeo,Austropotamobius italicus,pallipes2.jpg,1,si
+invermarino,Cangrejo de río europeo,Austropotamobius italicus,pallipes3.jpg,1,si
+invermarino,Cangrejo de río europeo,Austropotamobius italicus,pallipes4.jpg,1,si
+invermarino,Cangrejo ermitaño,Diogenes pugilator,diogenes1.jpg,1,no
+invermarino,Cangrejo ermitaño,Diogenes pugilator,diogenes2.jpg,1,no
+invermarino,Cangrejo ermitaño,Diogenes pugilator,diogenes3.jpg,1,no
+invermarino,Cangrejo ermitaño,Diogenes pugilator,diogenes4.jpg,1,no
+invermarino,Cangrejo corredor,Pachygrapsus marmoratus,marmoratus.jpg,1,si
+invermarino,Cangrejo corredor,Pachygrapsus marmoratus,marmoratus1.jpg,1,si
+invermarino,Cangrejo corredor,Pachygrapsus marmoratus,marmoratus2.jpg,1,si
+invermarino,Cangrejo corredor,Pachygrapsus marmoratus,marmoratus3.jpg,1,si
+invermarino,Galera,Squilla mantis,galera1.jpg,1,si
+invermarino,Galera,Squilla mantis,galera2.jpg,1,si
+invermarino,Galera,Squilla mantis,galera3.jpg,1,si
+invermarino,Galera,Squilla mantis,galera4.jpg,1,si
+invermarino,Esponja de baño,Spongia officinalis,esponja1.jpg,1,si
+invermarino,Esponja de baño,Spongia officinalis,esponja2.jpg,1,si
+invermarino,Esponja de baño,Spongia officinalis,esponja3.jpg,1,si
+invermarino,Esponja de baño,Spongia officinalis,esponja4.jpg,1,si
+invermarino,Spirorbis ,Spirorbis sp.,spirorbis1.jpg,1,si
+invermarino,Spirorbis ,Spirorbis sp.,spirorbis2.jpg,1,si
+invermarino,Spirorbis ,Spirorbis sp.,spirorbis3.jpg,1,si
+invermarino,Spirorbis ,Spirorbis sp.,spirorbis4.jpg,1,si
+invermarino,Gusano de tubo,Spirobranchus triqueter,triqueter1.jpg,2,si
+invermarino,Gusano de tubo,Spirobranchus triqueter,triqueter2.jpg,2,si
+invermarino,Gusano de tubo,Spirobranchus triqueter,triqueter3.jpg,2,si
+invermarino,Gusano de tubo,Spirobranchus triqueter,triqueter4.jpg,2,si
+invermarino,Anémona de mar común,Actinia equina,actinia1.jpg,2,si
+invermarino,Anémona de mar común,Actinia equina,actinia2.jpg,2,si
+invermarino,Anémona de mar común,Actinia equina,actinia3.jpg,2,si
+invermarino,Anémona de mar común,Actinia equina,actinia4.jpg,2,si
+invermarino,Velella,Velella velella,velella1.jpg,2,si
+invermarino,Velella,Velella velella,velella2.jpg,2,si
+invermarino,Velella,Velella velella,velella3.jpg,2,si
+invermarino,Velella,Velella velella,velella4.jpg,2,si
+invermarino,Medusa común,Aurelia aurita,aurita1.jpg,2,si
+invermarino,Medusa común,Aurelia aurita,aurita2.jpg,2,si
+invermarino,Medusa común,Aurelia aurita,aurita3.jpg,2,si
+invermarino,Medusa común,Aurelia aurita,aurita4.jpg,2,si
+invermarino,Quitón verde,Rhyssoplax olivacea,quiton1.jpg,2,si
+invermarino,Quitón verde,Rhyssoplax olivacea,quiton2.jpg,2,si
+invermarino,Quitón verde,Rhyssoplax olivacea,quiton3.jpg,2,si
+invermarino,Quitón verde,Rhyssoplax olivacea,quiton4.jpg,2,si
+invermarino,Cono ventrudo,Conus ventricosus,conus1.jpg,2,si
+invermarino,Cono ventrudo,Conus ventricosus,conus2.jpg,2,si
+invermarino,Cono ventrudo,Conus ventricosus,conus3.jpg,2,si
+invermarino,Cono ventrudo,Conus ventricosus,conus4.jpg,2,si
+invermarino,Coña,Cymbium olla,cymbium1.jpg,2,si
+invermarino,Coña,Cymbium olla,cymbium2.jpg,2,si
+invermarino,Coña,Cymbium olla,cymbium3.jpg,2,si
+invermarino,Coña,Cymbium olla,cymbium4.jpg,2,si
+invermarino,Oreja de mar,Haliotis tuberculata,haliotis1.jpg,2,si
+invermarino,Oreja de mar,Haliotis tuberculata,haliotis2.jpg,2,si
+invermarino,Oreja de mar,Haliotis tuberculata,haliotis3.jpg,2,si
+invermarino,Oreja de mar,Haliotis tuberculata,haliotis4.jpg,2,si
+invermarino,Caracol tigre,Cypraea tigris,tigris1.jpg,2,si
+invermarino,Caracol tigre,Cypraea tigris,tigris2.jpg,2,si
+invermarino,Caracol tigre,Cypraea tigris,tigris3.jpg,2,si
+invermarino,Caracol tigre,Cypraea tigris,tigris4.jpg,2,si
+invermarino,Pie de pelícano,Aporrhais pespelecani,pespe1.jpg,2,si
+invermarino,Pie de pelícano,Aporrhais pespelecani,pespe2.jpg,2,si
+invermarino,Pie de pelícano,Aporrhais pespelecani,pespe3.jpg,2,si
+invermarino,Pie de pelícano,Aporrhais pespelecani,pespe4.jpg,2,si
+invermarino,Cañadilla,Bolinus brandaris,bolinus1.jpg,2,si
+invermarino,Cañadilla,Bolinus brandaris,bolinus2.jpg,2,si
+invermarino,Cañadilla,Bolinus brandaris,bolinus3.jpg,2,si
+invermarino,Cañadilla,Bolinus brandaris,bolinus4.jpg,2,si
+invermarino,Bucio ,Charonia lampas,lampas1.jpg,2,si
+invermarino,Bucio ,Charonia lampas,lampas2.jpg,2,si
+invermarino,Bucio ,Charonia lampas,lampas3.jpg,2,si
+invermarino,Bucio ,Charonia lampas,lampas4.jpg,2,si
+invermarino,Nerita,Nerita sp.,nerita1.jpg,2,si
+invermarino,Nerita,Nerita sp.,nerita2.jpg,2,si
+invermarino,Nerita,Nerita sp.,nerita3.jpg,2,si
+invermarino,Nerita,Nerita sp.,nerita4.jpg,2,si
+invermarino,Bígaro común,Littorina littorea,bigaro1.jpg,2,si
+invermarino,Bígaro común,Littorina littorea,bigaro2.jpg,2,si
+invermarino,Bígaro común,Littorina littorea,bigaro3.jpg,2,si
+invermarino,Bígaro común,Littorina littorea,bigaro4.jpg,2,si
+invermarino,Lapa común,Patella vulgata,lapa1.jpg,2,si
+invermarino,Lapa común,Patella vulgata,lapa2.jpg,2,si
+invermarino,Lapa común,Patella vulgata,lapa3.jpg,2,si
+invermarino,Lapa común,Patella vulgata,lapa4.jpg,2,si
+invermarino,Caracol marino,Tritia reticulata,tritia1.jpg,2,si
+invermarino,Caracol marino,Tritia reticulata,tritia2.jpg,2,si
+invermarino,Caracol marino,Tritia reticulata,tritia3.webp,2,si
+invermarino,Caracol marino,Tritia reticulata,tritia4.webp,2,si
+invermarino,Caparazón de torre común,Turritellinella tricarinata,torre1.jpg,2,si
+invermarino,Caparazón de torre común,Turritellinella tricarinata,torre2.jpg,2,si
+invermarino,Caparazón de torre común,Turritellinella tricarinata,torre3.jpg,2,si
+invermarino,Caparazón de torre común,Turritellinella tricarinata,torre4.jpg,2,si
+invermarino,Gibbulla magus,Gibbulla magus,magus1.jpg,2,si
+invermarino,Gibbulla magus,Gibbulla magus,magus2.jpg,2,si
+invermarino,Gibbulla magus,Gibbulla magus,magus3.jpg,2,si
+invermarino,Gibbulla magus,Gibbulla magus,magus4.jpg,2,si
+invermarino,Caracola gitanilla,Ranella olearium,ranella1.jpg,2,si
+invermarino,Caracola gitanilla,Ranella olearium,ranella2.jpg,2,si
+invermarino,Caracola gitanilla,Ranella olearium,ranella3.jpg,2,si
+invermarino,Caracola gitanilla,Ranella olearium,ranella4.jpg,2,si
+invermarino,Caracol turbante,Bolma rugosa,bolma1.jpg,2,si
+invermarino,Caracol turbante,Bolma rugosa,bolma2.jpg,2,si
+invermarino,Caracol turbante,Bolma rugosa,bolma3.jpg,2,si
+invermarino,Caracol turbante,Bolma rugosa,bolma5.jpg,2,si
+invermarino,Caracola de piedra,Stramonita haemastoma,stramo1.jpg,2,si
+invermarino,Caracola de piedra,Stramonita haemastoma,stramo2.jpg,2,si
+invermarino,Caracola de piedra,Stramonita haemastoma,stramo3.jpg,2,si
+invermarino,Caracola de piedra,Stramonita haemastoma,stramo4.jpg,2,si
+invermarino,Colmillo de elefante,Antalis vulgaris,antalis1.jpg,2,si
+invermarino,Colmillo de elefante,Antalis vulgaris,antalis2.jpg,2,si
+invermarino,Colmillo de elefante,Antalis vulgaris,antalis3.jpg,2,si
+invermarino,Colmillo de elefante,Antalis vulgaris,antalis4.jpg,2,si
+invermarino,Argonauta,Argonauta argo,argo1.jpg,2,si
+invermarino,Argonauta,Argonauta argo,argo2.jpg,2,si
+invermarino,Argonauta,Argonauta argo,argo3.jpg,2,si
+invermarino,Argonauta,Argonauta argo,argo4.jpg,2,si
+invermarino,Nautilo,Nautilus pompilius,nautilo1.jpg,3,si
+invermarino,Nautilo,Nautilus pompilius,nautilo2.jpg,3,si
+invermarino,Nautilo,Nautilus pompilius,nautilo3.jpg,3,si
+invermarino,Nautilo,Nautilus pompilius,nautilo4.jpg,3,si
+invermarino,Pulpo común,Octopus vulgaris,pulpo1.jpg,3,si
+invermarino,Pulpo común,Octopus vulgaris,pulpo2.jpg,3,si
+invermarino,Sepia común,Sepia officinalis,sepia1.jpg,3,si
+invermarino,Sepia común,Sepia officinalis,sepia2.jpg,3,si
+invermarino,Sepia común,Sepia officinalis,sepia3.jpg,3,si
+invermarino,Sepia común,Sepia officinalis,sepia4.jpg,3,si
+invermarino,Calamar común,Loligo vulgaris,calamar1.jpg,3,si
+invermarino,Calamar común,Loligo vulgaris,calamar2.jpg,3,si
+invermarino,Calamar común,Loligo vulgaris,calamar3.jpg,3,si
+invermarino,Calamar común,Loligo vulgaris,calamar4.jpg,3,si
+invermarino,Berberecho común,Cerastoderma edule,berbe1.jpg,3,si
+invermarino,Berberecho común,Cerastoderma edule,berbe2.jpg,3,si
+invermarino,Berberecho común,Cerastoderma edule,berbe3.jpg,3,si
+invermarino,Berberecho común,Cerastoderma edule,berbe4.jpg,3,si
+invermarino,Berberecho rugoso,Acanthocardia tuberculata,berbere1.jpg,3,si
+invermarino,Berberecho rugoso,Acanthocardia tuberculata,berbere2.jpg,3,si
+invermarino,Berberecho rugoso,Acanthocardia tuberculata,berbere3.jpg,3,si
+invermarino,Berberecho rugoso,Acanthocardia tuberculata,berbere4.jpg,3,si
+invermarino,Berberecho espinoso,Acanthocardia aculeata,aculeata1.jpg,3,si
+invermarino,Berberecho espinoso,Acanthocardia aculeata,aculeata2.jpg,3,si
+invermarino,Berberecho espinoso,Acanthocardia aculeata,aculeata3.jpg,3,si
+invermarino,Berberecho espinoso,Acanthocardia aculeata,aculeata4.jpg,3,si
+invermarino,Chirla,Chamelea gallina,gallina1.jpg,3,si
+invermarino,Chirla,Chamelea gallina,gallina2.jpg,3,si
+invermarino,Chirla,Chamelea gallina,gallina3.jpg,3,si
+invermarino,Chirla,Chamelea gallina,gallina4.jpg,3,si
+invermarino,Arca de noé,Arca noae,arca1.jpg,3,si
+invermarino,Arca de noé,Arca noae,arca2.jpg,3,si
+invermarino,Arca de noé,Arca noae,arca3.jpg,3,si
+invermarino,Arca de noé,Arca noae,arca4.jpg,3,si
+invermarino,Coquina ,Donax trunculus,donax1.jpg,3,si
+invermarino,Coquina ,Donax trunculus,donax2.jpg,3,si
+invermarino,Coquina ,Donax trunculus,donax3.jpg,3,si
+invermarino,Coquina ,Donax trunculus,donax4.jpg,3,si
+invermarino,Ostra de perro,Anomia ephippium,anomia1.jpg,3,si
+invermarino,Ostra de perro,Anomia ephippium,anomia2.jpg,3,si
+invermarino,Ostra de perro,Anomia ephippium,anomia3.jpg,3,si
+invermarino,Ostra de perro,Anomia ephippium,anomia4.jpg,3,si
+invermarino,Zamburiña,Mimachlamys varia,zambu1.jpg,3,si
+invermarino,Zamburiña,Mimachlamys varia,zambu2.jpg,3,si
+invermarino,Zamburiña,Mimachlamys varia,zambu3.jpg,3,si
+invermarino,Zamburiña,Mimachlamys varia,zambu4.jpg,3,si
+invermarino,Vieira del Atlántico,Pecten maximus,viei1.jpg,3,si
+invermarino,Vieira del Atlántico,Pecten maximus,viei2.jpg,3,si
+invermarino,Vieira del Atlántico,Pecten maximus,viei3.jpg,3,si
+invermarino,Vieira del Atlántico,Pecten maximus,viei4.jpg,3,si
+invermarino,Vieira mediterránea,Pecten jacobaeus,jaco1.jpg,3,si
+invermarino,Vieira mediterránea,Pecten jacobaeus,jaco2.jpg,3,si
+invermarino,Vieira mediterránea,Pecten jacobaeus,jaco3.jpg,3,si
+invermarino,Vieira mediterránea,Pecten jacobaeus,jaco4.jpg,3,si
+invermarino,Navaja recta,Ensis minor,ensism1.jpg,3,si
+invermarino,Navaja recta,Ensis minor,ensism2.jpg,3,si
+invermarino,Navaja recta,Ensis minor,ensism3.jpg,3,si
+invermarino,Navaja recta,Ensis minor,ensism4.jpg,3,si
+invermarino,Navaja curvada,Ensis ensis,ensis1.jpg,3,si
+invermarino,Navaja curvada,Ensis ensis,ensis2.jpg,3,si
+invermarino,Navaja curvada,Ensis ensis,ensis3.jpg,3,si
+invermarino,Navaja curvada,Ensis ensis,ensis4.jpg,3,si
+invermarino,Pada,Cerithium vulgatum,ceri1.jpg,3,si
+invermarino,Pada,Cerithium vulgatum,ceri2.jpg,3,si
+invermarino,Pada,Cerithium vulgatum,ceri3.jpg,3,si
+invermarino,Pada,Cerithium vulgatum,ceri4.jpg,3,si
+invermarino,Concha de nutria,Lutraria lutraria,lutraria1.jpg,3,si
+invermarino,Concha de nutria,Lutraria lutraria,lutraria2.jpg,3,si
+invermarino,Concha de nutria,Lutraria lutraria,lutraria3.jpg,3,si
+invermarino,Concha de nutria,Lutraria lutraria,lutraria4.jpg,3,si
+invermarino,Ostra europea,Ostrea edulis,ostra1.jpg,3,si
+invermarino,Ostra europea,Ostrea edulis,ostra2.jpg,3,si
+invermarino,Ostra europea,Ostrea edulis,ostra3.jpg,3,si
+invermarino,Ostra europea,Ostrea edulis,ostra4.jpg,3,si
+invermarino,Mejillón común,Mytilus edulis,meji1.jpg,3,si
+invermarino,Mejillón común,Mytilus edulis,meji2.jpg,3,si
+invermarino,Mejillón común,Mytilus edulis,meji3.jpg,3,si
+invermarino,Mejillón común,Mytilus edulis,meji4.jpg,3,si
+invermarino,Nacra,Pinna nobilis,pinna1.jpg,3,si
+invermarino,Nacra,Pinna nobilis,pinna2.jpg,3,si
+invermarino,Nacra,Pinna nobilis,pinna3.jpg,3,si
+invermarino,Nacra,Pinna nobilis,pinna4.jpg,3,si
+invermarino,Almendra de mar,Glycymeris glycymeris,glycy1.jpg,3,si
+invermarino,Almendra de mar,Glycymeris glycymeris,glycy2.jpg,3,si
+invermarino,Almendra de mar,Glycymeris glycymeris,glycy3.jpg,3,si
+invermarino,Almendra de mar,Glycymeris glycymeris,glycy4.jpg,3,si
+invermarino,Bolo,Venus verrucosa,venus1.jpg,3,si
+invermarino,Bolo,Venus verrucosa,venus2.jpg,3,si
+invermarino,Bolo,Venus verrucosa,venus3.jpg,3,si
+invermarino,Bolo,Venus verrucosa,venus4.jpg,3,si
+inverterrestre,Caracol rayado,Cepaea nemoralis,cepaea1.jpg,2,si
+inverterrestre,Caracol rayado,Cepaea nemoralis,cepaea2.jpg,2,si
+inverterrestre,Caracol rayado,Cepaea nemoralis,cepaea3.jpg,2,si
+inverterrestre,Caracol común,Cornu aspersum,cornu1.jpg,2,si
+inverterrestre,Caracol común,Cornu aspersum,cornu2.jpg,2,si
+inverterrestre,Caracol común,Cornu aspersum,cornu3.jpg,2,si
+inverterrestre,Cabrilla,Otala punctata,otala1.jpg,2,si
+inverterrestre,Cabrilla,Otala punctata,otala2.webp,2,si
+inverterrestre,Cabrilla,Otala punctata,otala3.jpg,2,si
+inverterrestre,Cabrilla,Otala lactea,lactea1.jpg,2,si
+inverterrestre,Cabrilla,Otala lactea,lactea2.jpg,2,si
+inverterrestre,Cabrilla,Otala lactea,lactea3.jpg,2,si
+invermarino,Caracol degollado,Rumina decollata,decollata1.jpg,3,si
+invermarino,Caracol degollado,Rumina decollata,decollata2.jpg,3,si
+invermarino,Caracol degollado,Rumina decollata,decollata3.jpg,3,si
+invermarino,Caracol degollado,Rumina decollata,decollata4.jpg,3,si
+invermarino,Caperuza,Capulus ungaricus,capulus1.jpg,3,si
+invermarino,Caperuza,Capulus ungaricus,capulus2.jpg,3,si
+invermarino,Caperuza,Capulus ungaricus,capulus3.jpg,3,si
+invermarino,Caperuza,Capulus ungaricus,capulus4.jpg,3,si
+invermarino,Almeja fina,Ruditapes decussatus,almeja1.jpg,3,si
+invermarino,Almeja fina,Ruditapes decussatus,almeja2.jpg,3,si
+invermarino,Almeja fina,Ruditapes decussatus,almeja3.jpg,3,si
+invermarino,Almeja fina,Ruditapes decussatus,almeja4.jpg,3,si
+invermarino,Almejón,Callista chione,callista1.jpg,3,si
+invermarino,Almejón,Callista chione,callista2.jpg,3,si
+invermarino,Almejón,Callista chione,callista3.jpg,3,si
+invermarino,Almejón,Callista chione,callista4.jpg,3,si
+alga,Lechuga de mar,Ulva lactuca,lechu1.jpg,1,si
+alga,Lechuga de mar,Ulva lactuca,lechu1.jpg,1,si
+alga,Lechuga de mar,Ulva lactuca,lechu1.jpg,1,si
+alga,Lechuga de mar,Ulva lactuca,lechu1.jpg,1,si
+alga,Sombrilla del Mediterráneo,Acetabularia acetabulum,sombri1.jpg,1,si
+alga,Sombrilla del Mediterráneo,Acetabularia acetabulum,sombri2.jpg,1,si
+alga,Sombrilla del Mediterráneo,Acetabularia acetabulum,sombri3.jpg,1,si
+alga,Sombrilla del Mediterráneo,Acetabularia acetabulum,sombri4.jpg,1,si
+alga,Bola de mar,Codium bursa,codium1.jpg,1,si
+alga,Bola de mar,Codium bursa,codium2.jpg,1,si
+alga,Bola de mar,Codium bursa,codium3.jpg,1,si
+alga,Bola de mar,Codium bursa,codium4.jpg,1,si
+alga,Cuerno de terciopelo,Codium tomentosum,tomen1.jpg,1,si
+alga,Cuerno de terciopelo,Codium tomentosum,tomen2.jpg,1,si
+alga,Cuerno de terciopelo,Codium tomentosum,tomen3.jpg,1,si
+alga,Cuerno de terciopelo,Codium tomentosum,tomen4.jpg,1,si
+alga,Oreja de liebre,Caulerpa prolifera,proli1.jpg,1,si
+alga,Oreja de liebre,Caulerpa prolifera,proli2.png,1,si
+alga,Oreja de liebre,Caulerpa prolifera,proli3.png,1,si
+alga,Oreja de liebre,Caulerpa prolifera,proli4.jpg,1,si
+alga,Sargazo vesiculoso,Fucus vesiculosus,vesi1.jpg,1,si
+alga,Sargazo vesiculoso,Fucus vesiculosus,vesi2.jpg,1,si
+alga,Sargazo vesiculoso,Fucus vesiculosus,vesi3.png,1,si
+alga,Sargazo vesiculoso,Fucus vesiculosus,vesi4.jpg,1,si
+alga,Fucus dentado,Fucus serratus,serrado1.jpg,2,si
+alga,Fucus dentado,Fucus serratus,serrado2.jpg,2,si
+alga,Fucus dentado,Fucus serratus,serrado3.jpg,2,si
+alga,Fucus dentado,Fucus serratus,serrado4.jpg,2,si
+alga,Fucus espiral,Fucus spiralis,espiral1.jpg,2,si
+alga,Fucus espiral,Fucus spiralis,espiral2.jpg,2,si
+alga,Fucus espiral,Fucus spiralis,espiral3.jpg,2,si
+alga,Fucus espiral,Fucus spiralis,espiral4.jpg,2,si
+alga,Pelvetia,Pelvetia canaliculata,pelvetia1.jpg,2,si
+alga,Pelvetia,Pelvetia canaliculata,pelvetia2.jpg,2,si
+alga,Pelvetia,Pelvetia canaliculata,pelvetia3.jpg,2,si
+alga,Pelvetia,Pelvetia canaliculata,pelvetia4.jpg,2,si
+alga,Alga azul,Dictyota dichotoma,dicho1.jpg,2,si
+alga,Alga azul,Dictyota dichotoma,dicho2.jpg,2,si
+alga,Alga azul,Dictyota dichotoma,dicho3.jpg,2,si
+alga,Alga azul,Dictyota dichotoma,dicho4.jpg,2,si
+alga,Alga bifurcada,Bifurcaria bifurcata,bifur1.jpg,2,si
+alga,Alga bifurcada,Bifurcaria bifurcata,bifur2.jpg,2,si
+alga,Alga bifurcada,Bifurcaria bifurcata,bifur3.jpg,2,si
+alga,Alga bifurcada,Bifurcaria bifurcata,bifur4.jpg,2,si
+alga,Alga de roca,Ascophyllum nodosum,asco1.jpg,2,si
+alga,Alga de roca,Ascophyllum nodosum,asco2.jpg,2,si
+alga,Alga de roca,Ascophyllum nodosum,asco3.jpg,2,si
+alga,Alga de roca,Ascophyllum nodosum,asco4.jpg,2,si
+alga,Cola de pavo real,Padina pavonica,padina1.jpg,3,si
+alga,Cola de pavo real,Padina pavonica,padina2.jpg,3,si
+alga,Cola de pavo real,Padina pavonica,padina3.jpg,3,si
+alga,Cola de pavo real,Padina pavonica,padina4.jpg,3,si
+alga,Coralina,Corallina officinalis,corallina1.jpg,3,si
+alga,Coralina,Corallina officinalis,corallina2.jpg,3,si
+alga,Coralina,Corallina officinalis,corallina3.jpg,3,si
+alga,Coralina,Corallina officinalis,corallina4.jpg,3,si
+alga,Musgo de Irlanda,Chondrus crispus,ireland1.jpg,3,si
+alga,Musgo de Irlanda,Chondrus crispus,ireland2.jpg,3,si
+alga,Musgo de Irlanda,Chondrus crispus,ireland3.jpg,3,si
+alga,Musgo de Irlanda,Chondrus crispus,ireland4.jpg,3,si
+alga,Nostoc,Nostoc commune,nos1.jpg,3,si
+alga,Nostoc,Nostoc commune,nostoc1.jpg,3,si
+alga,Nostoc,Nostoc commune,nostoc2.jpg,3,si
+alga,Nostoc,Nostoc commune,nostoc4.jpg,3,si
+alga,Posidonia,Posidonia oceanica,posidonia1.jpg,3,si
+alga,Posidonia,Posidonia oceanica,posidonia2.jpg,3,si
+alga,Posidonia,Posidonia oceanica,posidonia3.jpg,3,si
+alga,Posidonia,Posidonia oceanica,posidonia4.png,3,si
+alga,Sargazo   ,Sargassum vulgare,sargazo1.jpg,3,si
+alga,Sargazo   ,Sargassum vulgare,sargazo2.jpg,3,si
+alga,Sargazo   ,Sargassum vulgare,sargazo3.jpg,3,si
+alga,Sargazo   ,Sargassum vulgare,sargazo4.jpg,3,si
+pez,Rodaballo,Scophthalmus maximus,roda1.jpg,0,no
+pez,Rodaballo,Scophthalmus maximus,roda2.jpg,0,no
+pez,Rodaballo,Scophthalmus maximus,roda3.jpg,0,no
+pez,Rodaballo,Scophthalmus maximus,roda4.jpg,0,no
+pez,Lenguado,Solea solea,lenguado1.jpg,1,si
+pez,Lenguado,Solea solea,lenguado2.jpg,1,si
+pez,Lenguado,Solea solea,lenguado3.jpg,1,si
+pez,Lenguado,Solea solea,lenguado4.jpg,1,si
+pez,Gallo ,Lepidorhombus boscii,gallo1.jpg,0,no
+pez,Gallo ,Lepidorhombus boscii,gallo2.jpg,0,no
+pez,Gallo ,Lepidorhombus boscii,gallo3.jpg,0,no
+pez,Gallo ,Lepidorhombus boscii,gallo4.jpg,0,no
+pez,Raya de clavos,Raja clavata,raya1.jpg,1,si
+pez,Raya de clavos,Raja clavata,raya2.jpg,1,si
+pez,Raya de clavos,Raja clavata,raya3.jpg,1,si
+pez,Raya de clavos,Raja clavata,raya4.jpg,1,si
+pez,Raya de clavos,Raja clavata,raya5.jpg,1,si
+pez,Pintarroja,Scyliorhinus canicula,pinta1.jpg,1,si
+pez,Pintarroja,Scyliorhinus canicula,pinta2.jpg,1,si
+pez,Pintarroja,Scyliorhinus canicula,pinta3.jpg,1,si
+pez,Pintarroja,Scyliorhinus canicula,pinta4.jpg,1,si
+pez,Pintarroja,Scyliorhinus canicula,pinta5.webp,1,si
+pez,Merluza europea,Merluccius merluccius,merluza1.jpg,1,si
+pez,Merluza europea,Merluccius merluccius,merluza2.jpg,1,si
+pez,Merluza europea,Merluccius merluccius,merluza3.jpg,1,si
+pez,Merluza europea,Merluccius merluccius,merluza4.jpg,1,si
+pez,Merluza europea,Merluccius merluccius,merluza5.jpg,1,si
+pez,Corvina,Argyrosomus regius,corvina1.jpg,1,si
+pez,Corvina,Argyrosomus regius,corvina2.jpg,1,si
+pez,Corvina,Argyrosomus regius,corvina3.jpg,1,si
+pez,Corvina,Argyrosomus regius,corvina4.jpg,1,si
+pez,Corvina,Argyrosomus regius,corvina5.jpg,1,si
+pez,Oblada,Oblada melanura,oblada1.jpg,1,no
+pez,Oblada,Oblada melanura,oblada2.jpg,1,no
+pez,Oblada,Oblada melanura,oblada3.jpg,1,no
+pez,Oblada,Oblada melanura,oblada4.jpg,1,no
+pez,Aguja,Belone belone,aguja1.jpg,1,si
+pez,Aguja,Belone belone,aguja2.jpg,1,si
+pez,Aguja,Belone belone,aguja3.jpg,1,si
+pez,Aguja,Belone belone,aguja4.jpg,1,si
+pez,Arenque,Clupea harengus,arenque1.jpg,1,si
+pez,Arenque,Clupea harengus,arenque2.jpg,1,si
+pez,Arenque,Clupea harengus,arenque3.png,1,si
+pez,Arenque,Clupea harengus,arenque4.webp,1,si
+pez,Boquerón,Engraulis encrasicolus,boqueron1.jpg,1,si
+pez,Boquerón,Engraulis encrasicolus,boqueron2.jpg,1,si
+pez,Boquerón,Engraulis encrasicolus,boqueron3.jpg,1,si
+pez,Boquerón,Engraulis encrasicolus,boqueron4.jpg,1,si
+pez,Caballa del Atlántico,Scomber scombrus,caballa1.jpg,1,si
+pez,Caballa del Atlántico,Scomber scombrus,caballa2.jpg,1,si
+pez,Caballa del Atlántico,Scomber scombrus,caballa3.jpg,1,si
+pez,Caballa del Atlántico,Scomber scombrus,caballa4.jpg,1,si
+pez,Sardina,Sardina pilchardus,sardina1.jpg,2,si
+pez,Sardina,Sardina pilchardus,sardina2.jpg,2,si
+pez,Sardina,Sardina pilchardus,sardina3.jpg,2,si
+pez,Sardina,Sardina pilchardus,sardina4.jpg,2,si
+pez,Salmón del Atlántico,Salmo salar,salmon1.jpg,2,si
+pez,Salmón del Atlántico,Salmo salar,salmon2.jpg,2,si
+pez,Salmón del Atlántico,Salmo salar,salmon3.jpg,2,si
+pez,Salmón del Atlántico,Salmo salar,salmon4.png,2,si
+pez,Trucha común,Salmo trutta,trucha1.jpg,2,si
+pez,Trucha común,Salmo trutta,trucha2.jpg,2,si
+pez,Trucha común,Salmo trutta,trucha3.jpg,2,si
+pez,Trucha común,Salmo trutta,trucha4.jpg,2,si
+pez,Sargo común,Diplodus sargus,sargo1.jpg,0,no
+pez,Sargo común,Diplodus sargus,sargo2.jpg,0,no
+pez,Sargo común,Diplodus sargus,sargo3.jpg,0,no
+pez,Sargo común,Diplodus sargus,sargo5.jpg,0,no
+pez,Mojarra,Diplodus vulgaris,mojarra1.jpg,0,no
+pez,Mojarra,Diplodus vulgaris,mojarra2.jpg,0,no
+pez,Mojarra,Diplodus vulgaris,mojarra3.jpg,0,no
+pez,Mojarra,Diplodus vulgaris,mojarra4.jpg,0,no
+pez,Boga,Boops boops,boga1.jpg,0,no
+pez,Boga,Boops boops,boga2.jpg,0,no
+pez,Boga,Boops boops,boga3.jpg,0,no
+pez,Boga,Boops boops,boga4.jpg,0,no
+pez,Bacaladilla,Micromesistius poutassou,bacaladilla1.jpg,0,no
+pez,Bacaladilla,Micromesistius poutassou,bacaladilla2.jpg,0,no
+pez,Bacaladilla,Micromesistius poutassou,bacaladilla3.jpg,0,no
+pez,Bacaladilla,Micromesistius poutassou,bacaladilla4.jpg,0,no
+pez,Barbo común,Luciobarbus bocagei,barbo1.jpg,2,si
+pez,Barbo común,Luciobarbus bocagei,barbo2.jpg,2,si
+pez,Barbo común,Luciobarbus bocagei,barbo3.jpg,2,si
+pez,Barbo común,Luciobarbus bocagei,barbo4.jpg,2,si
+pez,Carpa común,Cyprinus carpio,carpa1.jpg,2,si
+pez,Carpa común,Cyprinus carpio,carpa2.jpg,2,si
+pez,Carpa común,Cyprinus carpio,carpa3.jpg,2,si
+pez,Carpa común,Cyprinus carpio,carpa4.jpg,2,si
+pez,Múgil,Mugil cephalus,mugil1.jpg,0,no
+pez,Múgil,Mugil cephalus,mugil2.jpg,0,no
+pez,Múgil,Mugil cephalus,mugil4.jpg,0,no
+pez,Múgil,Mugil cephalus,mugil5.jpg,0,no
+pez,Lubina,Dicentrarchus labrax,lubina1.jpg,2,si
+pez,Lubina,Dicentrarchus labrax,lubina2.jpg,2,si
+pez,Lubina,Dicentrarchus labrax,lubina3.jpg,2,si
+pez,Lubina,Dicentrarchus labrax,lubina4.jpg,2,si
+pez,Salmonete de roca,Mullus surmuletus,salmonete1.jpg,2,si
+pez,Salmonete de roca,Mullus surmuletus,salmonete2.jpg,2,si
+pez,Salmonete de roca,Mullus surmuletus,salmonete3.jpg,2,si
+pez,Salmonete de roca,Mullus surmuletus,salmonete4.jpg,2,si
+pez,Gallineta,Helicolenus dactylopterus,gallinetaa1.jpg,2,si
+pez,Gallineta,Helicolenus dactylopterus,gallinetaa2.jpg,2,si
+pez,Gallineta,Helicolenus dactylopterus,gallinetaa3.jpg,2,si
+pez,Gallineta,Helicolenus dactylopterus,gallinetaa4.jpg,2,si
+pez,Breca,Pagellus erythrinus,breca1.jpg,2,si
+pez,Breca,Pagellus erythrinus,breca2.jpg,2,si
+pez,Breca,Pagellus erythrinus,breca3.jpg,2,si
+pez,Breca,Pagellus erythrinus,breca4.jpg,2,si
+pez,Besugo,Pagellus bogaraveo,besugo1.jpg,2,si
+pez,Besugo,Pagellus bogaraveo,besugo2.jpg,2,si
+pez,Besugo,Pagellus bogaraveo,besugo3.jpg,2,si
+pez,Besugo,Pagellus bogaraveo,besugo4.jpg,2,si
+pez,Dorada,Sparus aurata,dorada1.jpg,3,si
+pez,Dorada,Sparus aurata,dorada2.jpg,3,si
+pez,Dorada,Sparus aurata,dorada3.jpg,3,si
+pez,Dorada,Sparus aurata,dorada4.jpg,3,si
+pez,Pargo,Pagrus pagrus,pargo1.jpg,3,si
+pez,Pargo,Pagrus pagrus,pargo2.jpg,3,si
+pez,Pargo,Pagrus pagrus,pargo3.jpg,3,si
+pez,Pargo,Pagrus pagrus,pargo4.jpg,3,si
+pez,Jurel,Trachurus trachurus,jurel1.jpg,3,si
+pez,Jurel,Trachurus trachurus,jurel2.jpg,3,si
+pez,Jurel,Trachurus trachurus,jurel3.jpg,3,si
+pez,Jurel,Trachurus trachurus,jurel4.jpg,3,si
+pez,Bonito,Sarda sarda,bonito1.jpg,3,no
+pez,Bonito,Sarda sarda,bonito2.jpg,3,no
+pez,Bonito,Sarda sarda,bonito3.jpg,3,no
+pez,Bonito,Sarda sarda,bonito4.webp,3,no
+pez,Doncella,Coris julis,doncella1.jpg,3,si
+pez,Doncella,Coris julis,doncella2.jpg,3,si
+pez,Doncella,Coris julis,doncella3.jpg,3,si
+pez,Doncella,Coris julis,doncella4.jpg,3,si
+pez,Bacalao del Atlántico,Gadus morhua,bacalao1.jpg,3,no
+pez,Bacalao del Atlántico,Gadus morhua,bacalao2.jpg,3,no
+pez,Bacalao del Atlántico,Gadus morhua,bacalao3.jpg,3,no
+pez,Bacalao del Atlántico,Gadus morhua,bacalao4.jpg,3,no
+pez,Jurel,Trachurus trachurus,jurel5.jpg,3,si
+pez,Anguila,Anguilla anguilla,anguila1.jpg,3,no
+pez,Anguila,Anguilla anguilla,anguila2.jpg,3,no
+pez,Anguila,Anguilla anguilla,anguila3.jpg,3,no
+pez,Anguila,Anguilla anguilla,anguila4.jpg,3,no
+pez,Congrio,Conger conger,congrio1.jpg,3,si
+pez,Congrio,Conger conger,congrio2.jpg,3,si
+pez,Congrio,Conger conger,congrio3.jpg,3,si
+pez,Congrio,Conger conger,congrio4.jpg,3,si
+pez,Perca sol,Lepomis gibbosus,sol1.jpg,3,si
+pez,Perca sol,Lepomis gibbosus,sol2.jpg,3,si
+pez,Perca sol,Lepomis gibbosus,sol3.jpg,3,si
+pez,Perca sol,Lepomis gibbosus,sol4.jpg,3,si
+pez,Lucio,Esox lucius,lucio1.jpg,3,si
+pez,Lucio,Esox lucius,lucio2.jpg,3,si
+pez,Lucio,Esox lucius,lucio3.jpg,3,si
+pez,Lucio,Esox lucius,lucio4.webp,3,si
+pez,Trucha arcoíris,Oncorhynchus mykiss,tiris1.jpg,3,si
+pez,Trucha arcoíris,Oncorhynchus mykiss,tiris2.jpg,3,si
+pez,Trucha arcoíris,Oncorhynchus mykiss,tiris3.jpg,3,si
+pez,Caballito de mar,Hippocampus hippocampus,caballito1.jpg,3,si
+pez,Caballito de mar,Hippocampus hippocampus,caballito2.jpg,3,si
+pez,Caballito de mar,Hippocampus hippocampus,caballito3.jpg,3,si
+pez,Caballito de mar,Hippocampus hippocampus,caballito4.jpg,3,si
+mineral,Azufre,Azufre,azufre1.jpg,1,si
+mineral,Azufre,Azufre,azufre2.jpg,1,si
+mineral,Azufre,Azufre,azufre3.jpg,1,si
+mineral,Azufre,Azufre,azufre4.jpg,1,si
+mineral,Limonita,Limonita,limonita1.jpg,1,si
+mineral,Limonita,Limonita,limonita2.jpg,1,si
+mineral,Limonita,Limonita,limonita3.jpg,1,si
+mineral,Limonita,Limonita,limonita4.jpg,1,si
+mineral,Autunita,Autunita,autunita1.jpg,1,si
+mineral,Autunita,Autunita,autunita2.jpg,1,si
+mineral,Autunita,Autunita,autunita3.jpg,1,si
+mineral,Oropimente,Oropimente,oropimente1.jpg,1,no
+mineral,Oropimente,Oropimente,oropimente2.jpg,1,no
+mineral,Oropimente,Oropimente,oropimente3.jpg,1,no
+mineral,Wulfenita,Wulfenita,wulfenita1.jpg,1,si
+mineral,Wulfenita,Wulfenita,wulfenita2.jpg,1,si
+mineral,Wulfenita,Wulfenita,wulfenita3.jpg,1,si
+mineral,Wulfenita,Wulfenita,wulfenita4.jpg,1,si
+mineral,Cinabrio,Cinabrio,cinabrio1.jpg,1,si
+mineral,Cinabrio,Cinabrio,cinabrio2.jpg,1,si
+mineral,Cinabrio,Cinabrio,cinabrio3.jpg,1,si
+mineral,Cinabrio,Cinabrio,cinabrio4.jpg,1,si
+mineral,Cinabrio,Cinabrio,cinabrio5.jpg,1,si
+mineral,Cinabrio,Cinabrio,cinabrio6.jpg,1,si
+mineral,Vanadinita,Vanadinita,vanadinita1.jpg,1,si
+mineral,Vanadinita,Vanadinita,vanadinita2.jpg,1,si
+mineral,Vanadinita,Vanadinita,vanadinita3.jpg,1,si
+mineral,Vanadinita,Vanadinita,vanadinita4.jpg,1,si
+mineral,Hematites,Hematites,hematites1.jpg,1,si
+mineral,Hematites,Hematites,hematites2.png,1,si
+mineral,Hematites,Hematites,hematites5.jpg,1,si
+mineral,Hematites,Hematites,hematites6.jpg,1,si
+mineral,Hematites,Hematites,hematites4.png,1,si
+mineral,Ocre rojo,Ocre rojo,ocre1.webp,1,no
+mineral,Ocre rojo,Ocre rojo,ocre2.jpg,1,no
+mineral,Hematites especularita,Hematites especularita,especularita1.jpg,1,no
+mineral,Hematites especularita,Hematites especularita,especularita2.jpg,1,no
+mineral,Grafito,Grafito,grafito1.jpg,1,si
+mineral,Grafito,Grafito,grafito2.jpg,1,si
+mineral,Grafito,Grafito,grafito3.jpg,1,si
+mineral,Grafito,Grafito,grafito4.jpg,1,si
+mineral,Galena,Galena,galena1.jpg,1,si
+mineral,Galena,Galena,galena2.jpg,1,si
+mineral,Galena,Galena,galena3.png,1,si
+mineral,Galena,Galena,galena4.jpg,1,si
+mineral,Casiterita,Casiterita,casiterita1.jpg,1,si
+mineral,Casiterita,Casiterita,casiterita2.jpg,1,si
+mineral,Casiterita,Casiterita,casiterita3.jpg,1,si
+mineral,Magnetita,Magnetita,magnetita1.jpg,1,si
+mineral,Magnetita,Magnetita,magnetita2.jpg,1,si
+mineral,Magnetita,Magnetita,magnetita3.png,1,si
+mineral,Magnetita,Magnetita,magnetita4.webp,1,si
+mineral,Goethita,Goethita,goethita1.jpg,1,si
+mineral,Goethita,Goethita,goethita2.jpg,1,si
+mineral,Goethita,Goethita,goethita3.jpg,1,si
+mineral,Goethita irisada,Goethita ,goethitairi3.jpg,1,si
+mineral,Goethita estalactitita,Goethita ,estalac1.jpg,1,si
+mineral,Goethita irisada,Goethita ,goethitairi1.jpg,1,si
+mineral,Goethita irisada,Goethita ,goethitairi2.jpg,1,si
+mineral,Pirolusita,Pirolusita,pirolusita1.jpg,1,si
+mineral,Pirolusita,Pirolusita,pirolusita2.jpg,1,si
+mineral,Dendritas de pirolusita,Dendritas de pirolusita,dendritas1.jpg,1,si
+mineral,Dendritas de pirolusita,Dendritas de pirolusita,dendritas2.jpg,1,si
+mineral,Dendritas de pirolusita,Dendritas de pirolusita,dendritas3.jpg,1,si
+mineral,Estibina,Estibina,estibina1.png,1,si
+mineral,Estibina,Estibina,estibina2.jpg,1,si
+mineral,Estibina,Estibina,estibina3.png,1,si
+mineral,Hornblenda,Hornblenda,hornblenda1.png,1,si
+mineral,Hornblenda,Hornblenda,hornblenda2.jpg,1,si
+mineral,Hornblenda,Hornblenda,hornblenda3.jpg,1,si
+mineral,Pirita,Pirita,pirita1.jpg,1,si
+mineral,Pirita,Pirita,pirita2.jpg,1,si
+mineral,Pirita,Pirita,pirita3.jpg,1,si
+mineral,Pirita,Pirita,pirita4.jpg,1,si
+mineral,Sol de pirita,Sol de pirita,pirita5.jpg,1,si
+mineral,Pirita pseudomórfica,Pirita pseudomórfica,pirita6.jpg,1,si
+mineral,Calcopirita,Calcopirita,calcopirita1.jpg,1,si
+mineral,Calcopirita,Calcopirita,calcopirita2.jpg,1,si
+mineral,Calcopirita,Calcopirita,calcopirita3.png,1,si
+mineral,Calcopirita,Calcopirita,calcopirita4.png,1,si
+mineral,Calcopirita irisada,Calcopirita ,calcopirita5.jpg,1,si
+mineral,Marcasita,Marcasita,marcasita1.jpg,1,si
+mineral,Marcasita,Marcasita,marcasita2.jpg,1,si
+mineral,Marcasita,Marcasita,marcasita3.jpg,1,si
+mineral,Cerusita,Cerusita,cerusita1.jpg,1,si
+mineral,Cerusita,Cerusita,cerusita2.jpg,1,si
+mineral,Cerusita,Cerusita,cerusita4.png,1,si
+mineral,Malaquita acicular,Malaquita ,malaquita1.jpg,1,si
+mineral,Malaquita,Malaquita,malaquita2.jpg,1,si
+mineral,Malaquita,Malaquita,malaquita3.jpg,1,si
+mineral,Malaquita,Malaquita,malaquita4.jpg,1,si
+mineral,Malaquita,Malaquita,malaquita5.jpg,1,si
+mineral,Olivino,Olivino,olivino1.jpg,1,si
+mineral,Olivino,Olivino,olivino5.jpg,1,si
+mineral,Olivino,Olivino,olivino3.jpg,1,si
+mineral,Olivino,Olivino,olivino4.jpg,1,si
+mineral,Torbernita,Torbernita,torbernita1.jpg,1,si
+mineral,Torbernita,Torbernita,torbernita2.jpg,1,si
+mineral,Torbernita,Torbernita,torbernita3.jpg,1,si
+mineral,Zoisita,Zoisita,zoisita2.jpg,1,si
+mineral,Zoisita,Zoisita,zoisita1.jpg,1,si
+mineral,Clorita,Clorita,clorita1.jpg,1,si
+mineral,Clorita,Clorita,clorita2.jpg,1,si
+mineral,Clorita,Clorita,clorita3.jpg,1,si
+mineral,Clorita,Clorita,clorita4.jpg,1,si
+mineral,Piromorfita,Piromorfita,piromorfita1.png,1,si
+mineral,Piromorfita,Piromorfita,piromorfita2.jpg,1,si
+mineral,Piromorfita,Piromorfita,piromorfita3.jpg,1,si
+mineral,Azurita,Azurita,azurita1.jpg,1,si
+mineral,Azurita,Azurita,azurita2.jpg,1,si
+mineral,Azurita,Azurita,azurita3.jpg,1,si
+mineral,Azurita,Azurita,azurita4.jpg,1,si
+mineral,Celestina,Celestina,celestina1.jpg,1,si
+mineral,Celestina,Celestina,celestina2.jpg,1,si
+mineral,Celestina,Celestina,celestina3.jpg,1,si
+mineral,Crisocola,Crisocola,crisocola1.jpg,1,si
+mineral,Crisocola,Crisocola,crisocola2.jpg,1,si
+mineral,Crisocola,Crisocola,crisocola3.png,1,si
+mineral,Cianita,Cianita,cianita1.jpg,1,si
+mineral,Cianita,Cianita,cianita2.jpg,1,si
+mineral,Cianita,Cianita,cianita3.png,1,si
+mineral,Lapislázuli,Lapislázuli,lapislazuli1.jpg,1,si
+mineral,Lapislázuli,Lapislázuli,lapislazuli2.png,1,si
+mineral,Lapislázuli,Lapislázuli,lapislazuli3.jpg,1,si
+mineral,Lapislázuli,Lapislázuli,lapislazuli4.jpg,1,si
+mineral,Sodalita,Sodalita,sodalita1.png,1,si
+mineral,Sodalita,Sodalita,sodalita2.jpg,1,si
+mineral,Sodalita,Sodalita,sodalita3.jpg,1,si
+mineral,Halita,Halita,halita2.webp,2,si
+mineral,Halita,Halita,halita3.jpg,2,si
+mineral,Halita,Halita,halita4.jpg,2,si
+mineral,Halita,Halita,halita5.jpg,2,si
+mineral,Magnesita,Magnesita,magnesita1.jpg,2,si
+mineral,Magnesita,Magnesita,magnesita2.jpg,2,si
+mineral,Magnesita,Magnesita,magnesita3.jpg,2,si
+mineral,Talco,Talco,talco1.jpg,2,si
+mineral,Talco,Talco,talco2.jpg,2,si
+mineral,Talco,Talco,talco3.webp,2,si
+mineral,Talco,Talco,talco4.jpg,2,si
+mineral,Talco,Talco,talco5.jpg,2,si
+mineral,Ambligonita,Ambligonita,ambligonita1.jpg,2,si
+mineral,Ambligonita,Ambligonita,ambligonita2.jpg,2,si
+mineral,Ambligonita,Ambligonita,ambligonita3.jpg,2,si
+mineral,Wollastonita,Wollastonita,wollastonita1.jpg,2,no
+mineral,Wollastonita,Wollastonita,wollastonita2.jpg,2,no
+mineral,Sepiolita,Sepiolita,sepiolita1.jpg,2,no
+mineral,Sepiolita,Sepiolita,sepiolita2.jpg,2,no
+mineral,Sepiolita,Sepiolita,sepiolita3.jpg,2,no
+mineral,Rodocrosita,Rodocrosita,rodocrosita1.jpg,2,si
+mineral,Rodocrosita,Rodocrosita,rodocrosita2.jpg,2,si
+mineral,Rodocrosita,Rodocrosita,rodocrosita3.jpg,2,si
+mineral,Rodocrosita,Rodocrosita,rodocrosita4.jpg,2,si
+mineral,Rodocrosita,Rodocrosita,rodocrosita5.jpg,2,si
+mineral,Rodonita,Rodonita,rodonita1.jpg,2,si
+mineral,Rodonita,Rodonita,rodonita2.jpg,2,si
+mineral,Rodonita,Rodonita,rodonita3.jpg,2,si
+mineral,Rodonita,Rodonita,rodonita4.jpg,2,si
+mineral,Rosa del desierto,Rosa del desierto,rosa1.jpg,2,si
+mineral,Rosa del desierto,Rosa del desierto,rosa2.jpg,2,si
+mineral,Rosa del desierto,Rosa del desierto,rosa4.jpg,2,si
+mineral,Yeso fibroso,Yeso fibroso,yesof1.jpg,2,si
+mineral,Yeso fibroso,Yeso fibroso,yeso2.jpg,2,si
+mineral,Yeso fibroso,Yeso fibroso,yeso3.jpg,2,si
+mineral,Yeso fibroso,Yeso fibroso,yeso4.jpg,2,si
+mineral,Yeso selenita,Yeso ,selenita1.jpg,2,si
+mineral,Yeso selenita,Yeso ,selenita2.jpg,2,si
+mineral,Yeso selenita,Yeso ,selenita3.jpg,2,si
+mineral,Yeso cristalizado,Yeso ,yesoc.jpg,2,si
+mineral,Yeso cristalizado en alabastro,Yeso,yesoa1.jpg,2,si
+mineral,Yeso bandeado,Yeso bandeado,yesob1.jpg,2,si
+mineral,Yeso bandeado,Yeso bandeado,yesob2.jpg,2,si
+mineral,Yeso bandeado,Yeso bandeado,yesob3.jpg,2,no
+mineral,Yeso rojo,Yeso rojo,yesor2.jpg,2,si
+mineral,Yeso rojo,Yeso rojo,yesor1.jpg,2,si
+mineral,Yeso macla en punta de flecha,Yeso macla en punta de flecha,yesoflecha1.jpg,2,si
+mineral,Yeso sericolita,Yeso sericolita,yesos1.jpg,2,si
+mineral,Yeso sericolita,Yeso sericolita,yesos2.jpg,2,si
+mineral,Cuarzo lechoso,Cuarzo lechoso,cuarzol1.jpg,2,si
+mineral,Cuarzo lechoso,Cuarzo lechoso,cuarzol2.webp,2,si
+mineral,Cuarzo lechoso,Cuarzo lechoso,cuarzol3.png,2,si
+mineral,Cuarzo Jacinto de Compostela,Cuarzo Jacinto de Compostela,jacinto1.jpg,2,si
+mineral,Cuarzo Jacinto de Compostela,Cuarzo Jacinto de Compostela,jacinto2.jpg,2,si
+mineral,Cuarzo Jacinto de Compostela,Cuarzo Jacinto de Compostela,jacinto3.png,2,si
+mineral,Cuarzo ahumado,Cuarzo ahumado,cuarzoa1.jpg,2,si
+mineral,Cuarzo ahumado,Cuarzo ahumado,cuarzoa2.jpg,2,si
+mineral,Cuarzo ahumado,Cuarzo ahumado,cuarzoa3.webp,2,si
+mineral,Calcedonia,Calcedonia,calcedonia1.webp,2,si
+mineral,Calcedonia,Calcedonia,calcedonia2.jpg,2,si
+mineral,Calcedonia,Calcedonia,calcedonia3.jpg,2,si
+mineral,Calcedonia,Calcedonia,calcedonia4.jpg,2,si
+mineral,Amatista,Cuarzo amatista,amatista1.jpg,2,si
+mineral,Amatista,Cuarzo amatista,amatista2.jpg,2,si
+mineral,Amatista,Cuarzo amatista,amatista3.jpg,2,si
+mineral,Cuarzo hematoideo,Cuarzo hematoideo,cuarzoh1.jpg,2,si
+mineral,Cuarzo hematoideo,Cuarzo hematoideo,cuarzoh1.jpg,2,si
+mineral,Cuarzo rosa,Cuarzo rosa,cuarzor1.jpg,2,si
+mineral,Cuarzo verde,Cuarzo verde,cuarzov1.jpg,2,si
+mineral,Cuarzo prasio,Cuarzo prasio,cuarzop1.jpg,2,si
+mineral,Cuarzo prasio,Cuarzo prasio,cuarzop2.jpg,2,si
+mineral,Cuarzo cristal de roca,Cuarzo cristal de roca,cuarzoc1.jpg,2,si
+mineral,Cuarzo cristal de roca,Cuarzo cristal de roca,cuarzoc2.jpg,2,si
+mineral,Cuarzo cristal de roca,Cuarzo cristal de roca,cuarzoc4.jpg,2,si
+mineral,Cuarzo citrino,Cuarzo citrino,cuarzoci1.jpg,2,si
+mineral,Cuarzo citrino,Cuarzo citrino,cuarzoci2.jpg,2,si
+mineral,Ágata,Ágata,agata1.jpg,2,si
+mineral,Ágata,Ágata,agata2.jpg,2,si
+mineral,Ágata,Ágata,agata3.jpg,2,si
+mineral,Ágata,Ágata,agata4.jpg,2,no
+mineral,Ónice,Ónice,onice1.jpg,2,no
+mineral,Ónice,Ónice,onice2.jpg,2,no
+mineral,Cuarzo rutilado,Cuarzo rutilado,cuarzoru1.jpg,2,si
+mineral,Cuarzo rutilado,Cuarzo rutilado,cuarzoru2.jpg,2,si
+mineral,Ojo de tigre,Ojo de tigre,tigre1.jpg,2,si
+mineral,Sílex,Sílex,silex1.jpg,2,si
+mineral,Sílex,Sílex,silex2.jpg,2,si
+mineral,Sílex,Sílex,silex3.jpg,2,si
+mineral,Sílex,Sílex,silex4.jpg,2,si
+mineral,Jaspe,Jaspe,jaspe1.jpg,2,no
+mineral,Jaspe rojo,Jaspe rojo,jasper2.jpg,2,no
+mineral,Jaspe rojo,Jaspe rojo,jasper1.jpg,2,no
+mineral,Jaspe,Jaspe,jaspe3.jpg,2,no
+mineral,Ópalo,Ópalo,opalo1.jpg,2,si
+mineral,Ópalo,Ópalo,opalo2.jpg,2,si
+mineral,Ópalo,Ópalo,opalo3.jpg,2,si
+mineral,Xilópalo,Xilópalo,xilopalo1.jpg,2,si
+mineral,Xilópalo,Xilópalo,xilopalo2.jpg,2,si
+mineral,Ópalo menilito,Ópalo menilito,opalom1.jpg,2,si
+mineral,Ópalo menilito,Ópalo menilito,opalom2.jpg,2,si
+mineral,Ópalo hialita,Ópalo hialita,opaloh1.jpg,2,no
+mineral,Cuarzo con clorita,Cuarzo con clorita,cuarzoclo2.jpg,2,si
+mineral,Cuarzo con clorita,Cuarzo con clorita,cuarzoclo1.jpg,2,si
+mineral,Ojo de halcón,Ojo de halcón,ojoh1.jpg,2,si
+mineral,Ojo de buey,Ojo de buey,ojob1.jpg,2,si
+mineral,Jaspe dálmata,Jaspe dálmata,jasped1.jpg,2,no
+mineral,Aragonito,Aragonito,aragonito1.jpg,2,si
+mineral,Aragonito,Aragonito,aragonito2.jpg,2,si
+mineral,Aragonito,Aragonito,aragonito3.jpg,2,si
+mineral,Aragonito,Aragonito,aragonito4.jpg,2,si
+mineral,Aragonito,Aragonito,aragonito9.jpg,2,si
+mineral,Aragonito coraloide,Aragonito coraloide,aragonito8.png,2,si
+mineral,Aragonito coraloide,Aragonito coraloide,aragonito5.jpg,2,si
+mineral,Aragonito acicular,Aragonito ,aragonito6.jpg,2,si
+mineral,Aragonito acicular,Aragonito ,aragonito7.jpg,2,si
+mineral,Mica moscovita,Mica moscovita,moscovita1.jpg,2,si
+mineral,Mica moscovita,Mica moscovita,moscovita2.jpg,2,si
+mineral,Mica moscovita,Mica moscovita,moscovita3.jpg,2,si
+mineral,Mica biotita,Mica biotita,biotita1.jpg,2,si
+mineral,Mica biotita,Mica biotita,biotita2.jpg,2,si
+mineral,Mica biotita,Mica biotita,biotita3.jpg,2,si
+mineral,Almandino,Almandino,almandino1.jpg,3,si
+mineral,Almandino,Almandino,almandino2.jpg,3,si
+mineral,Almandino,Almandino,almandino3.jpg,3,si
+mineral,Andalucita,Andalucita,andalucita1.jpg,3,si
+mineral,Andalucita,Andalucita,andalucita2.jpg,3,si
+mineral,Andalucita,Andalucita,andalucita3.jpg,3,si
+mineral,Andalucita,Andalucita,andalucita4.png,3,si
+mineral,Quiastolita,Quiastolita,quiastolita1.jpg,3,si
+mineral,Quiastolita,Quiastolita,quiastolita2.jpg,3,si
+mineral,Quiastolita,Quiastolita,quiastolita3.jpg,3,si
+mineral,Quiastolita,Quiastolita,quiastolita4.jpg,3,si
+mineral,Turmalina chorlo,Turmalina chorlo,chorlo1.jpg,3,si
+mineral,Turmalina chorlo,Turmalina chorlo,chorlo2.jpg,3,si
+mineral,Turmalina chorlo,Turmalina chorlo,chorlo3.jpg,3,si
+mineral,Turmalina verdelita,Turmalina verdelita,verdelita1.jpg,3,si
+mineral,Turmalina verdelita,Turmalina verdelita,verdelita2.jpg,3,si
+mineral,Turmalina rubelita,Turmalina rubelita,rubelita1.jpg,3,si
+mineral,Turmalina rubelita,Turmalina rubelita,rubelita2.jpg,3,si
+mineral,Turmalina sandía,Turmalina sandía,sandia1.jpg,3,si
+mineral,Blenda acaramelada,Blenda acaramelada,blenda1.jpg,3,si
+mineral,Blenda acaramelada,Blenda acaramelada,blenda2.jpg,3,si
+mineral,Blenda acaramelada,Blenda acaramelada,blenda3.jpg,3,si
+mineral,Blenda acaramelada,Blenda acaramelada,blenda4.jpg,3,si
+mineral,Schalenblenda,Schalenblenda,schalenblenda1.jpg,3,si
+mineral,Schalenblenda,Schalenblenda,schalenblenda2.jpg,3,si
+mineral,Corindón,Corindón,corindon1.jpg,3,si
+mineral,Corindón,Corindón,corindon2.jpg,3,si
+mineral,Corindón,Corindón,corindon3.jpg,3,si
+mineral,Corindón,Corindón,corindon4.jpg,3,si
+mineral,Calcita,Calcita,calcita1.png,3,si
+mineral,Calcita,Calcita,calcita2.jpg,3,si
+mineral,Calcita,Calcita,calcita5.jpg,3,si
+mineral,Calcita diente de perro,Calcita diente de perro,calcita4.jpg,3,si
+mineral,Espato de Islandia,Espato de Islandia,espato1.jpg,3,si
+mineral,Espato de Islandia,Espato de Islandia,espato4.jpg,3,si
+mineral,Espato de Islandia,Espato de Islandia,espato3.jpg,3,si
+mineral,Septaria de calcita,Septaria de calcita,septaria1.jpg,3,si
+mineral,Septaria de calcita,Septaria de calcita,septaria2.jpg,3,si
+mineral,Septaria de calcita,Septaria de calcita,septaria3.jpg,3,si
+mineral,Calcita espática,Calcita espática,calcitae3.png,3,si
+mineral,Calcita espática,Calcita espática,calcitae2.jpg,3,si
+mineral,Fluorita,Fluorita,fluorita1.png,3,si
+mineral,Fluorita,Fluorita,fluorita2.png,3,si
+mineral,Fluorita,Fluorita,fluorita3.jpg,3,si
+mineral,Fluorita,Fluorita,fluorita4.jpg,3,si
+mineral,Fluorita,Fluorita,fluorita5.jpg,3,si
+mineral,Fluorita,Fluorita,fluorita6.jpg,3,si
+mineral,Barita,Barita,barita1.jpg,3,si
+mineral,Barita,Barita,barita2.jpg,3,si
+mineral,Barita,Barita,barita3.jpg,3,si
+mineral,Barita,Barita,barita4.jpg,3,si
+mineral,Barita,Barita,barita5.png,3,si
+mineral,Barita,Barita,barita6.png,3,si
+mineral,Barita,Barita,barita7.png,3,si
+mineral,Amarga y picante,Carnalita ,carnalita1.jpg,3,si
+mineral,Amarga y picante,Carnalita ,carnalita2.jpg,3,si
+mineral,Amarga y picante,Carnalita ,carnalita3.jpg,3,si
+mineral,Amarga ,Silvina ,silvina1.jpg,3,si
+mineral,Amarga ,Silvina ,silvina2.jpg,3,si
+mineral,Amarga ,Silvina ,silvina4.jpg,3,si
+mineral,Siderita,Siderita,siderita1.jpg,3,si
+mineral,Siderita,Siderita,siderita2.jpg,3,si
+mineral,Siderita,Siderita,siderita3.jpg,3,si
+mineral,Siderita,Siderita,siderita4.jpg,3,si
+mineral,Apofilita,Apofilita,apofilita1.jpg,3,si
+mineral,Apofilita,Apofilita,apofilita2.jpg,3,si
+mineral,Apofilita,Apofilita,apofilita4.jpg,3,si
+mineral,Apofilita,Apofilita,apofilita3.jpg,3,si
+mineral,Estilbita,Estilbita,estilbita1.jpg,3,si
+mineral,Estilbita,Estilbita,estilbita2.jpg,3,si
+mineral,Estilbita,Estilbita,estilbita3.jpg,3,si
+mineral,Labradorita,Labradorita,labradorita1.jpg,3,si
+mineral,Labradorita,Labradorita,labradorita2.jpg,3,si
+mineral,Labradorita,Labradorita,labradorita3.jpg,3,si
+mineral,Estaurolita,Estaurolita,estaurolita1.jpg,3,si
+mineral,Estaurolita,Estaurolita,estaurolita2.jpg,3,si
+mineral,Estaurolita,Estaurolita,estaurolita3.jpg,3,si
+mineral,Cobre nativo,Cobre nativo,cobre1.jpg,3,si
+mineral,Cobre nativo,Cobre nativo,cobre2.jpg,3,si
+mineral,Ortoclasa,Ortoclasa,ortoclasa1.jpg,3,si
+mineral,Ortoclasa,Ortoclasa,ortoclasa2.jpg,3,si
+mineral,Ortoclasa,Ortoclasa,ortoclasa3.jpg,3,si
+mineral,Ortoclasa,Ortoclasa,ortoclasa4.png,3,si
+mineral,Purpurita,Purpurita,purpurita1.jpg,3,si
+mineral,Purpurita,Purpurita,purpurita2.jpg,3,si
+mineral,Pirrotina,Pirrotina,pirrotina1.jpg,3,si
+mineral,Pirrotina,Pirrotina,pirrotina2.jpg,3,si
+mineral,Pirrotina,Pirrotina,pirrotina3.jpg,3,si
+mineral,Mica fuchsita,Mica fuchsita,fuchsita1.jpg,3,si
+mineral,Mica fuchsita,Mica fuchsita,fuchsita2.jpg,3,si
+mineral,Mica fuchsita,Mica fuchsita,fuchsita3.jpg,3,si
+mineral,Mica lepidolita,Mica lepidolita,lepidolita1.jpg,3,si
+mineral,Mica lepidolita,Mica lepidolita,lepidolita2.jpg,3,si
+mineral,Mica lepidolita,Mica lepidolita,lepidolita3.jpg,3,si
+mineral,Actinolita,Actinolita,actinolita1.jpg,3,si
+mineral,Actinolita,Actinolita,actinolita2.jpg,3,si
+mineral,Actinolita,Actinolita,actinolita3.jpg,3,si
+mineral,Berilo aguamarina,Berilo aguamarina,aguamarina1.png,3,si
+mineral,Berilo aguamarina,Berilo aguamarina,aguamarina2.jpg,3,si
+mineral,Berilo ,Berilo ,berilo1.jpg,3,si
+mineral,Berilo ,Berilo ,berilo2.jpg,3,si
+mineral,Apatito,Apatito,apatito1.jpg,3,si
+mineral,Apatito,Apatito,apatito2.webp,3,si
+mineral,Apatito,Apatito,apatito3.jpg,3,si
+mineral,Okenita,Okenita,okenita1.jpg,3,si
+mineral,Okenita,Okenita,okenita2.jpg,3,si
+mineral,Dolomita,Dolomita,dolomita1.jpg,3,no
+mineral,Dolomita,Dolomita,dolomita2.jpg,3,no
+mineral,Dolomita,Dolomita,dolomita3.png,3,no
+mineral,Microclina,Microclina,microclina1.jpg,3,no
+mineral,Microclina,Microclina,microclina2.jpg,3,no
+mineral,Microclina,Microclina,microclina3.jpg,3,no
+mineral,Microclina amazonita,Microclina amazonita,amazonita1.jpg,3,no
+mineral,Microclina amazonita,Microclina amazonita,amazonita2.jpg,3,no
+roca,Granito,Granito,granito1.jpg,1,si
+roca,Granito,Granito,granito2.jpg,1,si
+roca,Granito,Granito,granito3.jpg,1,si
+roca,Granito,Granito,granito4.webp,1,si
+roca,Gabro,Gabro,gabro1.jpg,1,si
+roca,Gabro,Gabro,gabro5.png,1,si
+roca,Gabro,Gabro,gabro3.jpg,1,si
+roca,Gabro,Gabro,gabro4.jpg,1,si
+roca,Diorita,Diorita,diorita1.webp,1,si
+roca,Diorita,Diorita,diorita2.jpg,1,si
+roca,Diorita,Diorita,diorita3.jpg,1,si
+roca,Diorita,Diorita,diorita4.jpg,1,si
+roca,Sienita,Sienita,sienita1.jpg,1,si
+roca,Sienita,Sienita,sienita2.jpg,1,si
+roca,Sienita,Sienita,sienita3.jpg,1,si
+roca,Sienita,Sienita,sienita4.jpg,1,si
+roca,Peridotita,Peridotita,peridotita1.jpg,1,si
+roca,Peridotita,Peridotita,peridotita2.jpg,1,si
+roca,Peridotita,Peridotita,peridotita3.jpg,1,si
+roca,Peridotita,Peridotita,peridotita4.jpg,1,si
+roca,Obsidiana,Obsidiana,obsidiana1.jpg,1,si
+roca,Obsidiana,Obsidiana,obsidiana2.jpg,1,si
+roca,Obsidiana,Obsidiana,obsidiana3.jpg,1,si
+roca,Obsidiana,Obsidiana,obsidiana4.jpg,1,si
+roca,Pumita,Pumita,pumita1.jpg,1,si
+roca,Pumita,Pumita,pumita2.jpg,1,si
+roca,Pumita,Pumita,pumita3.jpg,1,si
+roca,Pumita,Pumita,pumita4.jpg,1,si
+roca,Andesita hornbléndica,Andesita hornbléndica,andesita1.png,1,si
+roca,Andesita hornbléndica,Andesita hornbléndica,andesita2.jpg,1,si
+roca,Andesita hornbléndica,Andesita hornbléndica,andesita5.jpg,1,si
+roca,Andesita ,Andesita ,andesita3.jpg,1,si
+roca,Andesita ,Andesita ,andesita4.jpg,1,si
+roca,Basalto,Basalto,basalto1.jpg,1,si
+roca,Basalto,Basalto,basalto2.png,1,si
+roca,Basalto olivínico,Basalto olivínico,basalto3.webp,1,si
+roca,Basalto olivínico,Basalto olivínico,basalto4.jpg,1,si
+roca,Pegmatita,Pegmatita,pegmatita1.jpg,1,si
+roca,Pegmatita,Pegmatita,pegmatita2.webp,1,si
+roca,Pegmatita,Pegmatita,pegmatita3.jpg,1,si
+roca,Pegmatita,Pegmatita,pegmatita4.jpg,1,si
+roca,Pórfido,Pórfido,porfido1.jpg,1,si
+roca,Pórfido,Pórfido,porfido2.webp,1,si
+roca,Pórfido,Pórfido,porfido3.png,1,si
+roca,Pórfido,Pórfido,porfido4.jpg,1,si
+roca,Diabasa,Diabasa,diabasa1.jpg,1,no
+roca,Diabasa,Diabasa,diabasa2.jpg,1,no
+roca,Diabasa,Diabasa,diabasa3.jpg,1,no
+roca,Diabasa,Diabasa,diabasa4.jpg,1,no
+roca,Aplita,Aplita,aplita1.jpg,2,si
+roca,Aplita,Aplita,aplita2.jpg,2,si
+roca,Aplita,Aplita,aplita3.jpg,2,si
+roca,Aplita,Aplita,aplita4.jpg,2,si
+roca,Pizarra,Pizarra,pizarra1.jpg,2,si
+roca,Pizarra,Pizarra,pizarra2.jpg,2,si
+roca,Pizarra,Pizarra,pizarra3.jpg,2,si
+roca,Pizarra,Pizarra,pizarra4.jpg,2,si
+roca,Pizarra quiastolita,Pizarra quiastolita,pizarraq1.png,2,si
+roca,Pizarra quiastolita,Pizarra quiastolita,pizarraq2.jpg,2,si
+roca,Filita,Filita,filita1.jpg,2,si
+roca,Filita,Filita,filita2.jpg,2,si
+roca,Filita,Filita,filita3.jpg,2,si
+roca,Filita,Filita,filita4.webp,2,si
+roca,Filita,Filita,filita5.jpg,2,si
+roca,Esquisto,Esquisto,micaesquisto1.jpg,2,si
+roca,Esquisto,Esquisto,micaesquisto2.jpg,2,si
+roca,Esquisto,Esquisto,micaesquisto3.jpg,2,si
+roca,Esquisto,Esquisto,esquisto1.jpg,2,si
+roca,Esquisto,Esquisto,esquisto2.jpg,2,si
+roca,Gneis,Gneis,gneis1.jpg,2,si
+roca,Gneis,Gneis,gneis2.jpg,2,si
+roca,Gneis,Gneis,gneis3.jpg,2,si
+roca,Gneis,Gneis,gneis4.jpg,2,si
+roca,Migmatita,Migmatita,migmatita1.jpg,2,si
+roca,Migmatita,Migmatita,migmatita2.webp,2,si
+roca,Migmatita,Migmatita,migmatita3.jpg,2,si
+roca,Migmatita,Migmatita,migmatita4.jpg,2,si
+roca,Mármol,Mármol,marmol1.jpg,2,si
+roca,Mármol,Mármol,marmol2.jpg,2,si
+roca,Mármol,Mármol,marmol3.png,2,si
+roca,Mármol,Mármol,marmol5.jpg,2,si
+roca,Serpentinita,Serpentinita,serpentinita1.jpg,2,si
+roca,Serpentinita,Serpentinita,serpentinita2.jpg,2,si
+roca,Serpentinita,Serpentinita,serpentinita3.jpg,2,si
+roca,Serpentinita,Serpentinita,serpentinita4.png,2,si
+roca,Eclogita,Eclogita,eclogita1.jpg,2,si
+roca,Eclogita,Eclogita,eclogita2.jpg,2,si
+roca,Eclogita,Eclogita,eclogita3.webp,2,si
+roca,Eclogita,Eclogita,eclogita4.jpg,2,si
+roca,Unakita,Unakita,unakita1.jpg,2,si
+roca,Unakita,Unakita,unakita2.jpg,2,si
+roca,Unakita,Unakita,unakita3.jpg,2,si
+roca,Unakita,Unakita,unakita4.webp,2,si
+roca,Arenisca,Arenisca,arenisca1.jpg,2,si
+roca,Arenisca,Arenisca,arenisca2.jpg,2,si
+roca,Arenisca,Arenisca,arenisca3.jpg,2,si
+roca,Arenisca,Arenisca,arenisca4.jpg,2,si
+roca,Toba calcárea,Toba calcárea,toba1.jpg,2,si
+roca,Toba calcárea,Toba calcárea,toba2.jpg,2,si
+roca,Toba calcárea,Toba calcárea,toba3.jpg,2,si
+roca,Travertino,Travertino,travertino1.jpg,2,si
+roca,Travertino,Travertino,travertino2.webp,2,si
+roca,Travertino,Travertino,travertino3.png,2,si
+roca,Bauxita,Bauxita,bauxita1.jpg,3,si
+roca,Bauxita,Bauxita,bauxita2.jpg,3,si
+roca,Bauxita,Bauxita,bauxita3.jpg,3,si
+roca,Bauxita,Bauxita,bauxita5.jpg,3,si
+roca,Caliza estalactitica,Caliza estalactitica,estalacti1.jpg,3,si
+roca,Caliza estalactitica,Caliza estalactitica,estalacti2.jpg,3,si
+roca,Caliza estalactitica,Caliza estalactitica,estalacti3.jpg,3,si
+roca,Arenisca rodeno,Arenisca rodeno,rodeno1.jpg,3,si
+roca,Arenisca rodeno,Arenisca rodeno,rodeno1.jpg,3,si
+roca,Turba,Turba,turba1.jpg,3,si
+roca,Turba,Turba,turba2.jpg,3,si
+roca,Turba,Turba,turba3.jpg,3,si
+roca,Turba,Turba,turba4.jpg,3,si
+roca,Antracita,Antracita,antracita1.jpg,3,si
+roca,Antracita,Antracita,antracita2.jpg,3,si
+roca,Antracita,Antracita,antracita3.jpg,3,si
+roca,Lignito,Lignito,lignito1.jpg,3,no
+roca,Lignito,Lignito,lignito2.jpg,3,no
+roca,Lignito,Lignito,lignito3.jpg,3,no
+roca,Hulla,Hulla,hulla1.jpg,3,si
+roca,Hulla,Hulla,hulla2.jpg,3,si
+roca,Hulla,Hulla,hulla3.jpg,3,si
+roca,Hulla,Hulla,hulla4.jpg,3,si
+roca,Riolita,Riolita,riolita1.jpg,3,si
+roca,Riolita,Riolita,riolita2.webp,3,si
+roca,Riolita,Riolita,riolita3.webp,3,si
+roca,Caliza    ,Caliza    ,caliza1.jpg,3,si
+roca,Caliza    ,Caliza    ,caliza2.jpg,3,si
+roca,Caliza    ,Caliza    ,caliza3.jpg,3,si
+roca,Caliza    ,Caliza    ,caliza4.png,3,no
+roca,Caliza litográfica,Caliza litográfica,lito1.jpg,3,si
+roca,Caliza litográfica,Caliza litográfica,lito2.jpg,3,si
+roca,Caliza litográfica,Caliza litográfica,lito3.jpg,3,si
+roca,Caliza fosilífera,Caliza fosilífera,fosi1.jpg,3,si
+roca,Caliza fosilífera,Caliza fosilífera,fosi2.jpg,3,si
+roca,Caliza fosilífera,Caliza fosilífera,fosi3.jpg,3,si
+roca,Lumaquela,Lumaquela,lumaquela1.jpg,3,si
+roca,Lumaquela,Lumaquela,lumaquela2.jpg,3,si
+roca,Lumaquela,Lumaquela,lumaquela3.jpg,3,si
+roca,Dolomía,Dolomía,dolomia1.jpg,3,no
+roca,Dolomía,Dolomía,dolomia2.jpg,3,no
+roca,Dolomía,Dolomía,dolomia3.jpg,3,no
+roca,Lumaquela,Lumaquela,lumaquela4.jpg,3,si
+roca,Caliza nummulítica,Caliza nummulítica,nummul1.png,3,si
+roca,Caliza nummulítica,Caliza nummulítica,nummul4.png,3,si
+roca,Caliza nummulítica,Caliza nummulítica,nummul3.jpg,3,si
+roca,Caliza oolítica,Caliza oolítica,oolito1.jpg,3,si
+roca,Caliza oolítica,Caliza oolítica,oolito2.jpg,3,si
+roca,Caliza oolítica,Caliza oolítica,oolito3.jpg,3,si
+mineral,Epidota,Epidota,epidota1.jpg,1,si
+mineral,Epidota,Epidota,epidota2.jpg,1,no
+mineral,Epidota,Epidota,epidota3.jpg,1,si
+mineral,Epidota,Epidota,epidota4.png,1,si
+mineral,Epidota,Epidota,epidota5.png,1,si
+mineral,Wolframita,Wolframita,wolframita1.png,1,si
+mineral,Wolframita,Wolframita,wolframita2.png,1,si
+mineral,Prehnita,Prehnita,prehnita1.jpg,2,si
+mineral,Prehnita,Prehnita,prehnita2.jpg,2,si
+mineral,Prehnita,Prehnita,prehnita3.jpg,2,si
+mineral,Antimonita,Antimonita,antimonita1.jpg,2,no
+mineral,Antimonita,Antimonita,antimonita2.jpg,2,no
+mineral,Antimonita,Antimonita,antimonita3.jpg,2,no
+mineral,Antimonita,Antimonita,antimonita4.png,2,no
+mineral,Eritrina,Eritrina,eritrina1.png,3,si
+mineral,Eritrina,Eritrina,eritrina2.jpg,3,si
+mineral,Eritrina,Eritrina,eritrina3.webp,3,si
+roca ,Conglomerado brecha,Conglomerado brecha,brecha1.jpg,1,si
+roca ,Conglomerado brecha,Conglomerado brecha,brecha2.jpg,1,si
+roca ,Conglomerado brecha,Conglomerado brecha,brecha3.jpg,1,si
+roca ,Conglomerado pudinga,Conglomerado pudinga,pudinga1.jpg,1,si
+roca ,Conglomerado pudinga,Conglomerado pudinga,pudinga2.jpg,1,si
+roca ,Conglomerado pudinga,Conglomerado pudinga,pudinga3.jpg,1,si
+roca ,Cuarcita,Cuarcita,cuarcita1.jpg,3,si
+roca ,Cuarcita,Cuarcita,cuarcita2.jpg,3,si
+roca ,Cuarcita,Cuarcita,cuarcita3.jpg,3,si
+roca ,Cuarcita,Cuarcita,cuarcita4.jpg,3,si
+planta,Enebro común,Juniperus communis,communis1.jpg,1,si
+planta,Enebro común,Juniperus communis,communis2.jpg,1,si
+planta,Enebro común,Juniperus communis,communis3.png,1,si
+planta,Enebro común,Juniperus communis,communis4.png,1,si
+planta,Enebro de la miera,Juniperus oxycedrus,oxycedrus1.jpg,1,si
+planta,Enebro de la miera,Juniperus oxycedrus,oxycedrus2.jpg,1,si
+planta,Enebro de la miera,Juniperus oxycedrus,oxycedrus3.jpg,1,si
+planta,Enebro de la miera,Juniperus oxycedrus,oxycedrus4.jpg,1,si
+planta,Sabina albar,Juniperus thurifera,thurifera1.jpg,1,si
+planta,Sabina albar,Juniperus thurifera,thurifera2.jpg,1,si
+planta,Sabina albar,Juniperus thurifera,thurifera3.jpg,1,si
+planta,Sabina albar,Juniperus thurifera,thurifera4.png,1,si
+planta,Sabina negral,Juniperus phoenicea,phoenicea1.jpg,1,si
+planta,Sabina negral,Juniperus phoenicea,phoenicea2.jpg,1,si
+planta,Sabina negral,Juniperus phoenicea,phoenicea3.webp,1,si
+planta,Sabina negral,Juniperus phoenicea,phoenicea4.jpg,1,si
+planta,Tuya de Canadá,Thuja occidentalis,thuja1.webp,1,si
+planta,Tuya de Canadá,Thuja occidentalis,thuja2.jpg,1,si
+planta,Tuya de Canadá,Thuja occidentalis,thuja3.jpg,1,si
+planta,Tuya de Canadá,Thuja occidentalis,thuja4.jpg,1,si
+planta,Tuya oriental,Platycladus orientalis,platy1.jpg,1,si
+planta,Tuya oriental,Platycladus orientalis,platy2.jpg,1,si
+planta,Tuya oriental,Platycladus orientalis,platy3.jpg,1,si
+planta,Tuya oriental,Platycladus orientalis,platy4.jpg,1,si
+planta,Ciprés común,Cupressus sempervirens,cupressus1.png,1,si
+planta,Ciprés común,Cupressus sempervirens,cupressus2.jpg,1,si
+planta,Ciprés común,Cupressus sempervirens,cupressus3.jpg,1,si
+planta,Ciprés común,Cupressus sempervirens,cupressus4.jpg,1,si
+planta,Ciprés de Arizona,Hesperocyparis arizonica,arizonica1.jpg,1,si
+planta,Ciprés de Arizona,Hesperocyparis arizonica,arizonica2.jpg,1,si
+planta,Ciprés de Arizona,Hesperocyparis arizonica,arizonica3.jpg,1,si
+planta,Ciprés de Arizona,Hesperocyparis arizonica,arizonica4.jpg,1,si
+planta,Tejo común,Taxus baccata,taxus1.jpg,1,si
+planta,Tejo común,Taxus baccata,taxus2.png,1,si
+planta,Tejo común,Taxus baccata,taxus3.jpg,1,si
+planta,Tejo común,Taxus baccata,taxus4.jpg,1,si
+planta,Ginkgo,Ginkgo biloba,ginkgo1.png,1,si
+planta,Ginkgo,Ginkgo biloba,ginkgo2.png,1,si
+planta,Ginkgo,Ginkgo biloba,ginkgo3.jpg,1,si
+planta,Ginkgo,Ginkgo biloba,ginkgo4.jpg,1,si
+planta,Pino silvestre,Pinus sylvestris,sylvestris1.jpg,1,si
+planta,Pino silvestre,Pinus sylvestris,sylvestris2.png,1,si
+planta,Pino silvestre,Pinus sylvestris,sylvestris3.webp,1,si
+planta,Pino silvestre,Pinus sylvestris,sylvestris4.webp,1,si
+planta,Pino negro,Pinus uncinata,uncinata1.jpg,1,si
+planta,Pino negro,Pinus uncinata,uncinata2.jpg,1,si
+planta,Pino negro,Pinus uncinata,uncinata3.webp,1,si
+planta,Pino negro,Pinus uncinata,uncinata4.jpg,1,si
+planta,Pio resinero,Pinus pinaster,pinaster1.jpg,1,si
+planta,Pio resinero,Pinus pinaster,pinaster2.jpg,1,si
+planta,Pio resinero,Pinus pinaster,pinaster3.jpg,1,si
+planta,Pio resinero,Pinus pinaster,pinaster4.png,1,si
+planta,Pino piñonero,Pinus pinea,pinea1.jpg,1,si
+planta,Pino piñonero,Pinus pinea,pinea2.jpg,1,si
+planta,Pino piñonero,Pinus pinea,pinea3.jpg,1,si
+planta,Pino piñonero,Pinus pinea,pinea4.jpg,1,si
+planta,Pino carrasco,Pinus halepensis,halepensis1.jpg,1,si
+planta,Pino carrasco,Pinus halepensis,halepensis2.webp,1,si
+planta,Pino carrasco,Pinus halepensis,halepensis3.jpg,1,si
+planta,Pino carrasco,Pinus halepensis,halepensis4.jpg,1,si
+planta,Pino salgareño,Pinus nigra,nigra1.jpg,1,si
+planta,Pino salgareño,Pinus nigra,nigra2.jpg,1,si
+planta,Pino salgareño,Pinus nigra,nigra3.png,1,si
+planta,Pino salgareño,Pinus nigra,nigra4.webp,1,si
+planta,Pino de Monterrey,Pinus radiata,radiata1.jpg,1,si
+planta,Pino de Monterrey,Pinus radiata,radiata2.jpg,1,si
+planta,Pinsapo,Abies pinsapo,pinsapo1.jpg,1,si
+planta,Pinsapo,Abies pinsapo,pinsapo2.jpg,1,si
+planta,Pinsapo,Abies pinsapo,pinsapo3.jpg,1,si
+planta,Abeto blanco,Abies alba,abies1.webp,1,si
+planta,Abeto blanco,Abies alba,abies2.jpg,1,si
+planta,Abeto blanco,Abies alba,abies3.jpg,1,si
+planta,Abeto rojo,Picea abies,picea1.jpg,1,si
+planta,Abeto rojo,Picea abies,picea2.jpg,1,si
+planta,Abeto rojo,Picea abies,picea3.jpg,1,si
+planta,Alarce europeo,Larix decidua,larix1.jpg,1,si
+planta,Alarce europeo,Larix decidua,larix2.jpg,1,si
+planta,Alarce europeo,Larix decidua,larix3.jpg,1,si
+planta,Cedro del Himalaya,Cedrus deodara,deodara1.png,1,si
+planta,Cedro del Himalaya,Cedrus deodara,deodara2.jpg,1,si
+planta,Cedro del Himalaya,Cedrus deodara,deodara3.jpg,1,si
+planta,Cedro del Atlas,Cedrus atlantica,atlas1.jpg,1,si
+planta,Cedro del Atlas,Cedrus atlantica,atlas2.webp,1,si
+planta,Cedro del Atlas,Cedrus atlantica,atlas3.jpg,1,si
+planta,Encina,Quercus ilex,ilex1.jpg,1,si
+planta,Encina,Quercus ilex,ilex2.jpg,1,si
+planta,Encina,Quercus ilex,ilex3.jpg,1,si
+planta,Encina,Quercus ilex,ilex4.jpg,1,si
+planta,Alcornoque,Quercus suber,suber1.jpg,1,si
+planta,Alcornoque,Quercus suber,suber2.jpg,1,si
+planta,Alcornoque,Quercus suber,suber3.jpg,1,si
+planta,Alcornoque,Quercus suber,suber4.jpg,1,si
+planta,Coscoja,Quercus coccifera,coccifera1.jpg,1,si
+planta,Coscoja,Quercus coccifera,coccifera2.webp,1,si
+planta,Coscoja,Quercus coccifera,coccifera3.jpg,1,si
+planta,Coscoja,Quercus coccifera,coccifera4.jpg,1,si
+planta,Quejigo,Quercus faginea,faginea1.png,1,si
+planta,Quejigo,Quercus faginea,faginea2.jpg,1,si
+planta,Quejigo,Quercus faginea,faginea3.jpg,1,si
+planta,Quejigo,Quercus faginea,faginea4.png,1,si
+planta,Roble albar,Quercus petraea,petraea1.jpg,1,si
+planta,Roble albar,Quercus petraea,petraea2.jpg,1,si
+planta,Roble albar,Quercus petraea,petraea3.jpg,1,si
+planta,Roble común,Quercus robur,robur1.jpg,1,si
+planta,Roble común,Quercus robur,robur2.jpg,1,si
+planta,Roble común,Quercus robur,robur3.jpg,1,si
+planta,Melojo,Quercus pyrenaica,pyrenaica1.png,1,si
+planta,Melojo,Quercus pyrenaica,pyrenaica2.jpg,1,si
+planta,Melojo,Quercus pyrenaica,pyrenaica3.jpg,1,si
+planta,Melojo,Quercus pyrenaica,pyrenaica4.png,1,si
+planta,Madroño,Arbutus unedo,unedo1.png,1,si
+planta,Madroño,Arbutus unedo,unedo2.png,1,si
+planta,Madroño,Arbutus unedo,unedo3.jpg,1,si
+planta,Madroño,Arbutus unedo,unedo4.png,1,si
+planta,Abedul,Betula pendula,pendula1.jpg,1,si
+planta,Abedul,Betula pendula,pendula2.jpg,1,si
+planta,Abedul,Betula pendula,pendula3.jpg,1,si
+planta,Abedul,Betula pendula,pendula4.jpg,1,si
+planta,Aliso,Alnus glutinosa,glutinosa1.png,1,si
+planta,Aliso,Alnus glutinosa,glutinosa2.jpg,1,si
+planta,Aliso,Alnus glutinosa,glutinosa3.jpg,1,si
+planta,Aliso,Alnus glutinosa,glutinosa4.jpg,1,si
+planta,Haya,Fagus sylvatica,fagus1.png,1,si
+planta,Haya,Fagus sylvatica,fagus2.jpg,1,si
+planta,Haya,Fagus sylvatica,fagus3.jpg,1,si
+planta,Haya,Fagus sylvatica,fagus4.jpg,1,si
+planta,Castaño,Castanea sativa,castanea1.jpg,1,si
+planta,Castaño,Castanea sativa,castanea2.jpg,1,si
+planta,Castaño,Castanea sativa,castanea3.jpg,1,si
+planta,Castaño,Castanea sativa,castanea4.jpg,1,si
+planta,Nogal,Juglans regia,juglans1.jpg,1,si
+planta,Nogal,Juglans regia,juglans2.jpg,1,si
+planta,Nogal,Juglans regia,juglans3.jpg,1,si
+planta,Nogal,Juglans regia,juglans4.jpg,1,si
+planta,Avellano,Corylus avellana,avellana1.png,1,si
+planta,Avellano,Corylus avellana,avellana2.jpg,1,si
+planta,Avellano,Corylus avellana,avellana3.jpg,1,si
+planta,Avellano,Corylus avellana,avellana4.jpg,1,si
+planta,Arce de Noruega,Acer platanoides,acerp1.png,2,si
+planta,Arce de Noruega,Acer platanoides,acerp2.jpg,2,si
+planta,Arce de Noruega,Acer platanoides,acerp3.jpg,2,si
+planta,Arce de Noruega,Acer platanoides,acerp5.png,2,si
+planta,Arce sicómoro,Acer pseudoplatanus,acerp4.png,2,si
+planta,Arce sicómoro,Acer pseudoplatanus,pseudo1.png,2,si
+planta,Arce sicómoro,Acer pseudoplatanus,pseudo2.jpg,2,si
+planta,Arce sicómoro,Acer pseudoplatanus,pseudo3.jpg,2,si
+planta,Arce menor,Acer campestre,campestre1.jpg,2,si
+planta,Arce menor,Acer campestre,campestre2.png,2,si
+planta,Arce menor,Acer campestre,campestre3.jpg,2,si
+planta,Arce menor,Acer campestre,campestre4.jpg,2,si
+planta,Arce de Montpellier,Acer monspessulanum,monspe1.jpg,2,si
+planta,Arce de Montpellier,Acer monspessulanum,monspe2.png,2,si
+planta,Arce de Montpellier,Acer monspessulanum,monspe3.jpg,2,si
+planta,Arce de Montpellier,Acer monspessulanum,monspe4.jpg,2,si
+planta,Fresno de hoja estrecha,Fraxinus angustifolia,angusti1.png,2,si
+planta,Fresno de hoja estrecha,Fraxinus angustifolia,angusti2.jpg,2,si
+planta,Fresno de hoja estrecha,Fraxinus angustifolia,angusti3.png,2,si
+planta,Fresno de hoja estrecha,Fraxinus angustifolia,angusti4.jpg,2,si
+planta,Mostajo,Sorbus aria,aria1.png,2,si
+planta,Mostajo,Sorbus aria,aria2.jpg,2,si
+planta,Mostajo,Sorbus aria,aria3.jpg,2,si
+planta,Serbal del cazador,Sorbus aucuparia,serbal1.png,2,si
+planta,Serbal del cazador,Sorbus aucuparia,serbal2.jpg,2,si
+planta,Serbal del cazador,Sorbus aucuparia,serbal3.jpg,2,si
+planta,Tilo común,Tilia platyphyllos,tilia1.png,2,si
+planta,Tilo común,Tilia platyphyllos,tilia2.png,2,si
+planta,Tilo común,Tilia platyphyllos,tilia3.png,2,si
+planta,Tilo plateado,Tilia tomentosa,tiliat1.png,2,si
+planta,Tilo plateado,Tilia tomentosa,tiliat2.png,2,si
+planta,Tilo plateado,Tilia tomentosa,tiliat3.jpg,2,si
+planta,Laurel,Laurus nobilis,laurel1.png,2,si
+planta,Laurel,Laurus nobilis,laurel2.jpg,2,si
+planta,Laurel,Laurus nobilis,laurel3.jpg,2,si
+planta,Durillo,Viburnum tinus,viburnum1.png,2,si
+planta,Durillo,Viburnum tinus,viburnum2.jpg,2,si
+planta,Durillo,Viburnum tinus,viburnum3.png,2,si
+planta,Durillo,Viburnum tinus,viburnum4.jpg,2,si
+planta,Laurel,Laurus nobilis,laurel4.jpg,2,si
+planta,Higuera,Ficus carica,ficus1.jpg,2,si
+planta,Higuera,Ficus carica,ficus2.jpg,2,si
+planta,Higuera,Ficus carica,ficus3.jpg,2,si
+planta,Higuera,Ficus carica,ficus4.jpg,2,si
+planta,Acebuche,Olea europaea,olea1.jpg,2,si
+planta,Acebuche,Olea europaea,olea2.jpg,2,si
+planta,Acebuche,Olea europaea,olea3.jpg,2,si
+planta,Acebuche,Olea europaea,olea4.jpg,2,si
+planta,Almez,Celtis australis,almez1.jpg,2,si
+planta,Almez,Celtis australis,almez2.jpg,2,si
+planta,Almez,Celtis australis,almez3.jpg,2,si
+planta,Almez,Celtis australis,almez4.jpg,2,si
+planta,Almedro,Prunus dulcis,dulcis1.png,2,si
+planta,Almedro,Prunus dulcis,dulcis2.jpg,2,si
+planta,Almedro,Prunus dulcis,dulcis3.jpg,2,si
+planta,Almedro,Prunus dulcis,dulcis4.webp,2,si
+planta,Endrino,Prunus spinosa,spinosa1.jpg,2,no
+planta,Endrino,Prunus spinosa,spinosa2.jpg,2,no
+planta,Endrino,Prunus spinosa,spinosa3.jpg,2,no
+planta,Endrino,Prunus spinosa,spinosa4.jpg,2,no
+planta,Plátano de sombra,Platanus x hispanica,hispanica1.jpg,2,si
+planta,Plátano de sombra,Platanus x hispanica,hispanica2.png,2,si
+planta,Plátano de sombra,Platanus x hispanica,hispanica3.jpg,2,si
+planta,Plátano de sombra,Platanus x hispanica,hispanica4.jpg,2,si
+planta,Arce negundo,Acer negundo,negundo1.jpg,2,si
+planta,Arce negundo,Acer negundo,negundo2.jpg,2,si
+planta,Arce negundo,Acer negundo,negundo3.png,2,si
+planta,Arce negundo,Acer negundo,negundo4.png,2,si
+planta,Granado,Punica granatum,punica1.jpg,2,si
+planta,Granado,Punica granatum,punica2.jpg,2,si
+planta,Granado,Punica granatum,punica3.jpg,2,si
+planta,Lilo,Syringa vulgaris,lilo1.jpg,2,si
+planta,Lilo,Syringa vulgaris,lilo2.jpg,2,si
+planta,Lilo,Syringa vulgaris,lilo3.jpg,2,si
+planta,Alianto,Ailanthus altissima,alianto1.jpg,2,si
+planta,Alianto,Ailanthus altissima,alianto2.jpg,2,si
+planta,Alianto,Ailanthus altissima,alianto3.jpg,2,si
+planta,Alianto,Ailanthus altissima,alianto4.jpg,2,si
+planta,Árbol del amor,Cercis siliquastrum,amor1.jpg,2,si
+planta,Árbol del amor,Cercis siliquastrum,amor2.jpg,2,si
+planta,Árbol del amor,Cercis siliquastrum,amor3.png,2,si
+planta,Árbol del amor,Cercis siliquastrum,amor4.jpg,2,si
+planta,Mimosa,Acacia dealbata,mimosa1.png,2,si
+planta,Mimosa,Acacia dealbata,mimosa2.jpg,2,si
+planta,Mimosa,Acacia dealbata,mimosa3.png,2,si
+planta,Mimosa,Acacia dealbata,mimosa4.jpg,2,si
+planta,Falsa acacia,Robinia pseudoacacia,acacia1.jpg,2,si
+planta,Falsa acacia,Robinia pseudoacacia,acacia2.jpg,2,si
+planta,Falsa acacia,Robinia pseudoacacia,acacia3.jpg,2,si
+planta,Falsa acacia,Robinia pseudoacacia,acacia4.jpg,2,si
+planta,Zarzamora,Rubus ulmifolius,rubus1.jpg,2,si
+planta,Zarzamora,Rubus ulmifolius,rubus2.png,2,si
+planta,Zarzamora,Rubus ulmifolius,rubus3.jpg,2,si
+planta,Zarzamora,Rubus ulmifolius,rubus4.jpg,2,si
+planta,Adelfa,Nerium oleander,nerium1.jpg,2,si
+planta,Adelfa,Nerium oleander,nerium2.jpg,2,si
+planta,Adelfa,Nerium oleander,nerium3.jpg,2,si
+planta,Adelfa,Nerium oleander,nerium4.jpg,2,si
+planta,Majuelo,Crataegus monogyna,crataegus1.png,2,si
+planta,Majuelo,Crataegus monogyna,crataegus2.jpg,2,si
+planta,Majuelo,Crataegus monogyna,crataegus3.png,2,si
+planta,Majuelo,Crataegus monogyna,crataegus4.jpg,2,si
+planta,Saúco,Sambucus nigra,sambucus1.jpg,2,si
+planta,Saúco,Sambucus nigra,sambucus2.jpg,2,si
+planta,Saúco,Sambucus nigra,sambucus3.jpg,2,si
+planta,Saúco,Sambucus nigra,sambucus4.jpg,2,si
+planta,Lentisco,Pistacia lentiscus,pistacia1.png,2,si
+planta,Lentisco,Pistacia lentiscus,pistacia2.jpg,2,si
+planta,Lentisco,Pistacia lentiscus,pistacia3.jpg,2,si
+planta,Lentisco,Pistacia lentiscus,pistacia4.jpg,2,si
+planta,Cornicabra,Pistacia terebinthus,corni1.jpg,2,si
+planta,Cornicabra,Pistacia terebinthus,corni2.jpg,2,si
+planta,Cornicabra,Pistacia terebinthus,corni3.jpg,2,si
+planta,Cornicabra,Pistacia terebinthus,corni4.jpg,2,si
+planta,Acebo,Ilex aquifolium,aqui1.jpg,2,si
+planta,Acebo,Ilex aquifolium,aqui2.jpg,2,si
+planta,Acebo,Ilex aquifolium,aqui3.jpg,2,si
+planta,Acebo,Ilex aquifolium,aqui4.jpg,2,si
+planta,Jara pringosa,Cistus ladanifer,ladanifer1.jpg,2,si
+planta,Jara pringosa,Cistus ladanifer,ladanifer2.jpg,2,si
+planta,Jara pringosa,Cistus ladanifer,ladanifer3.jpg,2,si
+planta,Jara pringosa,Cistus ladanifer,ladanifer4.jpg,2,si
+planta,Jaguarzo morisco,Cistus salviifolius,salvi1.jpg,2,si
+planta,Jaguarzo morisco,Cistus salviifolius,salvi2.png,2,si
+planta,Jaguarzo morisco,Cistus salviifolius,salvi3.jpg,2,si
+planta,Jaguarzo morisco,Cistus salviifolius,salvi4.jpg,2,si
+planta,Jara de montaña,Cistus laurifolius,lauri1.jpg,2,si
+planta,Jara de montaña,Cistus laurifolius,lauri2.png,2,si
+planta,Jara de montaña,Cistus laurifolius,lauri3.jpg,2,si
+planta,Jara de montaña,Cistus laurifolius,lauri4.jpg,2,si
+planta,Jara blanca,Cistus albidus,albidus1.jpg,2,si
+planta,Jara blanca,Cistus albidus,albidus2.jpg,2,si
+planta,Jara blanca,Cistus albidus,albidus3.jpg,2,si
+planta,Jara blanca,Cistus albidus,albidus4.png,2,si
+planta,Jaguarzo negro,Cistus monspeliensis,cis1.png,2,si
+planta,Jaguarzo negro,Cistus monspeliensis,cis2.png,2,si
+planta,Jaguarzo negro,Cistus monspeliensis,cis3.jpg,2,si
+planta,Jaguarzo negro,Cistus monspeliensis,cis4.jpg,2,si
+planta,Hiedra,Hedera helix,hedera1.jpg,3,si
+planta,Hiedra,Hedera helix,hedera2.jpg,3,si
+planta,Hiedra,Hedera helix,hedera3.jpg,3,si
+planta,Hiedra,Hedera helix,hedera4.jpg,3,si
+planta,Retama amarilla,Retama sphaerocarpa,sphae1.jpg,3,si
+planta,Retama amarilla,Retama sphaerocarpa,sphae2.jpg,3,si
+planta,Retama amarilla,Retama sphaerocarpa,sphae3.jpg,3,si
+planta,Retama amarilla,Retama sphaerocarpa,sphae4.jpg,3,si
+planta,Retama macho,Spartium junceum,spartium1.jpg,3,si
+planta,Retama macho,Spartium junceum,spartium2.jpg,3,si
+planta,Retama macho,Spartium junceum,spartium3.jpg,3,si
+planta,Retama macho,Spartium junceum,spartium4.jpg,3,si
+planta,Roble rojo americano,Quercus rubra,rubra1.jpg,3,si
+planta,Roble rojo americano,Quercus rubra,rubra2.jpg,3,si
+planta,Roble rojo americano,Quercus rubra,rubra3.jpg,3,si
+planta,Roble rojo americano,Quercus rubra,rubra4.jpg,3,si
+planta,Chopo negro,Populus nigra,populus1.jpg,3,si
+planta,Chopo negro,Populus nigra,populus2.jpg,3,si
+planta,Chopo negro,Populus nigra,populus3.jpg,3,si
+planta,Chopo negro,Populus nigra,populus4.jpg,3,si
+planta,Chopo blanco,Populus alba,popu1.jpg,3,si
+planta,Chopo blanco,Populus alba,popu2.jpg,3,si
+planta,Chopo blanco,Populus alba,popu3.jpg,3,si
+planta,Chopo blanco,Populus alba,popu4.jpg,3,si
+planta,Sauce blanco,Salix alba,salix1.png,3,si
+planta,Sauce blanco,Salix alba,salix2.jpg,3,si
+planta,Sauce blanco,Salix alba,salix3.png,3,si
+planta,Sauce blanco,Salix alba,salix4.jpg,3,si
+planta,Castaño de Indias,Aesculus hippocastanum,casta1.jpg,3,si
+planta,Castaño de Indias,Aesculus hippocastanum,casta2.jpg,3,si
+planta,Castaño de Indias,Aesculus hippocastanum,casta3.jpg,3,si
+planta,Castaño de Indias,Aesculus hippocastanum,casta4.jpg,3,si
+planta,Tilo silvestre,Tilia cordata,cordata1.png,3,si
+planta,Tilo silvestre,Tilia cordata,cordata2.png,3,si
+planta,Tilo silvestre,Tilia cordata,cordata3.png,3,si
+planta,Agave,Agave americana,agave1.jpg,3,si
+planta,Agave,Agave americana,agave2.jpg,3,si
+planta,Agave,Agave americana,agave3.jpg,3,si
+planta,Agave,Agave americana,agave4.jpg,3,si
+planta,Torvisco,Daphne gnidium,gnidium1.png,3,si
+planta,Torvisco,Daphne gnidium,gnidium2.jpg,3,si
+planta,Torvisco,Daphne gnidium,gnidium3.jpg,3,si
+planta,Torvisco,Daphne gnidium,gnidium4.jpg,3,si
+planta,Olmo común,Ulmus minor,ulmus1.png,3,si
+planta,Olmo común,Ulmus minor,ulmus2.jpg,3,si
+planta,Olmo común,Ulmus minor,ulmus3.jpg,3,si
+planta,Olmo común,Ulmus minor,ulmus4.png,3,si
+planta,Olmo de montaña,Ulmus glabra,glabra1.jpg,3,si
+planta,Olmo de montaña,Ulmus glabra,glabra2.png,3,si
+planta,Olmo de montaña,Ulmus glabra,glabra3.jpg,3,si
+planta,Olmo de montaña,Ulmus glabra,glabra4.jpg,3,si
+planta,Olmo siberiano,Ulmus pumila,pumila1.jpg,3,si
+planta,Olmo siberiano,Ulmus pumila,pumila2.jpg,3,si
+planta,Olmo siberiano,Ulmus pumila,pumila3.jpg,3,si
+planta,Olmo siberiano,Ulmus pumila,pumila4.jpg,3,si
+planta,Morera,Morus alba,morera1.png,3,si
+planta,Morera,Morus alba,morera2.jpg,3,si
+planta,Morera,Morus alba,morera3.jpg,3,si
+planta,Morera,Morus alba,morera4.jpg,3,si
+planta,Labiérnago,Phillyrea angustifolia,labi1.png,3,si
+planta,Labiérnago,Phillyrea angustifolia,labi2.jpg,3,si
+planta,Labiérnago,Phillyrea angustifolia,labi3.jpg,3,si
+planta,Labiérnago,Phillyrea angustifolia,labi4.jpg,3,si
+planta,Guillomo,Amelanchier ovalis,guillomo1.jpg,3,si
+planta,Guillomo,Amelanchier ovalis,guillomo2.png,3,si
+planta,Guillomo,Amelanchier ovalis,guillomo3.jpg,3,si
+planta,Guillomo,Amelanchier ovalis,guillomo4.jpg,3,si
+planta,Rosal silvestre,Rosa canina,rosaca1.png,3,si
+planta,Rosal silvestre,Rosa canina,rosaca2.jpg,3,si
+planta,Rosal silvestre,Rosa canina,rosaca3.jpg,3,si
+planta,Rosal silvestre,Rosa canina,rosaca4.jpg,3,si
+planta,Endrino,Prunus spinosa,prunus1.png,3,si
+planta,Endrino,Prunus spinosa,prunus2.jpg,3,si
+planta,Endrino,Prunus spinosa,prunus3.jpg,3,si
+planta,Endrino,Prunus spinosa,prunus4.jpg,3,si
+planta,Ciruelo rojo,Prunus cerasifera,ciruelo1.png,3,si
+planta,Ciruelo rojo,Prunus cerasifera,ciruelo2.jpg,3,si
+planta,Ciruelo rojo,Prunus cerasifera,ciruelo3.jpg,3,si
+planta,Ciruelo rojo,Prunus cerasifera,ciruelo4.jpg,3,si
+planta,Aladierno,Rhamnus alaternus,alaternus1.jpg,3,no
+planta,Aladierno,Rhamnus alaternus,alaternus2.jpg,3,no
+planta,Aladierno,Rhamnus alaternus,alaternus3.jpg,3,no
+planta,Aladierno,Rhamnus alaternus,alaternus4.jpg,3,no
+planta,Espino negro,Rhamnus lycioides,rhamnus.png,3,no
+planta,Espino negro,Rhamnus lycioides,rhamnus2.jpg,3,no
+planta,Espino negro,Rhamnus lycioides,rhamnus3.jpg,3,no
+planta,Espino negro,Rhamnus lycioides,rhamnus4.webp,3,no
+planta,Codeso,Adenocarpus complicatus,adenocarpus1.jpg,3,si
+planta,Codeso,Adenocarpus complicatus,adenocarpus2.jpg,3,si
+planta,Codeso,Adenocarpus complicatus,adenocarpus3.jpg,3,si
+planta,Codeso,Adenocarpus complicatus,adenocarpus4.jpg,3,si
+planta,Retama negra,Cytisus scoparius,cytisus1.jpg,3,si
+planta,Retama negra,Cytisus scoparius,cytisus2.jpg,3,si
+planta,Retama negra,Cytisus scoparius,cytisus3.png,3,si
+planta,Retama negra,Cytisus scoparius,cytisus4.png,3,si
+planta,Aulaga,Genista scorpius,genista1.png,3,si
+planta,Aulaga,Genista scorpius,genista2.png,3,si
+planta,Aulaga,Genista scorpius,genista3.jpg,3,si
+planta,Aulaga,Genista scorpius,genista4.jpg,3,si
+planta,Taray,Tamarix gallica,taray1.jpg,3,si
+planta,Taray,Tamarix gallica,taray2.jpg,3,si
+planta,Taray,Tamarix gallica,taray3.jpg,3,si
+planta,Taray,Tamarix gallica,taray4.jpg,3,si
+planta,Brezo arboreo,Erica arborea,erica1.png,3,si
+planta,Brezo arboreo,Erica arborea,erica2.jpg,3,si
+planta,Brezo arboreo,Erica arborea,erica3.png,3,si
+planta,Brezo arboreo,Erica arborea,erica4.jpg,3,si
+planta,Brezo rubio,Erica australis,australis1.jpg,3,si
+planta,Brezo rubio,Erica australis,australis2.jpg,3,si
+planta,Brezo rubio,Erica australis,australis3.jpg,3,si
+planta,Brezo rubio,Erica australis,australis4.png,3,si
+planta,Boj común,Buxus sempervirens,buxus1.png,3,si
+planta,Boj común,Buxus sempervirens,buxus2.jpg,3,si
+planta,Boj común,Buxus sempervirens,buxus3.jpg,3,si
+planta,Boj común,Buxus sempervirens,buxus4.jpg,3,si
+planta,Espárrago triguero,Asparagus acutifolius,asparagus1.jpg,3,si
+planta,Espárrago triguero,Asparagus acutifolius,asparagus2.jpg,3,si
+planta,Espárrago triguero,Asparagus acutifolius,asparagus3.jpg,3,si
+planta,Espárrago triguero,Asparagus acutifolius,asparagus4.jpg,3,si
+planta,Rusco,Ruscus aculeatus,ruscus1.jpg,3,si
+planta,Rusco,Ruscus aculeatus,ruscus2.jpg,3,si
+planta,Rusco,Ruscus aculeatus,ruscus3.jpg,3,si
+planta,Rusco,Ruscus aculeatus,ruscus4.jpg,3,si
+planta,Madreselva,Lonicera etrusca,madre1.jpg,3,no
+planta,Madreselva,Lonicera etrusca,madre2.jpg,3,no
+planta,Madreselva,Lonicera etrusca,madre3.jpg,3,no
+planta,Madreselva,Lonicera etrusca,madre4.png,3,no
+planta,Cinamomo,Melia azedarach,melia1.jpg,3,si
+planta,Cinamomo,Melia azedarach,melia2.jpg,3,si
+planta,Cinamomo,Melia azedarach,melia3.jpg,3,si
+planta,Cinamomo,Melia azedarach,melia4.jpg,3,si
+herbacea,Matacandil,Sisymbrium irio,irio1.jpg,1,si
+herbacea,Matacandil,Sisymbrium irio,irio2.jpg,1,si
+herbacea,Matacandil,Sisymbrium irio,irio3.webp,1,si
+herbacea,Matacandil,Sisymbrium irio,irio4.jpg,1,si
+herbacea,Diplotaxis virgata,Diplotaxis virgata,diplotaxis1.jpg,1,si
+herbacea,Diplotaxis virgata,Diplotaxis virgata,diplotaxis2.jpg,1,si
+herbacea,Diplotaxis virgata,Diplotaxis virgata,diplotaxis3.jpg,1,si
+herbacea,Diplotaxis virgata,Diplotaxis virgata,diplotaxis4.jpg,1,si
+herbacea,Anteojos,Biscutella auriculata,anteojo1.jpg,1,si
+herbacea,Anteojos,Biscutella auriculata,anteojo2.jpg,1,si
+herbacea,Anteojos,Biscutella auriculata,anteojo3.jpg,1,si
+herbacea,Anteojos,Biscutella auriculata,anteojo4.png,1,si
+herbacea,Diplotaxis erucoides,Diplotaxis erucoides,eruco1.jpg,1,si
+herbacea,Diplotaxis erucoides,Diplotaxis erucoides,eruco2.jpg,1,si
+herbacea,Diplotaxis erucoides,Diplotaxis erucoides,eruco3.jpg,1,si
+herbacea,Diplotaxis erucoides,Diplotaxis erucoides,eruco4.jpg,1,si
+herbacea,Aliaria,Alliaria petiolata,alia1.jpg,1,si
+herbacea,Aliaria,Alliaria petiolata,alia2.jpg,1,si
+herbacea,Aliaria,Alliaria petiolata,alia3.jpg,1,si
+herbacea,Aliaria,Alliaria petiolata,alia4.jpg,1,si
+herbacea,Zurrón de pastor,Capsella bursa-pastoris,capsella1.jpg,1,si
+herbacea,Zurrón de pastor,Capsella bursa-pastoris,capsella2.jpg,1,si
+herbacea,Zurrón de pastor,Capsella bursa-pastoris,capsella3.jpg,1,si
+herbacea,Zurrón de pastor,Capsella bursa-pastoris,capsella4.jpg,1,si
+herbacea,Rúcula mediterránea,Eruca vesicaria,eruca1.jpg,1,si
+herbacea,Rúcula mediterránea,Eruca vesicaria,eruca2.jpg,1,si
+herbacea,Rúcula mediterránea,Eruca vesicaria,eruca3.jpg,1,si
+herbacea,Rabanillo,Raphanus raphanistrum,rabanillo1.png,1,si
+herbacea,Rabanillo,Raphanus raphanistrum,rapha2.jpg,1,si
+herbacea,Rabanillo,Raphanus raphanistrum,rabanillo3.png,1,si
+herbacea,Monedas del papa,Lunaria annua,lunaria1.jpg,1,si
+herbacea,Monedas del papa,Lunaria annua,lunaria2.jpg,1,si
+herbacea,Monedas del papa,Lunaria annua,lunaria3.jpg,1,si
+herbacea,Amapola,Papaver rhoeas,amapola1.jpg,1,si
+herbacea,Amapola,Papaver rhoeas,amapola2.jpg,1,si
+herbacea,Amapola,Papaver rhoeas,amapola3.jpg,1,si
+herbacea,Amapola,Papaver rhoeas,amapola4.jpg,1,si
+herbacea,Palomilla,Fumaria officinalis,fumaria1.png,1,si
+herbacea,Palomilla,Fumaria officinalis,fumaria2.png,1,si
+herbacea,Palomilla,Fumaria officinalis,fumaria3.jpg,1,si
+herbacea,Hierba de San Juan,Hypericum perforatum,juan1.jpg,1,si
+herbacea,Hierba de San Juan,Hypericum perforatum,juan2.jpg,1,si
+herbacea,Hierba de San Juan,Hypericum perforatum,juan3.jpg,1,si
+herbacea,Hierba de San Juan,Hypericum perforatum,juan4.jpg,1,si
+herbacea,Malva,Malva sylvestris,malva1.jpg,1,si
+herbacea,Malva,Malva sylvestris,malva2.jpg,1,si
+herbacea,Malva,Malva sylvestris,malva3.jpg,1,si
+herbacea,Malva,Malva sylvestris,malva4.jpg,1,si
+herbacea,Geranio de los caminos,Geranium molle,geranio1.png,1,si
+herbacea,Geranio de los caminos,Geranium molle,"geranio2,jpg",1,si
+herbacea,Geranio de los caminos,Geranium molle,geranio3.jpg,1,si
+herbacea,Geranio de los caminos,Geranium molle,geranio4.jpg,1,si
+herbacea,Alfilerillo,Erodium cicutarium,erodium1.png,1,si
+herbacea,Alfilerillo,Erodium cicutarium,erodium2.jpg,1,si
+herbacea,Alfilerillo,Erodium cicutarium,erodium3.jpg,1,si
+herbacea,Alfilerillo,Erodium cicutarium,erodium4.jpg,1,si
+herbacea,Uña de gato,Sedum album,album1.jpg,1,si
+herbacea,Uña de gato,Sedum album,album2.webp,1,si
+herbacea,Uña de gato,Sedum album,album3.jpg,1,si
+herbacea,Uña de gato,Sedum album,album4.jpg,1,si
+herbacea,Ombligo de Venus,Umbilicus rupestris,umbi1.jpg,1,si
+herbacea,Ombligo de Venus,Umbilicus rupestris,umbi2.png,1,si
+herbacea,Ombligo de Venus,Umbilicus rupestris,umbi3.png,1,si
+herbacea,Ombligo de Venus,Umbilicus rupestris,umbi4.jpg,1,si
+herbacea,Colleja,Silene vulgaris,silene1.jpg,1,si
+herbacea,Colleja,Silene vulgaris,silene2.jpeg,1,si
+herbacea,Colleja,Silene vulgaris,silene3.jpg,1,si
+herbacea,Colleja colorada,Silene colorata,colorata1.jpg,1,si
+herbacea,Colleja colorada,Silene colorata,colorata2.jpg,1,si
+herbacea,Colleja colorada,Silene colorata,colorata3.jpg,1,si
+herbacea,Peganovios,Rubia peregrina,peregrina1.jpg,1,si
+herbacea,Peganovios,Rubia peregrina,peregrina2.jpg,1,si
+herbacea,Peganovios,Rubia peregrina,peregrina3.jpg,1,si
+herbacea,Peganovios,Rubia peregrina,peregrina4.jpg,1,si
+herbacea,Amor del hortelano,Galium aparine,aparine1.jpg,1,si
+herbacea,Amor del hortelano,Galium aparine,aparine2.jpg,1,si
+herbacea,Amor del hortelano,Galium aparine,aparine3.jpg,1,si
+herbacea,Amor del hortelano,Galium aparine,aparine4.jpg,1,si
+herbacea,VIborera,Echium vulgare,viborera1.jpg,2,si
+herbacea,VIborera,Echium vulgare,viborera2.jpg,2,si
+herbacea,VIborera,Echium vulgare,viborera3.jpg,2,si
+herbacea,VIborera,Echium vulgare,viborera4.jpg,2,si
+herbacea,Verrucaria,Heliotropium europaeum,heliotropo1.png,2,si
+herbacea,Verrucaria,Heliotropium europaeum,heliotropo2.jpg,2,si
+herbacea,Verrucaria,Heliotropium europaeum,heliotropo3.jpg,2,si
+herbacea,Verrucaria,Heliotropium europaeum,heliotropo4.jpg,2,si
+herbacea,Pepinillo del diablo,Ecballium elaterium,pepinillo1.png,2,si
+herbacea,Pepinillo del diablo,Ecballium elaterium,pepinillo2.jpg,2,si
+herbacea,Pepinillo del diablo,Ecballium elaterium,pepinillo3.jpg,2,si
+herbacea,Pepinillo del diablo,Ecballium elaterium,pepinillo4.jpg,2,si
+herbacea,Nueza,Bryonia dioica,nueza1.png,2,si
+herbacea,Nueza,Bryonia dioica,nueza2.jpg,2,si
+herbacea,Nueza,Bryonia dioica,nueza3.jpg,2,si
+herbacea,Nueza,Bryonia dioica,nueza4.jpg,2,si
+herbacea,Estramonio,Datura stramonium,estramonio1.jpg,2,si
+herbacea,Estramonio,Datura stramonium,estramonio2.jpg,2,si
+herbacea,Estramonio,Datura stramonium,estramonio3.jpg,2,si
+herbacea,Estramonio,Datura stramonium,estramonio4.jpg,2,si
+herbacea,Correhuela,Convolvulus arvensis,correhuela1.jpg,2,si
+herbacea,Correhuela,Convolvulus arvensis,correhuela2.jpg,2,si
+herbacea,Correhuela,Convolvulus arvensis,correhuela3.jpg,2,si
+herbacea,Correhuela,Convolvulus arvensis,correhuela4.jpg,2,si
+herbacea,Arveja,Vicia sativa,arveja1.jpg,2,si
+herbacea,Arveja,Vicia sativa,arveja2.jpg,2,si
+herbacea,Arveja,Vicia sativa,arveja3.png,2,si
+herbacea,Arveja,Vicia sativa,arveja4.jpg,2,si
+herbacea,Trébol blanco,Trifolium repens,trebol1.jpg,2,si
+herbacea,Trébol blanco,Trifolium repens,trebol2.jpg,2,si
+herbacea,Trébol blanco,Trifolium repens,trebol3.jpg,2,si
+herbacea,Trébol blanco,Trifolium repens,trebol4.jpg,2,si
+herbacea,Alfalfa,Medicago sativa,alfalfa1.jpg,2,si
+herbacea,Alfalfa,Medicago sativa,alfalfa2.jpg,2,si
+herbacea,Alfalfa,Medicago sativa,alfalfa3.png,2,si
+herbacea,Alfalfa,Medicago sativa,alfalfa4.jpg,2,si
+herbacea,Romero,Salvia rosmarinus,romero1.jpg,2,si
+herbacea,Romero,Salvia rosmarinus,romero2.jpg,2,si
+herbacea,Romero,Salvia rosmarinus,romero3.jpg,2,si
+herbacea,Romero,Salvia rosmarinus,romero4.jpg,2,si
+herbacea,Tomillo salsero,Thymus zygis,tomillo1.jpg,2,si
+herbacea,Tomillo salsero,Thymus zygis,tomillo2.jpg,2,si
+herbacea,Tomillo salsero,Thymus zygis,tomillo3.jpg,2,si
+herbacea,Tomillo salsero,Thymus zygis,tomillo4.jpg,2,si
+herbacea,Tomillo blanco,Thymus mastichina,thymus1.jpg,2,si
+herbacea,Tomillo blanco,Thymus mastichina,thymus2.jpg,2,si
+herbacea,Tomillo blanco,Thymus mastichina,thymus3.jpg,2,si
+herbacea,Tomillo blanco,Thymus mastichina,thymus4.jpg,2,si
+herbacea,Conejitos,Lamium amplexicaule,lamium1.jpg,2,si
+herbacea,Conejitos,Lamium amplexicaule,lamium2.jpg,2,si
+herbacea,Conejitos,Lamium amplexicaule,lamium3.jpg,2,si
+herbacea,Conejitos,Lamium amplexicaule,lamium4.jpg,2,si
+herbacea,Marrubio,Marrubium vulgare,marrubio1.jpg,2,si
+herbacea,Marrubio,Marrubium vulgare,marrubio2.jpg,2,si
+herbacea,Marrubio,Marrubium vulgare,marrubio3.jpg,2,si
+herbacea,Marrubio,Marrubium vulgare,marrubio4.jpg,2,si
+herbacea,Mastranzo,Mentha suaveolens,mastranzo1.png,2,si
+herbacea,Mastranzo,Mentha suaveolens,mastranzo2.jpg,2,si
+herbacea,Mastranzo,Mentha suaveolens,mastranzo3.jpg,2,si
+herbacea,Mastranzo,Mentha suaveolens,mastranzo4.jpg,2,si
+herbacea,Cantueso,Lavandula pedunculata,cantueso1.jpg,2,si
+herbacea,Cantueso,Lavandula pedunculata,cantueso2.png,2,si
+herbacea,Cantueso,Lavandula pedunculata,cantueso3.jpg,2,si
+herbacea,Cantueso,Lavandula pedunculata,cantueso4.jpg,2,si
+herbacea,Espliego,Lavandula latifolia,lavanda1.jpg,2,si
+herbacea,Espliego,Lavandula latifolia,lavanda2.jpg,2,si
+herbacea,Espliego,Lavandula latifolia,lavanda3.jpg,2,si
+herbacea,Espliego,Lavandula latifolia,lavanda4.jpg,2,si
+herbacea,Dedalera,Digitalis purpurea,dedalera1.png,2,si
+herbacea,Dedalera,Digitalis purpurea,dedalera2.jpg,2,si
+herbacea,Dedalera,Digitalis purpurea,dedalera3.jpg,2,si
+herbacea,Dedalera,Digitalis purpurea,dedalera4.jpg,2,si
+herbacea,Gordolobo,Verbascum sinuatum,gordo1.jpg,2,si
+herbacea,Gordolobo,Verbascum sinuatum,gordo2.jpg,2,si
+herbacea,Gordolobo,Verbascum sinuatum,gordo3.jpg,2,si
+herbacea,Gordolobo,Verbascum sinuatum,gordo4.jpg,2,si
+herbacea,Quitameriendas,Colchicum montanum,merienda1.jpg,3,si
+herbacea,Quitameriendas,Colchicum montanum,merienda2.jpg,3,si
+herbacea,Quitameriendas,Colchicum montanum,merienda3.jpg,3,si
+herbacea,Botonera,Santolina rosmarinifolia,botonera1.jpg,3,si
+herbacea,Botonera,Santolina rosmarinifolia,botonera2.jpg,3,si
+herbacea,Botonera,Santolina rosmarinifolia,botonera5.jpg,3,si
+herbacea,Botonera,Santolina rosmarinifolia,botonera4.jpg,3,si
+herbacea,Abrepuños,Centaurea melitensis,abre1.png,3,si
+herbacea,Abrepuños,Centaurea melitensis,abre2.jpg,3,si
+herbacea,Abrepuños,Centaurea melitensis,abre3.jpg,3,si
+herbacea,Abrepuños,Centaurea melitensis,abre4.jpg,3,si
+herbacea,Perpetua,Helichrysum stoechas,perpetua1.png,3,si
+herbacea,Perpetua,Helichrysum stoechas,perpetua2.jpg,3,si
+herbacea,Perpetua,Helichrysum stoechas,perpetua3.jpg,3,si
+herbacea,Perpetua,Helichrysum stoechas,perpetua4.jpg,3,si
+herbacea,Hierba de Santiago,Jacobaea vulgaris,santi1.jpg,3,si
+herbacea,Hierba de Santiago,Jacobaea vulgaris,santi2.jpg,3,si
+herbacea,Hierba de Santiago,Jacobaea vulgaris,santi3.jpg,3,si
+herbacea,Cardo mariano,Silybum marianum,mariano1.jpg,3,si
+herbacea,Cardo mariano,Silybum marianum,mariano2.jpg,3,si
+herbacea,Cardo mariano,Silybum marianum,mariano3.png,3,si
+herbacea,Cardo mariano,Silybum marianum,mariano4.jpg,3,si
+herbacea,Achicoria,Chicorium intybus,achicoria1.jpg,3,si
+herbacea,Achicoria,Chicorium intybus,achicoria2.jpg,3,si
+herbacea,Achicoria,Chicorium intybus,achicoria3.png,3,si
+herbacea,Margarita silvestre,Bellis perennis,margarita1.jpg,3,si
+herbacea,Margarita silvestre,Bellis perennis,margarita2.jpg,3,si
+herbacea,Margarita silvestre,Bellis perennis,margarita3.jpg,3,si
+herbacea,Margarita silvestre,Bellis perennis,margarita4.jpg,3,si
+herbacea,Manzanilla bastarda,Anthemis arvensis,manzanilla1.jpg,3,si
+herbacea,Manzanilla bastarda,Anthemis arvensis,manzanilla2.jpg,3,si
+herbacea,Manzanilla bastarda,Anthemis arvensis,manzanilla3.png,3,si
+herbacea,Manzanilla bastarda,Anthemis arvensis,manzanilla4.png,3,si
+herbacea,Diente de león,Taraxacum officinale,diente1.jpg,3,si
+herbacea,Diente de león,Taraxacum officinale,diente2.jpg,3,si
+herbacea,Diente de león,Taraxacum officinale,diente3.jpg,3,si
+herbacea,Diente de león,Taraxacum officinale,diente4.jpg,3,si
+herbacea,Cicuta,Conium maculatum,cicuta1.jpg,3,si
+herbacea,Cicuta,Conium maculatum,cicuta2.png,3,si
+herbacea,Cicuta,Conium maculatum,cicuta3.jpg,3,si
+herbacea,Zanahoria silvestre,Daucus carota,zanaho1.jpg,3,si
+herbacea,Zanahoria silvestre,Daucus carota,zanaho2.jpg,3,si
+herbacea,Zanahoria silvestre,Daucus carota,zanaho3.jpg,3,si
+herbacea,Hinojo,Foeniculum vulgare,hinojo1.jpg,3,si
+herbacea,Hinojo,Foeniculum vulgare,hinojo2.png,3,si
+herbacea,Hinojo,Foeniculum vulgare,hinojo3.jpg,3,si
+herbacea,Cardo corredor,Eryngium campestre,corredor1.jpg,3,si
+herbacea,Cardo corredor,Eryngium campestre,corredor2.jpg,3,si
+herbacea,Cardo corredor,Eryngium campestre,corredor3.jpg,3,si
+herbacea,Lecherula,Euphorbia helioscopia,lecherula1.jpg,3,si
+herbacea,Lecherula,Euphorbia helioscopia,lecherula2.jpg,3,si
+herbacea,Lecherula,Euphorbia helioscopia,lecherula3.jpg,3,si
+herbacea,Ortiga mayor,Urtica dioica,dioica1.jpg,3,si
+herbacea,Ortiga mayor,Urtica dioica,dioica2.jpg,3,si
+herbacea,Ortiga menor,Urtica urens,urens1.png,3,si
+herbacea,Ortiga menor,Urtica urens,urens2.jpg,3,si
+herbacea,Pie de liebre,Plantago lagopus,plantago1.jpg,3,si
+herbacea,Pie de liebre,Plantago lagopus,plantago2.jpg,3,si
+herbacea,Pie de liebre,Plantago lagopus,plantago3.jpg,3,si
+herbacea,Llantén menor,Plantago lanceolata,lance1.png,3,si
+herbacea,Llantén menor,Plantago lanceolata,lance2.jpg,3,si
+herbacea,Llantén menor,Plantago lanceolata,lance3.jpg,3,si
+herbacea,Cebadilla ratonera,Hordeum murinum,ceba1.jpg,3,si
+herbacea,Cebadilla ratonera,Hordeum murinum,ceba2.jpg,3,si
+herbacea,Cebadilla ratonera,Hordeum murinum,ceba3.jpg,3,si
+herbacea,Avena loca,Avena sterilis,avena1.jpg,3,si
+herbacea,Avena loca,Avena sterilis,avena2.jpg,3,si
+herbacea,Avena loca,Avena sterilis,avena3.jpg,3,si
+herbacea,Avena loca,Avena sterilis,avena4.jpg,3,si
+herbacea,Pastillo de invierno,Poa annua,poa1.jpg,3,si
+herbacea,Pastillo de invierno,Poa annua,poa2.jpg,3,si
+herbacea,Pastillo de invierno,Poa annua,poa3.webp,3,si

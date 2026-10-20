@@ -1,0 +1,829 @@
+/* ▒▒▒ BASE ▒▒▒ */
+:root {
+  /* Tamaño de la foto: se adapta al alto de la pantalla */
+  --lado: clamp(300px, calc(100vh - 150px), 620px);
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  margin: 0;
+  padding: 16px 20px;
+  text-align: center;
+  background: #f1f5ef;
+  color: #1f2d24;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.6rem;
+  color: #2e7d4f;
+}
+
+h2 {
+  margin: 0 0 8px 0;
+  font-size: 1.1rem;
+}
+
+h3 {
+  margin: 8px 0 0 0;
+}
+
+button {
+  border: none;
+  border-radius: 8px;
+  padding: 8px 14px;
+  background: #e1eadd;
+  color: #1f2d24;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.15s, transform 0.05s;
+}
+
+button:hover:not(:disabled) {
+  background: #cfdcc9;
+}
+
+button:active:not(:disabled) {
+  transform: scale(0.97);
+}
+
+button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+input[type="text"] {
+  padding: 8px 10px;
+  border: 1px solid #c5d3c0;
+  border-radius: 8px;
+  font-size: 15px;
+}
+
+input[type="text"]:focus {
+  outline: 2px solid #2e7d4f;
+  border-color: #2e7d4f;
+}
+
+/* ▒▒▒ CABECERA COMPACTA ▒▒▒ */
+#cabecera {
+  max-width: 1500px;
+  margin: 0 auto 14px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+#stats {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+#racha, #contador {
+  background: #fff;
+  padding: 6px 16px;
+  border-radius: 999px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#racha {
+  color: #007700;
+}
+
+/* ▒▒▒ LAYOUT EN DOS COLUMNAS ▒▒▒ */
+#layout {
+  display: grid;
+  grid-template-columns: 360px 1fr;
+  gap: 20px;
+  max-width: 1500px;
+  margin: 0 auto;
+  align-items: start;
+}
+
+#panelLateral {
+  position: sticky;
+  top: 16px;
+  max-height: calc(100vh - 32px);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding-right: 4px;
+}
+
+#topbar {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.tarjeta {
+  background: #fff;
+  border-radius: 14px;
+  padding: 14px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Categorías como etiquetas */
+#categorias .chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+#categorias label {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 10px;
+  border-radius: 999px;
+  background: #eef3ec;
+  border: 1px solid #d3dfce;
+  font-size: 13px;
+  cursor: pointer;
+  user-select: none;
+}
+
+#categorias label:has(input:checked) {
+  background: #2e7d4f;
+  border-color: #2e7d4f;
+  color: #fff;
+}
+
+#categorias input[type="checkbox"] {
+  accent-color: #1f5e39;
+}
+
+.acciones, .grupo {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+}
+
+#modos {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#modoExamen {
+  background: #2e7d4f;
+  color: #fff;
+  font-weight: bold;
+}
+
+#modoExamen:hover:not(:disabled) {
+  background: #25663f;
+}
+
+/* Botones de los 5 exámenes */
+#panelPartes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+#panelPartes::before {
+  content: "Examen global:";
+  width: 100%;
+  font-size: 13px;
+  font-weight: bold;
+  color: #555;
+}
+
+#panelPartes:empty {
+  display: none;
+}
+
+#panelPartes button {
+  background: #dbe9f5;
+}
+
+#panelPartes button:hover:not(:disabled) {
+  background: #c5dcee;
+}
+
+/* ▒▒▒ BUSCADOR ▒▒▒ */
+#contenedor-buscador {
+  background: #fff;
+  border-radius: 14px;
+  padding: 10px 14px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+#buscador {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* ▒▒▒ ZONA DE JUEGO ▒▒▒ */
+#panelJuego {
+  min-width: 0;
+}
+
+.zona-juego {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+#divTextos {
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.bloque {
+  background: #fff;
+  padding: 14px;
+  border-radius: 14px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.bloque input[type="text"] {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 8px;
+}
+
+#divFoto {
+  width: min(var(--lado), 92vw);
+  height: min(var(--lado), 92vw);
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+}
+
+#divFoto img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* ▒▒▒ CONTADOR Y TIEMPO DEL EXAMEN ▒▒▒ */
+.examen-info {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.examen-info:empty {
+  display: none;
+}
+
+#contadorExamen, #timer {
+  font-size: 32px;
+  font-weight: bold;
+  background: #fff;
+  padding: 6px 22px;
+  border-radius: 14px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+#contadorExamen:empty, #timer:empty {
+  display: none;
+}
+
+/* ▒▒▒ PANTALLAS ESTRECHAS: UNA SOLA COLUMNA ▒▒▒ */
+@media (max-width: 1000px) {
+  #layout {
+    grid-template-columns: 1fr;
+  }
+
+  #panelLateral {
+    position: static;
+    max-height: none;
+    overflow: visible;
+  }
+}
+
+/* ▒▒▒ MODO EXAMEN: SE ESCONDE LO QUE NO HACE FALTA ▒▒▒ */
+body.en-examen {
+  --lado: 500px;
+}
+
+body.en-examen #layout {
+  display: block;
+}
+
+body.en-examen #panelLateral {
+  position: static;
+  max-height: none;
+  overflow: visible;
+  margin-bottom: 12px;
+}
+
+body.en-examen #categorias,
+body.en-examen #panelPartes,
+body.en-examen #contenedor-buscador,
+body.en-examen #racha,
+body.en-examen #contador,
+body.en-examen #modos button:not(#modoExamen) {
+  display: none;
+}
+
+body.en-examen #cabecera {
+  justify-content: center;
+}
+
+body.en-examen h1 {
+  font-size: 1.4rem;
+}
+
+/* ▒▒▒ PANTALLA DE RESULTADOS ▒▒▒ */
+table {
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 6px 12px;
+}
+/* ▒▒▒ CABECERA DE RESULTADOS (ACIERTOS Y NOTA) ▒▒▒ */
+.resultado-cabecera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  max-width: 900px;
+  margin: 0 auto 20px auto;
+  padding: 14px 22px;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+}
+
+.resultado-aciertos {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.resultado-nota {
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 8px 24px;
+  border-radius: 12px;
+  color: #fff;
+}
+
+.nota-verde-oscuro { background: #1b5e20; }
+.nota-verde-claro  { background: #66bb6a; }
+.nota-naranja      { background: #fb8c00; }
+.nota-roja         { background: #e53935; }
+
+/* Todas bien: dorado con brillo que se mueve */
+.nota-oro {
+  color: #5a3d00;
+  background: linear-gradient(110deg, #c9961a 0%, #ffe27a 30%, #fff6c7 50%, #ffe27a 70%, #c9961a 100%);
+  background-size: 250% 100%;
+  animation: brilloOro 2.5s linear infinite;
+  box-shadow: 0 0 18px rgba(255, 200, 40, 0.9), 0 0 36px rgba(255, 200, 40, 0.5);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+
+@keyframes brilloOro {
+  0%   { background-position: 100% 0; }
+  100% { background-position: -100% 0; }
+}
+/* ▒▒▒ BOTONES DE PARTES COLOREADOS SEGÚN LA NOTA ▒▒▒ */
+#panelPartes button.nota-verde-oscuro,
+#panelPartes button.nota-verde-oscuro:hover:not(:disabled) {
+  background: #1b5e20;
+  color: #fff;
+}
+
+#panelPartes button.nota-verde-claro,
+#panelPartes button.nota-verde-claro:hover:not(:disabled) {
+  background: #66bb6a;
+  color: #fff;
+}
+
+#panelPartes button.nota-naranja,
+#panelPartes button.nota-naranja:hover:not(:disabled) {
+  background: #fb8c00;
+  color: #fff;
+}
+
+#panelPartes button.nota-roja,
+#panelPartes button.nota-roja:hover:not(:disabled) {
+  background: #e53935;
+  color: #fff;
+}
+
+#panelPartes button.nota-oro,
+#panelPartes button.nota-oro:hover:not(:disabled) {
+  background: linear-gradient(110deg, #c9961a 0%, #ffe27a 30%, #fff6c7 50%, #ffe27a 70%, #c9961a 100%);
+  background-size: 250% 100%;
+  color: #5a3d00;
+  font-weight: bold;
+}
+
+#panelPartes button[class*="nota-"]:hover:not(:disabled) {
+  filter: brightness(0.92);
+}
+/* ▒▒▒ INTERRUPTOR "GUARDAR FALLADAS" ▒▒▒ */
+.interruptor {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  background: #e1eadd;
+  border-radius: 8px;
+  font-size: 14px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.interruptor input {
+  display: none;
+}
+
+.interruptor .pista {
+  position: relative;
+  width: 40px;
+  height: 22px;
+  background: #b8c4b3;
+  border-radius: 999px;
+  transition: background 0.2s;
+}
+
+.interruptor .pista::after {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 16px;
+  height: 16px;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s;
+}
+
+.interruptor input:checked + .pista {
+  background: #2e7d4f;
+}
+
+.interruptor input:checked + .pista::after {
+  transform: translateX(18px);
+}
+
+body.en-examen #toggleFalladas {
+  display: none;
+}
+
+/* ▒▒▒ GALERÍA DE FALLOS ▒▒▒ */
+#overlayFallos {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 24px;
+  overflow-y: auto;
+}
+
+.fallos-panel {
+  background: #f1f5ef;
+  border-radius: 16px;
+  padding: 18px;
+  width: 100%;
+  max-width: 1100px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35);
+}
+
+.fallos-cabecera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 14px;
+}
+
+.fallos-cabecera h2 {
+  margin: 0;
+  font-size: 1.4rem;
+}
+
+.fallos-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+}
+
+.fallo-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.fallo-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+  background: #eee;
+  border-radius: 8px;
+}
+
+.fallo-cient {
+  margin-top: 6px;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 14px;
+}
+
+.fallo-comun {
+  font-size: 13px;
+  color: #555;
+}
+
+.fallos-vacio {
+  text-align: center;
+  padding: 30px 10px;
+  color: #555;
+}
+/* En modo examen, las filas de botones que quedan vacías no ocupan sitio */
+body.en-examen .grupo:not(:has(#modoExamen)) {
+  display: none;
+}
+/* ▒▒▒ BUSCADOR EN LA CABECERA, A LA IZQUIERDA DE LA RACHA ▒▒▒ */
+#stats {
+  align-items: center;
+}
+
+#stats #contenedor-buscador {
+  width: 300px;
+  padding: 4px 14px;
+  border-radius: 999px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+}
+
+#stats #contenedor-buscador:focus-within {
+  outline: 2px solid #2e7d4f;
+}
+
+#stats #contenedor-buscador #buscador {
+  border: none;
+  outline: none;
+  background: transparent;
+  padding: 6px 4px;
+}
+/* ▒▒▒ BOTÓN "EXAMEN GLOBAL" DESTACADO ▒▒▒ */
+#btnExamenTodo {
+  background: linear-gradient(135deg, #5bc0f8 0%, #2f7de1 100%);
+  color: #fff;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 10px 26px;
+  box-shadow: 0 2px 8px rgba(47, 125, 225, 0.35);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+#btnExamenTodo:hover:not(:disabled) {
+  background: linear-gradient(135deg, #7accfa 0%, #4690ec 100%);
+  transform: translateY(-2px);
+  box-shadow: 0 5px 12px rgba(47, 125, 225, 0.45);
+}
+
+#btnExamenTodo:active:not(:disabled) {
+  transform: translateY(0) scale(0.98);
+}
+/* ▒▒▒ BOTÓN HISTORIAL EN LA CABECERA ▒▒▒ */
+#btnHistorial {
+  background: #fff;
+  padding: 6px 16px;
+  border-radius: 999px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#btnHistorial:hover:not(:disabled) {
+  background: #eef3ec;
+}
+
+body.en-examen #btnHistorial {
+  display: none;
+}
+
+/* ▒▒▒ VENTANA DEL HISTORIAL ▒▒▒ */
+#overlayHistorial {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 24px;
+  overflow-y: auto;
+}
+
+.hist-panel {
+  background: #f1f5ef;
+  border-radius: 16px;
+  padding: 18px;
+  width: 100%;
+  max-width: 900px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.35);
+}
+
+.hist-cabecera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.hist-cabecera h2 {
+  margin: 0;
+  font-size: 1.3rem;
+}
+
+.hist-titulos {
+  display: grid;
+  gap: 8px;
+  padding: 0 12px;
+  margin-bottom: 6px;
+  font-size: 13px;
+  font-weight: bold;
+  color: #555;
+  text-align: center;
+}
+
+.hist-titulos span:first-child {
+  text-align: left;
+}
+
+.hist-fila {
+  display: grid;
+  align-items: center;
+  gap: 8px;
+  background: #fff;
+  border-radius: 12px;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hist-fecha {
+  text-align: left;
+  font-weight: bold;
+}
+
+.hist-media,
+.hist-parte {
+  text-align: center;
+  border-radius: 8px;
+  color: #fff;
+  font-weight: bold;
+  padding: 6px 0;
+}
+
+.hist-media {
+  font-size: 1.2rem;
+}
+
+.hist-media.nota-oro,
+.hist-parte.nota-oro {
+  color: #5a3d00;
+}
+
+.hist-vacio {
+  text-align: center;
+  padding: 30px 10px;
+  color: #555;
+}
+/* ▒▒▒ BOTÓN "MÁS FALLADAS" EN LA CABECERA ▒▒▒ */
+#btnMasFalladas {
+  background: #fff;
+  padding: 6px 16px;
+  border-radius: 999px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#btnMasFalladas:hover:not(:disabled) {
+  background: #eef3ec;
+}
+
+body.en-examen #btnMasFalladas {
+  display: none;
+}
+
+/* ▒▒▒ VENTANA DEL RANKING ▒▒▒ */
+#overlayMasFalladas {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 24px;
+  overflow-y: auto;
+}
+
+.rank-fila {
+  display: grid;
+  grid-template-columns: 34px 60px 1fr 90px 64px;
+  align-items: center;
+  gap: 10px;
+  background: #fff;
+  border-radius: 12px;
+  padding: 8px 12px;
+  margin-bottom: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.rank-puesto {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #2e7d4f;
+}
+
+.rank-fila img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  background: #eee;
+  border-radius: 8px;
+}
+
+.rank-nombres {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.rank-cient {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.rank-comun {
+  font-size: 13px;
+  color: #555;
+}
+
+.rank-cuenta {
+  font-size: 14px;
+  color: #444;
+}
+
+.rank-pct {
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 8px;
+  padding: 6px 0;
+}
+
+.rank-alta  { background: #e53935; }
+.rank-media { background: #fb8c00; }
+.rank-baja  { background: #66bb6a; }
+/* ▒▒▒ BOTONES DE LA VENTANA "MÁS FALLADAS" ▒▒▒ */
+.hist-acciones {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
+#btnExamenMasFalladas {
+  background: #2e7d4f;
+  color: #fff;
+  font-weight: bold;
+}
+
+#btnExamenMasFalladas:hover:not(:disabled) {
+  background: #25663f;
+}
