@@ -1,4 +1,5 @@
 let animalesPendientes = [];
+let avisoPerdonUsado = false; // si ya te avisé de "casi" en esta pregunta
 let animalesTotales = [];
 let animalesFiltrados = [];
 let actual = null;
@@ -53,6 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
       if (!shiftTimeout && !shiftInterval) {
         mostrarAnimal(); 
         shiftTimeout = setTimeout(() => {
+          if (modoExamen) return; // en examen no se repite al mantener la tecla
           shiftInterval = setInterval(() => {
             mostrarAnimal(); 
           }, 150);
@@ -91,6 +93,7 @@ function rebindTodosListeners() {
   document.getElementById("marcarDificil").addEventListener("click", toggleDificiles);
   document.getElementById("modoExamen").addEventListener("click", toggleExamen);
   document.getElementById("btnExamenTodo").addEventListener("click", crearExamenTodo);
+   document.getElementById("btnListaAleatoria").addEventListener("click", mostrarListaAleatoria);
   renderizarPanelPartes();
     document.getElementById("btnFallos").addEventListener("click", mostrarFallos);
   iniciarToggleFalladas();
@@ -304,7 +307,21 @@ function seleccionarRepaso(nivel) {
 }
 
 // ▒▒▒ MOSTRAR ANIMAL (AVANZAR) ▒▒▒
-function mostrarAnimal() {
+function mostrarAnimal(forzar) {
+  // PERDÓN POR UNA LETRA (solo en examen)
+  if (modoExamen && actual && forzar !== true && !avisoPerdonUsado) {
+    const cient = document.getElementById("idCientifico");
+    const escrito = cient ? cient.value.trim().toLowerCase() : "";
+    const correcto = actual.nombreCient.trim().toLowerCase();
+
+    if (escrito !== correcto && difiereEnUnaLetra(escrito, correcto)) {
+      avisoPerdonUsado = true; // solo se perdona una vez por pregunta
+      avisoCasiCorrecto();
+      return; // no avanza, te deja corregir
+    }
+  }
+  avisoPerdonUsado = false;
+
   clearInterval(timer); 
 
   if (modoExamen && actual) {
@@ -576,9 +593,9 @@ function iniciarTimer() {
   timer = setInterval(() => {
     tiempoRestante--;
     if(timerDiv) timerDiv.textContent = "Tiempo: " + tiempoRestante;
-    if (tiempoRestante <= 0) {
+      if (tiempoRestante <= 0) {
       clearInterval(timer);
-      mostrarAnimal();
+      mostrarAnimal(true);
     }
   }, 1000);
 }
@@ -832,7 +849,11 @@ function renderizarPanelPartes() {
 
     const n = notasPartes[i];
     if (n) {
-      b.classList.add(n.clase);
+      // el color se calcula con la nota, no con el color que se guardó
+      const valor = (typeof n.valor === "number")
+        ? n.valor
+        : parseFloat(String(n.nota).replace(",", "."));
+      b.classList.add(isNaN(valor) ? n.clase : claseDeNota(valor));
       b.title = "Última nota: " + n.nota + " / 10";
     }
 
@@ -932,7 +953,23 @@ function cargarImagenesMarcadas() {
   let hechas = 0;
   btn.disabled = true;
   btn.textContent = "Cargando 0 / " + lista.length;
+html += `
+<div class="lista-titulos">
+  <span>#</span>
+  <span>Nombre científico</span>
+  <span></span>
+  <span>Nombre común</span>
+</div>`;
 
+lista.forEach((e, i) => {
+  html += `
+  <div class="lista-fila">
+    <span class="lista-num">${i + 1}</span>
+    <span class="lista-cient">${e.nombreCient}</span>
+    <span class="lista-boton"><button class="btn-copiar" data-i="${i}">Copiar</button></span>
+    <span class="lista-comun">${e.nombreComun}</span>
+  </div>`;
+});
   lista.forEach(a => {
     const img = new Image();
     img.onload = img.onerror = () => {
@@ -1052,7 +1089,8 @@ function formatearNota(valor) {
 
 function claseDeNota(valor) {
   if (valor >= 10 - 1e-9) return "nota-oro";
-  if (valor > 9.8) return "nota-verde-oscuro";
+  if (valor >= 9.75) return "nota-plata";
+  if (valor > 9.5) return "nota-verde-oscuro";
   if (valor >= 9) return "nota-verde-claro";
   if (valor >= 8.5) return "nota-naranja";
   return "nota-roja";
@@ -1278,5 +1316,147 @@ function iniciarToggleFolio() {
   chk.checked = modoFolioActivo();
   chk.addEventListener("change", () => {
     localStorage.setItem('modoFolio', chk.checked ? 'si' : 'no');
+  });
+}
+// ▒▒▒ PERDÓN POR UNA LETRA ▒▒▒
+// Dice si dos textos se diferencian en UNA sola letra:
+// una letra cambiada, una que falta o una que sobra
+function difiereEnUnaLetra(a, b) {
+  if (a === b) return false;
+
+  const dif = a.length - b.length;
+  if (dif > 1 || dif < -1) return false;
+
+  const corta = a.length <= b.length ? a : b;
+  const larga = a.length <= b.length ? b : a;
+
+  // buscamos dónde empiezan a ser distintas
+  let i = 0;
+  while (i < corta.length && corta[i] === larga[i]) i++;
+
+  if (corta.length === larga.length) {
+    // misma longitud: tiene que haber una sola letra distinta
+    return corta.slice(i + 1) === larga.slice(i + 1);
+  }
+  // una letra de más o de menos
+  return corta.slice(i) === larga.slice(i + 1);
+}
+
+// El temblor y el destello en la caja del nombre científico
+function avisoCasiCorrecto() {
+  const input = document.getElementById("idCientifico");
+  if (!input) return;
+  input.classList.remove("casi");
+  void input.offsetWidth; // truco para poder repetir la animación
+  input.classList.add("casi");
+}
+// Copia un texto al portapapeles (con plan B por si el navegador no deja)
+function copiarTexto(texto) {
+  if (navigator.clipboard && window.isSecureContext) {
+    return navigator.clipboard.writeText(texto);
+  }
+  return new Promise((resolve, reject) => {
+    const ta = document.createElement("textarea");
+    ta.value = texto;
+    ta.style.position = "fixed";
+    ta.style.opacity = "0";
+    document.body.appendChild(ta);
+    ta.select();
+    const ok = document.execCommand("copy");
+    ta.remove();
+    ok ? resolve() : reject();
+  });
+}
+// ▒▒▒ LISTA DE 60 ESPECIES ALEATORIAS (para que un amigo busque fotos) ▒▒▒
+function mostrarListaAleatoria() {
+  if (modoExamen) return;
+  if (animalesTotales.length === 0) {
+    alert("Todavía no se han cargado las especies, espera un segundo y vuelve a probar.");
+    return;
+  }
+
+  const CANTIDAD = 60; // cambia este número si quieres otra cantidad
+
+  // una entrada por cada especie distinta
+  const especies = Object.values(construirMapaEspecies());
+
+  // las mezclamos al azar y nos quedamos con las primeras
+  for (let i = especies.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [especies[i], especies[j]] = [especies[j], especies[i]];
+  }
+  const lista = especies.slice(0, CANTIDAD);
+
+  // texto para copiar y pegar (por ejemplo en WhatsApp)
+  const texto = lista
+    .map((e, i) => (i + 1) + ". " + e.nombreCient + " (" + e.nombreComun + ")")
+    .join("\n");
+
+  const antiguo = document.getElementById("overlayLista");
+  if (antiguo) antiguo.remove();
+
+  const overlay = document.createElement("div");
+  overlay.id = "overlayLista";
+
+  let html = `<div class="hist-panel">
+    <div class="hist-cabecera">
+      <h2>🎲 Lista de ${lista.length} especies</h2>
+      <div class="hist-acciones">
+        <button id="btnCopiarLista">📋 Copiar</button>
+        <button id="btnOtraLista">🔄 Otra lista</button>
+        <button id="btnCerrarLista">Cerrar ✕</button>
+      </div>
+    </div>`;
+
+lista.forEach((e, i) => {
+  html += `
+  <div class="lista-fila">
+    <span class="lista-num">${i + 1}</span>
+    <span class="lista-cient">${e.nombreCient}</span>
+    <button class="btn-copiar" data-i="${i}">Copiar</button>
+    <span class="lista-comun">${e.nombreComun}</span>
+  </div>`;
+});
+  html += `</div>`;
+
+  overlay.innerHTML = html;
+  document.body.appendChild(overlay);
+
+  function cerrar() {
+    overlay.remove();
+    document.removeEventListener("keydown", alPulsarTecla);
+  }
+  function alPulsarTecla(e) {
+    if (e.key === "Escape") cerrar();
+  }
+
+  document.getElementById("btnCerrarLista").addEventListener("click", cerrar);
+  overlay.addEventListener("click", e => { if (e.target === overlay) cerrar(); });
+  document.addEventListener("keydown", alPulsarTecla);
+overlay.querySelectorAll(".btn-copiar").forEach(btn => {
+  btn.addEventListener("click", () => {
+    copiarTexto(lista[btn.dataset.i].nombreCient)
+      .then(() => {
+        btn.textContent = "✓ Copiado";
+        btn.classList.add("copiado");
+      })
+      .catch(() => alert("No se pudo copiar. Selecciona el texto a mano."));
+  });
+});
+  document.getElementById("btnOtraLista").addEventListener("click", () => {
+    cerrar();
+    mostrarListaAleatoria();
+  });
+
+  document.getElementById("btnCopiarLista").addEventListener("click", () => {
+    const btn = document.getElementById("btnCopiarLista");
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(texto).then(() => {
+        btn.textContent = "¡Copiada!";
+        setTimeout(() => { btn.textContent = "📋 Copiar"; }, 2000);
+      });
+    } else {
+      alert("Tu navegador no deja copiar desde aquí. Selecciona el texto a mano.");
+    }
   });
 }

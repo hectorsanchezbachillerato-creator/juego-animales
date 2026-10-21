@@ -390,7 +390,7 @@ th, td {
   color: #fff;
 }
 
-.nota-verde-oscuro { background: #1b5e20; }
+.nota-verde-oscuro { background: #7e57c2; }
 .nota-verde-claro  { background: #66bb6a; }
 .nota-naranja      { background: #fb8c00; }
 .nota-roja         { background: #e53935; }
@@ -412,7 +412,7 @@ th, td {
 /* ▒▒▒ BOTONES DE PARTES COLOREADOS SEGÚN LA NOTA ▒▒▒ */
 #panelPartes button.nota-verde-oscuro,
 #panelPartes button.nota-verde-oscuro:hover:not(:disabled) {
-  background: #1b5e20;
+  background: #7e57c2;
   color: #fff;
 }
 
@@ -826,4 +826,123 @@ body.en-examen #btnMasFalladas {
 
 #btnExamenMasFalladas:hover:not(:disabled) {
   background: #25663f;
+}
+/* ▒▒▒ AVISO "CASI": TEMBLOR Y DESTELLO SUAVE ▒▒▒ */
+#idCientifico.casi {
+  animation: temblor 0.35s ease-in-out;
+}
+
+@keyframes temblor {
+  0%, 100% { transform: translateX(0);    background-color: #fff; }
+  15%      { transform: translateX(-6px); background-color: #fff3bf; }
+  30%      { transform: translateX(6px);  background-color: #fff3bf; }
+  45%      { transform: translateX(-4px); background-color: #fff3bf; }
+  60%      { transform: translateX(4px);  background-color: #fff3bf; }
+  80%      { transform: translateX(-2px); background-color: #fff8d6; }
+}
+/* ▒▒▒ NOTA PLATA (de 9,8 a menos de 10) ▒▒▒ */
+.nota-plata {
+  color: #2f3a45;
+  background: linear-gradient(110deg, #8d97a3 0%, #e8edf2 30%, #ffffff 50%, #e8edf2 70%, #8d97a3 100%);
+  background-size: 250% 100%;
+  animation: brilloOro 3.5s linear infinite;
+  box-shadow: 0 0 12px rgba(140, 160, 185, 0.8), 0 0 26px rgba(140, 160, 185, 0.45);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.7);
+}
+
+/* Botones de las partes */
+#panelPartes button.nota-plata,
+#panelPartes button.nota-plata:hover:not(:disabled) {
+  background: linear-gradient(110deg, #8d97a3 0%, #e8edf2 30%, #ffffff 50%, #e8edf2 70%, #8d97a3 100%);
+  background-size: 250% 100%;
+  color: #2f3a45;
+  font-weight: bold;
+}
+
+/* Historial: texto oscuro para que se lea sobre la plata */
+.hist-media.nota-plata,
+.hist-parte.nota-plata {
+  color: #2f3a45;
+}
+/* ▒▒▒ LISTA DE 60 ESPECIES ALEATORIAS ▒▒▒ */
+#overlayLista {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 24px;
+  overflow-y: auto;
+}
+
+/* ▒▒▒ LISTA DE 60: COLUMNAS CLARAS ▒▒▒ */
+.lista-titulos,
+.lista-fila {
+  display: grid;
+  grid-template-columns: 44px minmax(0, 1.4fr) 110px minmax(0, 1fr);
+  align-items: center;
+  text-align: left;
+}
+
+.lista-titulos {
+  padding: 0 12px 6px 12px;
+  font-size: 13px;
+  font-weight: bold;
+  color: #555;
+}
+
+.lista-titulos span,
+.lista-fila > span {
+  padding: 0 10px;
+}
+
+.lista-fila {
+  background: #fff;
+  border-radius: 10px;
+  padding: 8px 12px;
+  margin-bottom: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* línea vertical entre columnas */
+.lista-fila > span + span,
+.lista-titulos span + span {
+  border-left: 1px solid #dfe8da;
+}
+
+.lista-num {
+  font-weight: bold;
+  color: #2e7d4f;
+  text-align: center;
+}
+
+.lista-cient {
+  font-weight: bold;
+  font-style: italic;
+  overflow-wrap: anywhere;
+}
+
+.lista-boton {
+  text-align: center;
+}
+
+.lista-comun {
+  font-size: 14px;
+  color: #555;
+  overflow-wrap: anywhere;
+}
+
+.btn-copiar {
+  width: 100%;
+  padding: 5px 8px;
+  font-size: 13px;
+}
+
+.btn-copiar.copiado,
+.btn-copiar.copiado:hover:not(:disabled) {
+  background: #2e7d4f;
+  color: #fff;
+  font-weight: bold;
 }
